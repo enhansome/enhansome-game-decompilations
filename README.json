@@ -1,0 +1,6507 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dr. Mario",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2021-11-27T16:56:21Z",
+            "owner": "Nostaljipi",
+            "repo": "dr-mario-disassembly",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⚠️ Battle City",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-07T11:17:31Z",
+            "owner": "vgrichina",
+            "repo": "battlecity",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "NES / Famicom"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pokémon Red",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-10T17:30:25Z",
+            "owner": "pret",
+            "repo": "pokered",
+            "stars": 4876
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon Yellow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-10T15:50:45Z",
+            "owner": "pret",
+            "repo": "pokeyellow",
+            "stars": 863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon Gold (SpaceWorld Demo)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-08T21:09:28Z",
+            "owner": "pret",
+            "repo": "pokegold-spaceworld",
+            "stars": 393
+          }
+        }
+      ],
+      "title": "GameBoy"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pokémon Crystal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-06T21:08:51Z",
+            "owner": "pret",
+            "repo": "pokecrystal",
+            "stars": 2489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon Gold",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-06T21:08:46Z",
+            "owner": "pret",
+            "repo": "pokegold",
+            "stars": 703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon TCG 1",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-12T18:15:19Z",
+            "owner": "pret",
+            "repo": "poketcg",
+            "stars": 325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon Pinball",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-01T17:41:12Z",
+            "owner": "pret",
+            "repo": "pokepinball",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon TCG 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-01T17:32:43Z",
+            "owner": "pret",
+            "repo": "poketcg2",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon Puzzle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T00:32:47Z",
+            "owner": "AngheloAlf",
+            "repo": "puzzleleague64",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Gameboy Colour"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pokémon Emerald",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-04T04:35:46Z",
+            "owner": "pret",
+            "repo": "pokeemerald",
+            "stars": 3376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon FireRed",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-04T03:21:32Z",
+            "owner": "pret",
+            "repo": "pokefirered",
+            "stars": 1546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon Ruby",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-09T00:01:39Z",
+            "owner": "pret",
+            "repo": "pokeruby",
+            "stars": 983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Legend of Zelda: Minish Cap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-08T17:33:28Z",
+            "owner": "zeldaret",
+            "repo": "tmc",
+            "stars": 875
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon Mystery Dungeon: Red Rescue Team",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-07T04:34:06Z",
+            "owner": "pret",
+            "repo": "pmd-red",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon Pinball Ruby & Sapphire",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-12T05:25:08Z",
+            "owner": "pret",
+            "repo": "pokepinballrs",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon Emerald (JP)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2021-10-08T10:54:37Z",
+            "owner": "pret",
+            "repo": "pokeemerald-jp",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Klonoa: Empire of Dreams",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T12:25:59Z",
+            "owner": "Dream-Atelier",
+            "repo": "kl-eod-decomp",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "GameBoy Advance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Legend of Zelda: Majora's Mask (Native Port)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-18T16:10:17Z",
+            "owner": "Zelda64Recomp",
+            "repo": "Zelda64Recomp",
+            "stars": 7180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Legend of Zelda: Ocarina of Time",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-05T16:32:30Z",
+            "owner": "zeldaret",
+            "repo": "oot",
+            "stars": 5473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Legend of Zelda: Majora's Mask",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T22:34:26Z",
+            "owner": "zeldaret",
+            "repo": "mm",
+            "stars": 1700
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animal Forest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-07T02:12:28Z",
+            "owner": "zeldaret",
+            "repo": "af",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon Stadium",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T19:24:51Z",
+            "owner": "pret",
+            "repo": "pokestadium",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon Snap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T01:12:54Z",
+            "owner": "ethteck",
+            "repo": "pokemonsnap",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon Stadium 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-10T15:49:57Z",
+            "owner": "pret",
+            "repo": "pokestadiumgs",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⚠️ Body Harvest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T04:12:14Z",
+            "owner": "jaytheham",
+            "repo": "body-harvest-decompilation",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "Nintendo 64"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Legend of Zelda: Twilight Princess",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-23T19:52:55Z",
+            "owner": "zeldaret",
+            "repo": "tp",
+            "stars": 1980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animal Crossing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-18T01:55:27Z",
+            "owner": "ACreTeam",
+            "repo": "ac-decomp",
+            "stars": 1333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Legend of Zelda: Wind Waker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T16:56:30Z",
+            "owner": "zeldaret",
+            "repo": "tww",
+            "stars": 905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animal Forest e+",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-22T01:24:36Z",
+            "owner": "ACreTeam",
+            "repo": "afe-decomp",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⚠️ Star Fox Adventures",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T09:03:16Z",
+            "owner": "zcanann",
+            "repo": "SFA-Decomp",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon XD: Gale of Darkness",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-24T19:19:09Z",
+            "owner": "TeamOrre",
+            "repo": "xd-decomp",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⚠️ The Sims 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-10T04:16:10Z",
+            "owner": "natebag",
+            "repo": "Sims2DECOMP",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Nintendo Gamecube"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pokémon HeartGold",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-11T01:49:46Z",
+            "owner": "pret",
+            "repo": "pokeheartgold",
+            "stars": 568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon Diamond",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-12-24T17:26:54Z",
+            "owner": "pret",
+            "repo": "pokediamond",
+            "stars": 512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon Platinum",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T22:03:20Z",
+            "owner": "pret",
+            "repo": "pokeplatinum",
+            "stars": 499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon Mystery Dungeon: Explorers of Sky",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-12T22:46:55Z",
+            "owner": "pret",
+            "repo": "pmd-sky",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phantom Hourglass",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-04T17:45:49Z",
+            "owner": "zeldaret",
+            "repo": "ph",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon Black",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-12-20T03:16:13Z",
+            "owner": "pokemodding",
+            "repo": "pokeblack",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dragon Quest IX",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-24T22:48:13Z",
+            "owner": "DQIX",
+            "repo": "dqix-decomp",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Legend of Zelda: Spirit Tracks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T17:20:39Z",
+            "owner": "Yanis002",
+            "repo": "st",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Nintendo DS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Legend of Zelda: Twilight Princess",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-23T19:52:55Z",
+            "owner": "zeldaret",
+            "repo": "tp",
+            "stars": 1980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Legend of Zelda: Skyward Sword",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-26T19:24:26Z",
+            "owner": "zeldaret",
+            "repo": "ss",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rock Band 3 (Wii)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-16T20:12:43Z",
+            "owner": "DarkRTA",
+            "repo": "rb3",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokepark Wii: Pikachu's Adventure",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T15:44:26Z",
+            "owner": "SephDB",
+            "repo": "pokepark-wii-decomp",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon Battle Revolution",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-10T18:18:00Z",
+            "owner": "bgsamm",
+            "repo": "pbr-dtk",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémon Rumble",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-24T19:53:28Z",
+            "owner": "KooShnoo",
+            "repo": "pokemon-rumble",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Nintendo Wii"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Legend of Zelda: Breath of The Wild",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T15:03:16Z",
+            "owner": "zeldaret",
+            "repo": "botw",
+            "stars": 2067
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lego City Undercover",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-20T05:09:26Z",
+            "owner": "Nintendocustom",
+            "repo": "Lego-City-Undercover-Decompilation",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Legend of Zelda: Link's Awakening",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-21T23:50:04Z",
+            "owner": "Owen-Splat",
+            "repo": "las-decomp",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Nintendo Switch"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sonic Unleashed",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-29T11:05:43Z",
+            "owner": "hedge-dev",
+            "repo": "UnleashedRecomp",
+            "stars": 4957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ace Combat 6: Fires of Liberation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T13:19:31Z",
+            "owner": "sal063",
+            "repo": "AC6_recomp",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Viva Pinata: Trouble In Paradise",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T13:10:37Z",
+            "owner": "SolarCookies",
+            "repo": "TiP-Recomp",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Banjo-Kazooie Nuts and Bolts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T20:57:08Z",
+            "owner": "masterspike52",
+            "repo": "reNut",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rock Band 3 (Xbox 360)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-16T17:49:39Z",
+            "owner": "ihatecompvir",
+            "repo": "band3_recomp",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dance Central 3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T20:41:56Z",
+            "owner": "rjkiv",
+            "repo": "dc3-decomp",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Halo 3 Delta",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-22T16:21:17Z",
+            "owner": "twist84",
+            "repo": "halo3_cache_release_recomp",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Destroy All Humans: Path of the Furon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T01:56:05Z",
+            "owner": "masterspike52",
+            "repo": "reDAHM",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guitar Hero 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-27T20:33:23Z",
+            "owner": "YoshiCrystal9",
+            "repo": "re-gh2",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crackdown 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T23:14:53Z",
+            "owner": "matty45",
+            "repo": "Crackdown2-Recomp",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crackdown",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-04T03:51:35Z",
+            "owner": "SkiddyToast",
+            "repo": "Crackdown",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic 06 Demo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2026-02-26T20:09:40Z",
+            "owner": "PranchaD",
+            "repo": "re-Sonic06Demo",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Test Drive Unlimited",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-17T01:13:58Z",
+            "owner": "testdriveupgrade",
+            "repo": "TDURE",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blue Dragon",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Xbox 360"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Uncategorised"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Diablo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-09-15T02:01:36Z",
+            "owner": "diasurgical",
+            "repo": "devilution",
+            "stars": 8989
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Mario 64",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-02-04T10:26:16Z",
+            "owner": "n64decomp",
+            "repo": "sm64",
+            "stars": 8716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Space Cadet Pinball",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-21T06:56:55Z",
+            "owner": "k4zmu2a",
+            "repo": "SpaceCadetPinball",
+            "stars": 4590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lego Island",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-26T20:03:17Z",
+            "owner": "isledecomp",
+            "repo": "isle",
+            "stars": 3450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wipeout",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T15:57:21Z",
+            "owner": "phoboslab",
+            "repo": "wipeout-rewrite",
+            "stars": 2948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paper Mario",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-21T04:25:55Z",
+            "owner": "pmret",
+            "repo": "papermario",
+            "stars": 1600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Driver 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-02T07:38:45Z",
+            "owner": "OpenDriver2",
+            "repo": "REDRIVER2",
+            "stars": 1322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Kart 64",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T03:27:39Z",
+            "owner": "n64decomp",
+            "repo": "mk64",
+            "stars": 1290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Carmageddon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T01:37:55Z",
+            "owner": "dethrace-labs",
+            "repo": "dethrace",
+            "stars": 1174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic the Hedgehog 1 & 2 (Mobile)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-19T18:19:16Z",
+            "owner": "RSDKModding",
+            "repo": "RSDKv4-Decompilation",
+            "stars": 1115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Castlevania: Symphony of the Night",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T02:15:48Z",
+            "owner": "Xeeynamo",
+            "repo": "sotn-decomp",
+            "stars": 1044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Smash Bros. Melee",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T22:43:22Z",
+            "owner": "doldecomp",
+            "repo": "melee",
+            "stars": 991
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tomb Raider I & II",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T21:39:50Z",
+            "owner": "LostArtefacts",
+            "repo": "TRX",
+            "stars": 964
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Mario Galaxy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T23:52:16Z",
+            "owner": "SMGCommunity",
+            "repo": "Petari",
+            "stars": 882
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Touhou (PC-98)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-03-16T22:58:36Z",
+            "owner": "nmlgc",
+            "repo": "ReC98",
+            "stars": 853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Party 4",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-04T03:18:46Z",
+            "owner": "mariopartyrd",
+            "repo": "marioparty4",
+            "stars": 823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Silent Hill",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T03:20:42Z",
+            "owner": "shdecompilations",
+            "repo": "silent-hill-decomp",
+            "stars": 823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic Mania",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T06:53:28Z",
+            "owner": "RSDKModding",
+            "repo": "Sonic-Mania-Decompilation",
+            "stars": 778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metal Gear Solid",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-04T09:02:45Z",
+            "owner": "FoxdieTeam",
+            "repo": "mgs_reversing",
+            "stars": 758
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic the Hedgehog CD (Mobile)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-12T08:05:42Z",
+            "owner": "RSDKModding",
+            "repo": "RSDKv3-Decompilation",
+            "stars": 693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic Advance 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-01T08:53:14Z",
+            "owner": "SAT-R",
+            "repo": "sa2",
+            "stars": 646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minecraft: Nintendo Switch Edition",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-15T01:24:32Z",
+            "owner": "GRAnimated",
+            "repo": "MinecraftLCE",
+            "stars": 597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Touhou 06: The Embodiment of Scarlet Devil",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T18:54:28Z",
+            "owner": "GensokyoClub",
+            "repo": "th06",
+            "stars": 528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Legend of Dragoon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T00:41:48Z",
+            "owner": "Legend-of-Dragoon-Modding",
+            "repo": "Severed-Chains",
+            "stars": 502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crash Team Racing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-05T11:20:07Z",
+            "owner": "CTR-tools",
+            "repo": "CTR-ModSDK",
+            "stars": 440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Kart Wii",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-09-16T19:12:37Z",
+            "owner": "snailspeed3",
+            "repo": "mkw",
+            "stars": 430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Diddy Kong Racing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-30T09:42:36Z",
+            "owner": "DavidSM64",
+            "repo": "Diddy-Kong-Racing",
+            "stars": 412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fallout 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-31T10:08:27Z",
+            "owner": "alexbatalov",
+            "repo": "fallout2-re",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Mario Odyssey",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T23:21:53Z",
+            "owner": "MonsterDruide1",
+            "repo": "OdysseyDecomp",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Duke Nukem II",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-04-13T09:18:09Z",
+            "owner": "lethal-guitar",
+            "repo": "Duke2Reconstructed",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pikmin 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-08T04:45:49Z",
+            "owner": "projectPiki",
+            "repo": "pikmin2",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deus Ex: Human Revolution",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-24T02:07:43Z",
+            "owner": "rrika",
+            "repo": "cdcEngineDXHR",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metroid Prime",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T23:58:00Z",
+            "owner": "PrimeDecomp",
+            "repo": "prime",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Mario Sunshine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T02:05:30Z",
+            "owner": "doldecomp",
+            "repo": "sms",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Resident Evil 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:24:51Z",
+            "owner": "OpenBiohazard2",
+            "repo": "OpenBiohazard2",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pikmin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T07:16:39Z",
+            "owner": "projectPiki",
+            "repo": "pikmin",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Duke Nukem: Zero Hour",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-06T10:14:35Z",
+            "owner": "Gillou68310",
+            "repo": "DukeNukemZeroHour",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Battle City",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-12T02:22:37Z",
+            "owner": "cyneprepou4uk",
+            "repo": "NES-Games-Disassembly",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Street Fighter III: 3rd Strike",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-03T13:13:31Z",
+            "owner": "crowded-street",
+            "repo": "3s-decomp",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conker's Bad Fur Day",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2026-05-10T08:30:55Z",
+            "owner": "mkst",
+            "repo": "conker",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic Runners",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-09-06T17:42:33Z",
+            "owner": "itsmattkc",
+            "repo": "RunnersDecomp",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doom 64",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-05-30T05:04:00Z",
+            "owner": "Erick194",
+            "repo": "DOOM64-RE",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sly Cooper and the Thievius Raccoonus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-02T17:36:01Z",
+            "owner": "TheOnlyZac",
+            "repo": "sly1",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kirby 64: The Crystal Shards",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-13T03:50:28Z",
+            "owner": "Kirby64Ret",
+            "repo": "kirby64",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Contra",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-06-07T19:15:59Z",
+            "owner": "vermiceli",
+            "repo": "nes-contra-us",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dinosaur Planet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T22:43:13Z",
+            "owner": "zestydevy",
+            "repo": "dinosaur-planet",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harvest Moon 64",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-02T04:52:51Z",
+            "owner": "harvestwhisperer",
+            "repo": "hm64-decomp",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Resident Evil - Code: Veronica X",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T19:27:39Z",
+            "owner": "AshfordFamily",
+            "repo": "recvx-decomp",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fire Emblem: The Sacred Stones",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-06-04T05:44:19Z",
+            "owner": "FireEmblemUniverse",
+            "repo": "fireemblem8u",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cave Story",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-12T18:10:29Z",
+            "owner": "gameblabla",
+            "repo": "CSE2",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wii Menu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T09:51:15Z",
+            "owner": "koopthekoopa",
+            "repo": "wii-ipl",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PaRappa The Rapper 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-26T12:05:11Z",
+            "owner": "parappadev",
+            "repo": "parappa2",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VIB Ribbon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-08-26T15:29:14Z",
+            "owner": "open-ribbon",
+            "repo": "open-ribbon",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snowboard Kids 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T16:22:02Z",
+            "owner": "cdlewis",
+            "repo": "snowboardkids2-decomp",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Kart: Double Dash!!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T23:22:21Z",
+            "owner": "doldecomp",
+            "repo": "mkdd",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Earthbound",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2024-07-22T20:22:03Z",
+            "owner": "Herringway",
+            "repo": "ebsrc",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Smash Bros.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T22:08:18Z",
+            "owner": "VetriTheRetri",
+            "repo": "ssb-decomp-re",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpongeBob SquarePants: Battle for Bikini Bottom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T17:26:16Z",
+            "owner": "bfbbdecomp",
+            "repo": "bfbb",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wii Sports",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-18T20:31:49Z",
+            "owner": "doldecomp",
+            "repo": "ogws",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doom PSX",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-05-30T04:58:59Z",
+            "owner": "Erick194",
+            "repo": "PSXDOOM-RE",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Panzer Dragoon Saga",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-02T18:19:40Z",
+            "owner": "yaz0r",
+            "repo": "Azel",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kirby & The Amazing Mirror",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T02:22:10Z",
+            "owner": "jiangzhengwenjz",
+            "repo": "katam",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spyro the Dragon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-07-14T15:31:00Z",
+            "owner": "TheMobyCollective",
+            "repo": "spyro-1",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Need for Speed: Most Wanted",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T21:54:03Z",
+            "owner": "dbalatoni13",
+            "repo": "nfsmw",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cosmo's Cosmic Adventure",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-10-23T18:45:48Z",
+            "owner": "smitelli",
+            "repo": "cosmore",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Banjo-Tooie",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-29T22:55:36Z",
+            "owner": "Mr-Wiseguy",
+            "repo": "banjo-tooie",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metroid: Zero Mission",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T00:34:58Z",
+            "owner": "metroidret",
+            "repo": "mzm",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vagrant Story",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T04:40:37Z",
+            "owner": "ser-pounce",
+            "repo": "rood-reverse",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paper Mario: The Thousand-Year Door",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-05T19:34:58Z",
+            "owner": "doldecomp",
+            "repo": "ttyd",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xenoblade",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-28T10:22:22Z",
+            "owner": "xbret",
+            "repo": "xenoblade",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Runescape (2003)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-16T22:48:40Z",
+            "owner": "2003scape",
+            "repo": "rsc-c",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UNDERTALE (Xbox One)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-09-04T19:07:17Z",
+            "owner": "kittibyte",
+            "repo": "UndertaleDecomp",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spider-Man",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-17T20:05:00Z",
+            "owner": "krystalgamer",
+            "repo": "spidey-decomp",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "New Super Mario Bros. Wii",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-02T20:11:42Z",
+            "owner": "NSMBW-Community",
+            "repo": "NSMBW-Decomp",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fatal Frame",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T16:05:19Z",
+            "owner": "Mikompilation",
+            "repo": "Himuro",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Test Drive Unlimited",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T01:58:02Z",
+            "owner": "opentestdriveunlimited",
+            "repo": "OpenTestDriveUnlimited",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Mario 3D Land",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-22T20:11:52Z",
+            "owner": "3dsdecomp",
+            "repo": "RedPepper",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic The Fighters",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-02-28T23:42:03Z",
+            "owner": "biggestsonicfan",
+            "repo": "stfdecomp",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wave Race 64",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-04-02T23:02:12Z",
+            "owner": "LLONSIT",
+            "repo": "Wave-Race-64",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Final Fantasy VII",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T19:08:40Z",
+            "owner": "Xeeynamo",
+            "repo": "ff7-decomp",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "F-Zero X",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T23:22:56Z",
+            "owner": "inspectredc",
+            "repo": "fzerox",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Silent Hill 3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T03:48:55Z",
+            "owner": "dreamingmoths",
+            "repo": "memory-of-alessa",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xenogears",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T13:33:06Z",
+            "owner": "ladysilverberg",
+            "repo": "xenogears-decomp",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kingdom Hearts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-11-04T13:28:26Z",
+            "owner": "ethteck",
+            "repo": "kh1",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Paper Mario",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T01:08:37Z",
+            "owner": "SeekyCt",
+            "repo": "spm-decomp",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crash Bandicoot 2: Cortex Strikes Back",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-09-30T20:19:05Z",
+            "owner": "ughman",
+            "repo": "c2c",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shadow of the Colossus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-02T09:24:05Z",
+            "owner": "Fantaskink",
+            "repo": "SOTC",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ocarina of Time (& Wii Virtual Console N64 Emulator)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-25T19:22:02Z",
+            "owner": "zeldaret",
+            "repo": "oot-vc",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grand Theft Auto 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-04T12:27:25Z",
+            "owner": "CriminalRETeam",
+            "repo": "gta2_re",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kirby Air Ride",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-02-26T16:38:42Z",
+            "owner": "doldecomp",
+            "repo": "kar",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pizza Tower",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-01-24T16:50:33Z",
+            "owner": "femloy",
+            "repo": "OpenTower",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Barnyard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-02T19:51:51Z",
+            "owner": "InfiniteC0re",
+            "repo": "OpenBarnyard",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Halo: Combat Evolved",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T17:39:31Z",
+            "owner": "punpckhdq",
+            "repo": "halo",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yoshi's Story",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-19T16:22:24Z",
+            "owner": "decompals",
+            "repo": "yoshis-story",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic Advance 3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T22:37:53Z",
+            "owner": "SAT-R",
+            "repo": "sa3",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zuma Deluxe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-06T01:14:05Z",
+            "owner": "alula",
+            "repo": "CircleShootApp",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic Advance",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2026-03-28T22:08:11Z",
+            "owner": "SAT-R",
+            "repo": "sa1",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Legacy of Kain: Soul Reaver",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-30T12:21:19Z",
+            "owner": "fmil95",
+            "repo": "soul-re",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dr. Mario 64",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-23T12:42:38Z",
+            "owner": "AngheloAlf",
+            "repo": "drmario64",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Party",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-28T16:57:50Z",
+            "owner": "mariopartyrd",
+            "repo": "marioparty",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hitman: Codename 47",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2026-07-29T08:15:47Z",
+            "owner": "0danny",
+            "repo": "re47",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Smash Bros. Brawl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-22T04:14:25Z",
+            "owner": "doldecomp",
+            "repo": "brawl",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xenogears (non-matching)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-22T18:36:33Z",
+            "owner": "yaz0r",
+            "repo": "Noah",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Donkey Kong Country 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2024-08-09T21:01:04Z",
+            "owner": "p4plus2",
+            "repo": "DKC2-disassembly",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mischief Makers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T19:07:21Z",
+            "owner": "Drahsid",
+            "repo": "mischief-makers",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkiFree",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-12-08T11:49:24Z",
+            "owner": "yuv422",
+            "repo": "skifree_decomp",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minecraft: Xbox 360 Edition",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-09-27T22:26:29Z",
+            "owner": "LCERD",
+            "repo": "Minecraft-Xbox-360-Decompilation",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Space Station Silicon Valley",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T20:18:46Z",
+            "owner": "mkst",
+            "repo": "sssv",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Party 3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T03:20:57Z",
+            "owner": "mariopartyrd",
+            "repo": "marioparty3",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MediEvil",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-23T00:55:07Z",
+            "owner": "MediEvilDecompilation",
+            "repo": "medievil-decomp",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bomberman Hero",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-24T15:15:46Z",
+            "owner": "Bomberhackers",
+            "repo": "bmhero",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metroid Prime 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-04T13:24:33Z",
+            "owner": "PrimeDecomp",
+            "repo": "echoes",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terraria",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-27T15:04:31Z",
+            "owner": "PPrism",
+            "repo": "TerrariaOGC",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Kart DS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-01-24T18:13:02Z",
+            "owner": "XorTroll",
+            "repo": "mkds-re",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chrono Cross",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-14T03:51:14Z",
+            "owner": "jdperos",
+            "repo": "chrono-cross-decomp",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metroid Fusion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T02:59:35Z",
+            "owner": "metroidret",
+            "repo": "mf",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Castlevania 64",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-28T11:53:43Z",
+            "owner": "k64ret",
+            "repo": "cv64",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frogger (1997)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-06-17T06:36:11Z",
+            "owner": "HighwayFrogs",
+            "repo": "frogger-psx",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Mario 3D World + Bowser's Fury",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-23T21:55:17Z",
+            "owner": "3DWCommunity",
+            "repo": "3dcomp",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Touhou 08: Imperishable Night",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T18:54:34Z",
+            "owner": "GensokyoClub",
+            "repo": "th08",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Black and White",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T00:59:01Z",
+            "owner": "openblack",
+            "repo": "bw1-decomp",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Party 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-26T19:41:03Z",
+            "owner": "mariopartyrd",
+            "repo": "marioparty2",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phoenix Wright: Ace Attorney",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-28T06:55:09Z",
+            "owner": "atasro2",
+            "repo": "pwaa1",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Buckshot Roulette",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GDScript",
+            "last_commit": "2025-05-12T12:44:20Z",
+            "owner": "uncreativeCultist",
+            "repo": "buckshot-decomp-public",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guitar Hero: Warriors of Rock",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HiveQL",
+            "last_commit": "2024-12-25T22:12:43Z",
+            "owner": "kernaltrap8",
+            "repo": "WoR-Plus",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Mario Galaxy 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-28T21:17:54Z",
+            "owner": "SMGCommunity",
+            "repo": "Garigari",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "New Super Mario Bros.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T17:13:26Z",
+            "owner": "NSMB-Decomp",
+            "repo": "nsmb",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic Adventure DX",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-01T04:03:08Z",
+            "owner": "doldecomp",
+            "repo": "sadx",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Angry Birds",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-05T22:38:14Z",
+            "owner": "jooapa",
+            "repo": "Angry_Birds_Decompilation",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "de Blob",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-31T20:26:43Z",
+            "owner": "AdventureT",
+            "repo": "OpenToshi",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kirby's Epic Yarn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-02T20:02:08Z",
+            "owner": "Swiftshine",
+            "repo": "key",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rhythm Heaven DS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-21T13:44:22Z",
+            "owner": "patataofcourse",
+            "repo": "rhgold",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Star Wars Episode 1: Racer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-19T19:00:23Z",
+            "owner": "tim-tim707",
+            "repo": "SW_RACER_RE",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jet Force Gemini",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T14:06:29Z",
+            "owner": "Ryan-Myers",
+            "repo": "Jet-Force-Gemini",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rocket: Robot on Wheels",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-01-15T20:41:57Z",
+            "owner": "RocketRet",
+            "repo": "Rocket-Robot-On-Wheels",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "New Super Mario Bros. U",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-02T14:30:35Z",
+            "owner": "aboood40091",
+            "repo": "red-pro2",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balloon Fight",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2018-10-21T20:40:28Z",
+            "owner": "LuigiBlood",
+            "repo": "balloonfight_dis",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlatOut 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-16T10:08:16Z",
+            "owner": "ZackWilde27",
+            "repo": "FlatOut-2-decomp",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Banjo-Kazooie: Grunty's Revenge",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-01-31T22:47:44Z",
+            "owner": "jellees",
+            "repo": "bkgr",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Megaman Zero 3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-07-24T10:59:56Z",
+            "owner": "mmzret",
+            "repo": "rmz3",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jurassic Park: Operation Genesis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-20T16:03:16Z",
+            "owner": "AdventureT",
+            "repo": "OpenJPOG",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Klonoa 2: Lunatea's Veil",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-03-07T20:12:16Z",
+            "owner": "entriphy",
+            "repo": "kl2_lv_decomp",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aidyn Chronicles",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-02T06:03:15Z",
+            "owner": "blackgamma7",
+            "repo": "Aidyn",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harvest Moon: Friends of Mineral Town",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-02-08T14:51:09Z",
+            "owner": "StanHash",
+            "repo": "fomt",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic Rush Adventure",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-28T10:48:27Z",
+            "owner": "RushRE",
+            "repo": "SonicRushAdventure-Decomp",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neon Genesis Evangelion 64",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-13T17:51:10Z",
+            "owner": "farisawan-2000",
+            "repo": "evangelion",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShortLine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T10:52:57Z",
+            "owner": "konovalov-aleks",
+            "repo": "reSL",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Luigi's Mansion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-11-09T05:14:57Z",
+            "owner": "Sage-of-Mirrors",
+            "repo": "zmansion",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Party 5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-30T00:36:04Z",
+            "owner": "mariopartyrd",
+            "repo": "marioparty5",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic the Hedgehog (J2ME)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-02-19T17:08:38Z",
+            "owner": "Iso-Kilo",
+            "repo": "Sonic-1-J2ME-Decompilation",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chibi-Robo!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T05:15:05Z",
+            "owner": "eavpsp",
+            "repo": "cbr_decomp",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Croc: Legend of the Gobbos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-03-31T15:10:42Z",
+            "owner": "Xeeynamo",
+            "repo": "croc",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Kart: Super Circuit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2024-10-30T11:03:13Z",
+            "owner": "jellees",
+            "repo": "mksc",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monster Hunter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T23:32:32Z",
+            "owner": "2Tie",
+            "repo": "mh1j",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario & Luigi: Superstar Saga",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-03-08T20:24:09Z",
+            "owner": "jellees",
+            "repo": "mlss",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bomberman 64",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-08T01:25:42Z",
+            "owner": "Bomberhackers",
+            "repo": "bm64",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dark Cloud",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-12T14:04:58Z",
+            "owner": "Adubbz",
+            "repo": "DCDecomp",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fire Emblem: The Blazing Blade",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-04-12T10:10:30Z",
+            "owner": "MokhaLeee",
+            "repo": "FireEmblem7J",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ty the Tasmanian Tiger",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-01T17:23:58Z",
+            "owner": "1superchip",
+            "repo": "ty-decomp",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Mario Strikers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T05:05:12Z",
+            "owner": "yannicksuter",
+            "repo": "smstrikers-decomp",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic Riders",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-02-06T17:57:39Z",
+            "owner": "doldecomp",
+            "repo": "sonicriders",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Digimon World 3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-04-13T14:34:07Z",
+            "owner": "markisha64",
+            "repo": "ddw3",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Battlefield 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-17T23:12:55Z",
+            "owner": "kiwidoggie",
+            "repo": "breadflowerdos",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tokyo Bus Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-27T02:27:42Z",
+            "owner": "lhsazevedo",
+            "repo": "tbg-decomp",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Party 7",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-03T00:36:08Z",
+            "owner": "mariopartyrd",
+            "repo": "marioparty7",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Halo Reach",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-31T02:37:18Z",
+            "owner": "ChimpsAtSea",
+            "repo": "Reach",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ratatouille",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T23:35:33Z",
+            "owner": "ZounaModding",
+            "repo": "RatDecomp",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AeroGauge",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-23T18:48:17Z",
+            "owner": "LLONSIT",
+            "repo": "AeroGauge",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Castlevania: Order of Ecclesia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-05-04T18:43:25Z",
+            "owner": "LagoLunatic",
+            "repo": "ooe",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Final Fantasy Crystal Chronicles",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-24T01:50:40Z",
+            "owner": "zcanann",
+            "repo": "FFCC-Decomp",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geometry Dash",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T04:10:07Z",
+            "owner": "aloaf812",
+            "repo": "GD",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mega Man X4",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-08-25T12:34:12Z",
+            "owner": "sozud",
+            "repo": "mmx4",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Donkey Kong",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2024-04-19T17:56:35Z",
+            "owner": "RussianManSMWC",
+            "repo": "Donkey-Kong-NES-Disassembly",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "F-Zero X (Expansion Kit)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-06T15:42:50Z",
+            "owner": "inspectredc",
+            "repo": "fzerox-expansion-kit",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FUEL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-14T21:27:10Z",
+            "owner": "widberg",
+            "repo": "FUELDecompilation",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gex 64: Enter the Gecko",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-27T03:17:00Z",
+            "owner": "MatBourgon",
+            "repo": "Gex64Decomp",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ico",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-08T12:54:46Z",
+            "owner": "RossyDoubleUnderscore",
+            "repo": "ICO-decomp",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mother 1+2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-08T05:23:30Z",
+            "owner": "Normmatt",
+            "repo": "m12",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Need for Speed: Underground",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-04T20:16:53Z",
+            "owner": "dbalatoni13",
+            "repo": "nfsug",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vandal Hearts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-09-17T10:16:26Z",
+            "owner": "shao113",
+            "repo": "vh",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Colin McRae Rally 2.0",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-25T01:51:58Z",
+            "owner": "CMR2Decomp",
+            "repo": "CMR2Decomp",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deltarune",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-10-17T21:25:19Z",
+            "owner": "TeamBlossomDevs",
+            "repo": "DeltaruneDecomp_beta",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Resident Evil - Code: Veronica",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-20T20:45:29Z",
+            "owner": "fmil95",
+            "repo": "recv-dc-decomp",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Turok 3: Shadow of Oblivion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2023-12-04T02:54:23Z",
+            "owner": "Drahsid",
+            "repo": "turok3",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Virtual Pro Wrestling 2: Ōdō Keishō",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-03-26T01:28:45Z",
+            "owner": "AKI-Club",
+            "repo": "vpw2",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Donkey Kong Country 1",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2021-11-21T17:10:40Z",
+            "owner": "Yoshifanatic1",
+            "repo": "Donkey-Kong-Country-1-Disassembly",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gauntlet Legends",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-30T07:19:45Z",
+            "owner": "Drahsid",
+            "repo": "gauntlet-legends",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Donkey Kong '94",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-03-16T02:12:00Z",
+            "owner": "CelestialAmber",
+            "repo": "DKGBDisasm",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Naruto: Gekitō Ninja Taisen! 4",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-08-10T18:52:05Z",
+            "owner": "doldecomp",
+            "repo": "gnt4",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The World Ends With You",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-07T22:18:21Z",
+            "owner": "Yotona",
+            "repo": "twewy",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tube",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-07T20:38:51Z",
+            "owner": "rep-stosw",
+            "repo": "tube64",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Party 6",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-23T01:39:19Z",
+            "owner": "mariopartyrd",
+            "repo": "marioparty6",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Party 8",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-01T01:15:07Z",
+            "owner": "mariopartyrd",
+            "repo": "marioparty8",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Party DS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-17T22:56:31Z",
+            "owner": "mariopartyrd",
+            "repo": "mariopartyDS",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harvest Moon: A Wonderful Life",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-11-22T11:52:44Z",
+            "owner": "ChrisNonyminus",
+            "repo": "hmawl",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Probotector/Super C",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-07-04T03:50:16Z",
+            "owner": "vermiceli",
+            "repo": "nes-super-c",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rhythm Heaven Fever",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-09T17:42:59Z",
+            "owner": "conhlee",
+            "repo": "rhf",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Samurai Vs Zombies",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-04T07:51:27Z",
+            "owner": "Decomp-And-Recomp",
+            "repo": "Samurai-Vs-Zombies",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Incredibles",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-01-18T17:01:38Z",
+            "owner": "seilc",
+            "repo": "incredibles",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yakuza",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-15T07:39:12Z",
+            "owner": "Hamzaxx370",
+            "repo": "Ogre-Decomp",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Castlevania: Aria of Sorrow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-02T03:01:52Z",
+            "owner": "testyourmine",
+            "repo": "cvaos",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monster Hunter Portable 2nd G",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-13T16:32:15Z",
+            "owner": "tclamb",
+            "repo": "mhp2g-decomp",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Superman 64",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2021-04-17T22:53:34Z",
+            "owner": "farisawan-2000",
+            "repo": "superman",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tomb Raider: Legend",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-12-24T18:52:39Z",
+            "owner": "TheIndra55",
+            "repo": "cdcEngine",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tomba!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-22T21:03:41Z",
+            "owner": "hansbonini",
+            "repo": "psx_tomba",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Golf",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-24T12:34:40Z",
+            "owner": "monde-lointain",
+            "repo": "mariogolf64",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The SpongeBob SquarePants Movie",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-15T22:51:35Z",
+            "owner": "bfbbdecomp",
+            "repo": "tssm",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Party 9",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-04-01T22:38:29Z",
+            "owner": "mariopartyrd",
+            "repo": "marioparty9",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Banjo-Kazooie (X360)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-07T21:40:55Z",
+            "owner": "banjo360",
+            "repo": "bk360",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ghosts And Graves",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-11-22T01:40:45Z",
+            "owner": "AnthonyBongers",
+            "repo": "GhostsAndGraves",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "New Play Control! Pikmin 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-31T06:05:55Z",
+            "owner": "projectPiki",
+            "repo": "pik2wii",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oregon Trail II",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-08-01T03:38:39Z",
+            "owner": "katstasaph",
+            "repo": "otii",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jumping Flash",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-09-04T11:32:07Z",
+            "owner": "NotExactlySiev",
+            "repo": "aloha",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic Lost World",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-04-15T05:56:46Z",
+            "owner": "Radfordhound",
+            "repo": "OpenLW",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burnout Paradise",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-15T20:05:56Z",
+            "owner": "BurnoutHints",
+            "repo": "b5-decomp",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Star Wars: Shadows of the Empire",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-02-10T19:39:16Z",
+            "owner": "EltaleLibrarian",
+            "repo": "SotE",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Duke Nukem 64",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-08-04T16:03:51Z",
+            "owner": "NBlood",
+            "repo": "Duke64-RE",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Star Ocean: Blue Sphere",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-10-08T13:21:20Z",
+            "owner": "animaone",
+            "repo": "star-ocean-blue-sphere-source-code",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lego Star Wars III: The Clone Wars",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-07T21:38:43Z",
+            "owner": "ThePlayerRolo",
+            "repo": "LegoCloneWarsWii",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phoenix Wright: Ace Attorney – Justice for All",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-07-12T21:03:49Z",
+            "owner": "atasro2",
+            "repo": "pwaa2",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Star Wars: Rogue Squadron",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-06T22:34:19Z",
+            "owner": "Tmcg2",
+            "repo": "rogue_squadron64",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Sims 2: Castaway",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-21T01:46:51Z",
+            "owner": "HaydnTrigg",
+            "repo": "Castaway",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twisted Metal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-07-05T22:38:09Z",
+            "owner": "abelbriggs1",
+            "repo": "tm1_decomp",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twisted Metal Black",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-21T21:11:59Z",
+            "owner": "abelbriggs1",
+            "repo": "tmb_decomp",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twisted Metal: Harbor City",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-30T10:38:15Z",
+            "owner": "jacobleeharris",
+            "repo": "tmhc",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Donkey Kong Country 3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2021-09-30T01:55:44Z",
+            "owner": "Yoshifanatic1",
+            "repo": "Donkey-Kong-Country-3-Disassembly",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hagi (GameCube & Wii emulator from Super Mario 3D All-Stars)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-10T18:33:27Z",
+            "owner": "GRAnimated",
+            "repo": "Hagi",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inazuma Eleven Strikers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-13T16:18:19Z",
+            "owner": "SwareJonge",
+            "repo": "IEStrikers",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Piglet's Big Game",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-05T07:27:12Z",
+            "owner": "tgsm",
+            "repo": "pbg",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quest 64",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-03T01:48:35Z",
+            "owner": "Rainchus",
+            "repo": "Quest64-Decomp",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Resident Evil: Dead Aim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-01T10:04:32Z",
+            "owner": "cakehonolulu",
+            "repo": "Bullseye",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Summon Night: Craft Sword Monogatari Hajimari no Ishi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2024-06-02T02:15:27Z",
+            "owner": "jiangzhengwenjz",
+            "repo": "csm3",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xenosaga Episode 1 - Der Wille zur Macht",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-08-18T23:34:18Z",
+            "owner": "SquareMan",
+            "repo": "xenosaga",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Superstar Baseball",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-12T19:53:33Z",
+            "owner": "roeming",
+            "repo": "mssb-dtk",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bugs Bunny: Lost in Time!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-04T20:48:33Z",
+            "owner": "quantumdude836",
+            "repo": "BugsDecomp",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Donald Land",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2018-12-19T00:47:25Z",
+            "owner": "brunovalads",
+            "repo": "donald-land",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dragon Ball Legends",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smali",
+            "last_commit": "2024-05-09T12:41:17Z",
+            "owner": "GodkuHacking",
+            "repo": "Dragon-Ball-Legends",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gauntlet Dark Legacy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T23:33:43Z",
+            "owner": "sabishii-bit",
+            "repo": "Gauntlet-Dark-Legacy-Decompilation",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lunar 2: Eternal Blue Complete",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-04-14T20:13:00Z",
+            "owner": "Zackmon",
+            "repo": "lunar2-psx-decomp",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSX",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-20T07:18:07Z",
+            "owner": "ssxdecomp",
+            "repo": "ssx",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSX 3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T12:32:09Z",
+            "owner": "ssxdecomp",
+            "repo": "ssx3",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paper Mario: Sticker Star",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-12-09T22:00:21Z",
+            "owner": "Darxoon",
+            "repo": "leaflitter",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic Riders: Zero Gravity",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2023-06-22T15:15:03Z",
+            "owner": "KidWizardOfTheWeb",
+            "repo": "SRZGDecomp",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bio Menace",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-12-27T13:57:58Z",
+            "owner": "lethal-guitar",
+            "repo": "BioMenaceDecomp",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bomberman 64: The Second Attack!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-04T14:28:40Z",
+            "owner": "Bomberhackers",
+            "repo": "bm64tsa",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fire Emblem: Shadow Dragon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T04:25:58Z",
+            "owner": "Eebit",
+            "repo": "fe11-us",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inazuma Eleven 3 - Sekai e no Chousen: The Ogre!!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-06T16:09:08Z",
+            "owner": "CacaBueno64",
+            "repo": "ie3ogres",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Real War",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-05-27T03:45:50Z",
+            "owner": "Francessco121",
+            "repo": "real-war-decomp",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bloons TD 5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-11-04T18:43:51Z",
+            "owner": "NKHook",
+            "repo": "BTD5-Decomp",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crash Bandicoot: The Wrath of Cortex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-05T10:10:08Z",
+            "owner": "calmsacibis995",
+            "repo": "crash-ps2",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glover",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-03-13T02:29:59Z",
+            "owner": "Rainchus",
+            "repo": "Glover",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kirby's Dream Collection - Special Edition",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-24T21:11:15Z",
+            "owner": "Swiftshine",
+            "repo": "kdc",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minecraft: Pocket Edition",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-11T08:46:50Z",
+            "owner": "BrentDaMage",
+            "repo": "mcpe-engine",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "New Play Control! Pikmin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-26T01:53:08Z",
+            "owner": "projectPiki",
+            "repo": "pik1wii",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wario Land 4",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-07-17T12:14:04Z",
+            "owner": "lilDavid",
+            "repo": "warioland4",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Tennis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-05T03:12:11Z",
+            "owner": "DellM-79",
+            "repo": "MarioTennisN64",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alice in Wonderland",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-30T08:39:36Z",
+            "owner": "Alice-2010",
+            "repo": "Decomp",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brave Frontier",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-05-30T07:56:58Z",
+            "owner": "decompfrontier",
+            "repo": "client",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evo's Space Adventures",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-10T10:03:16Z",
+            "owner": "mkst",
+            "repo": "esa",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlatOut: Ultimate Carnage",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-22T00:31:34Z",
+            "owner": "ZackWilde27",
+            "repo": "FlatOut-UC-Decomp",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rabbids Go Home",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-03T16:42:46Z",
+            "owner": "rghdecomp",
+            "repo": "rgh",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ratchet & Clank (PS2 Quadrilogy)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2025-05-15T00:28:01Z",
+            "owner": "VELD-Dev",
+            "repo": "Pyrocitor",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Splatoon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-18T18:50:37Z",
+            "owner": "Dexx-io",
+            "repo": "Splatoon-Decomp",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Mario 64 DS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Assembly",
+            "last_commit": "2024-03-15T20:36:55Z",
+            "owner": "matty45",
+            "repo": "sm64ds-decomp",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dog's Life",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T02:09:52Z",
+            "owner": "IWILLCRAFT-M0d",
+            "repo": "dogcomp",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doshin the Giant",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-02T05:48:56Z",
+            "owner": "break-core",
+            "repo": "doshin-gc",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guilty Gear X Plus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-27T23:56:58Z",
+            "owner": "WistfulHopes",
+            "repo": "ggx",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LSD: Dream Emulator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-09-13T15:54:30Z",
+            "owner": "FirecatFG",
+            "repo": "lsddecomp",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Okami HD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-12-27T22:13:29Z",
+            "owner": "Shintensu",
+            "repo": "OkamiHD-Decomp",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario & Luigi: Partners in Time",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-16T20:51:06Z",
+            "owner": "Rainchus",
+            "repo": "PartnersInTime-Decomp",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bakugan: Defenders of the Core",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-03-09T10:54:50Z",
+            "owner": "Vawlpe",
+            "repo": "BakuganDotC-decomp",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chameleon Twist",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-31T16:45:42Z",
+            "owner": "chameleonTwistRet",
+            "repo": "chameleonTwistv1.0-JP",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LEGO Batman: The Videogame",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-08T05:37:22Z",
+            "owner": "mariopossamato",
+            "repo": "LEGO-Batman",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mafia: The City of Lost Heaven",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-03-03T08:20:59Z",
+            "owner": "Marvisak",
+            "repo": "mafia-re",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnderTale Yellow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-08-27T02:57:25Z",
+            "owner": "burnedpopcorn",
+            "repo": "UnderTale-Yellow-Decompilation",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ys VI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-28T15:09:28Z",
+            "owner": "GrantBenR",
+            "repo": "YsViDecomp",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blast Corps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-23T11:51:26Z",
+            "owner": "SlaveOfIDO",
+            "repo": "blastcorps",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cuphead",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GLSL",
+            "last_commit": "2025-07-16T14:43:43Z",
+            "owner": "jmxamongusmodder",
+            "repo": "cuphead-decomp",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Custom Robo GX",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-06-01T01:12:43Z",
+            "owner": "pizdex",
+            "repo": "robogx",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mystical Ninja Starring Goemon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-28T12:27:21Z",
+            "owner": "klorfmorf",
+            "repo": "mnsg",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skies of Arcadia Legends",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-07T13:11:28Z",
+            "owner": "Rainchus",
+            "repo": "SkiesOfArcadiaLegends",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Urbz: Sims in the City",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-12T17:27:45Z",
+            "owner": "SimsAdvanceRet",
+            "repo": "UrbzGBADecomp",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yoshi's Woolly World",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-01-04T19:05:15Z",
+            "owner": "Swiftshine",
+            "repo": "yww",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dragon Warrior Monsters",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-02-02T08:40:18Z",
+            "owner": "NiyaDev",
+            "repo": "DWM",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lego Racers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-14T09:55:33Z",
+            "owner": "marijnvdwerf",
+            "repo": "lego-racers",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plants vs Zombies GOTY",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-21T12:59:25Z",
+            "owner": "Bamcane",
+            "repo": "re-plants-vs-zombies",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shadowgate 64",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-05-18T04:34:48Z",
+            "owner": "Rainchus",
+            "repo": "ShadowGate64",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Summoner: A Goddess Reborn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-09T01:44:45Z",
+            "owner": "Charlese2",
+            "repo": "sgr",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Virtual Pool 64",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-10-29T20:49:44Z",
+            "owner": "LLONSIT",
+            "repo": "VirtualPool64",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advance Wars 2: Black Hole Rising",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-06-11T00:05:54Z",
+            "owner": "Eebit",
+            "repo": "aw2bhr",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aironauts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-09-12T03:41:22Z",
+            "owner": "bismurphy",
+            "repo": "Aironauts-decomp",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alphabet Park Adventure",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-22T21:55:21Z",
+            "owner": "unspDecomp",
+            "repo": "abcParkDecomp",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Big Brain Academy: Wii Degree",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-11T14:17:06Z",
+            "owner": "vabold",
+            "repo": "bba-wd",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crash Tag Team Racing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-25T10:57:51Z",
+            "owner": "bluisblu",
+            "repo": "cttr",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Digimon World",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-10-09T23:07:07Z",
+            "owner": "solidheron",
+            "repo": "Digimon_World_1_decompolation",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doraemon: Nobita to Mittsu no Seireiseki",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-31T06:00:25Z",
+            "owner": "adipocira",
+            "repo": "doraemon1",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Earthbound Beginnings",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-09-24T19:51:25Z",
+            "owner": "GrasonHumphrey",
+            "repo": "Earthbound-Zero-Decomp",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Happy Wheels",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ActionScript",
+            "last_commit": "2025-07-27T21:19:26Z",
+            "owner": "Afterflash",
+            "repo": "HappyWheels",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Homeland",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-03-14T07:51:13Z",
+            "owner": "BttrDrgn",
+            "repo": "homeland",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lego Creator Knights Kingdom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-06T21:39:05Z",
+            "owner": "DavidGrice",
+            "repo": "knightskingdom",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pop'N Music",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-08T05:57:53Z",
+            "owner": "Erizur",
+            "repo": "slpm86183",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSX Tricky",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-03T02:32:15Z",
+            "owner": "ssxdecomp",
+            "repo": "ssxdvd",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The New Tetris",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2025-01-23T03:15:03Z",
+            "owner": "KiritoDv",
+            "repo": "tnt",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WCW/nWo Thunder",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2025-04-07T19:49:36Z",
+            "owner": "martinbean",
+            "repo": "thunder",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wonder Project J2: Josette of the Corlo Forest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-15T15:47:34Z",
+            "owner": "LLONSIT-glitch",
+            "repo": "wonder",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nintendo Puzzle Collection: Dr. Mario 64",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T22:21:50Z",
+            "owner": "NewGBAXL",
+            "repo": "drmario64-gc",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cut The Rope",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-22T16:13:43Z",
+            "owner": "Bingies24",
+            "repo": "cuttherope-dx",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Diamond Rush",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-14T00:21:43Z",
+            "owner": "palaceswitcher",
+            "repo": "Diamond-Rush-Decomp",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eCrew Development Program (McDonald's Training Game)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-02T23:27:03Z",
+            "owner": "imavie",
+            "repo": "ecdpdecomp",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lego Battles",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-20T16:00:13Z",
+            "owner": "LiruJ",
+            "repo": "Lego-Battles-Decomp",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mortal Kombat: Deadly Alliance",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-06-10T04:27:57Z",
+            "owner": "cScarletter",
+            "repo": "MK-3D-Era-Decompilation",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nocturne",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-11T05:57:55Z",
+            "owner": "NearlyTRex",
+            "repo": "NocturneDecomp",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Soulcalibur II",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-08T19:22:08Z",
+            "owner": "Soulcalibur-II-Research-Group",
+            "repo": "scII_re",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-03T23:33:51Z",
+            "owner": "Skate-Modding-Team",
+            "repo": "Skate-Decompilation-Project",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Sims 2 (GBA)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-12T17:29:28Z",
+            "owner": "SimsAdvanceRet",
+            "repo": "S2GBADecomp",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Sims: Bustin' Out",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-12T17:25:07Z",
+            "owner": "SimsAdvanceRet",
+            "repo": "BustinOutGBADecomp",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wario World",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-08-28T05:27:05Z",
+            "owner": "sabishii-bit",
+            "repo": "wwdcmp",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Captain Toad: Treasure Tracker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-09-21T23:32:24Z",
+            "owner": "Moddimation",
+            "repo": "KinokoDecomp-S",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amplitude",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-19T05:45:36Z",
+            "owner": "ieee802dot11ac",
+            "repo": "amp",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Dreams",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-08T01:08:36Z",
+            "owner": "forestbelton",
+            "repo": "azure",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chameleon Twist 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-18T00:30:44Z",
+            "owner": "chameleonTwistRet",
+            "repo": "chameleonTwist2v1.0-JP",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go Vacation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2025-07-24T10:26:17Z",
+            "owner": "Moddimation",
+            "repo": "GoVacation-Decompilation",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ridge Racer 64",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Linker Script",
+            "last_commit": "2025-07-26T05:29:21Z",
+            "owner": "jvicu2001",
+            "repo": "rr64-decomp",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Soul Blazer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-04-01T06:05:03Z",
+            "owner": "hellow554",
+            "repo": "RustyBlazer",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skylanders Cloud Patrol",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-22T01:28:24Z",
+            "owner": "spyrosadventure",
+            "repo": "cloud-patrol-decomp",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic the Hedgehog 4 - Episode 1 (Windows Phone)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-31T19:45:52Z",
+            "owner": "fr3dsp",
+            "repo": "Sonic4Ep1-Decomp",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic Generations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-17T00:09:47Z",
+            "owner": "Luigi587",
+            "repo": "GenerationsDecomp",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Costume Quest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-18T21:38:28Z",
+            "owner": "Costume-Quest-Modding",
+            "repo": "CostumeQuest-Decomp",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dark Rift",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-23T05:40:34Z",
+            "owner": "Unnunu",
+            "repo": "darkrift",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Donkey Kong Country Returns",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-15T14:53:07Z",
+            "owner": "Wexos",
+            "repo": "DKCR-Decompilation",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dragon Ball Z: Budokai 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-08T00:30:51Z",
+            "owner": "TotallyNotMichael-GH",
+            "repo": "dbz2",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "F-Zero AX",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-27T22:59:52Z",
+            "owner": "TheInfiniteLegend",
+            "repo": "f-0-ax",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Final Fantasy IV (3D Remake)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-08-10T04:18:05Z",
+            "owner": "GlitchedDeveloper",
+            "repo": "Babil-Decompilation-Project",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gunmetal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-12-27T14:07:02Z",
+            "owner": "dingusdev",
+            "repo": "gunmetal-decomp",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "I Spy Spooky Mansion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-30T23:41:19Z",
+            "owner": "AM7999",
+            "repo": "ISpy-SM-Decomp",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Idle Office Tycoon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-06-01T14:04:48Z",
+            "owner": "Avenze",
+            "repo": "ios_reverse_engineering",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Princess Maker 4",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-30T15:36:21Z",
+            "owner": "Yanis002",
+            "repo": "pm4",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stronghold (1993)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-08-15T17:58:14Z",
+            "owner": "NancySadkov",
+            "repo": "dest",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Italian Job",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-20T09:59:13Z",
+            "owner": "dashr9230",
+            "repo": "Caper",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Treasure Planet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-21T23:38:28Z",
+            "owner": "Colt-Zero",
+            "repo": "Thousand-Worlds",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Teaches Typing 3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GDScript",
+            "last_commit": "2025-10-29T03:21:31Z",
+            "owner": "EliasFever",
+            "repo": "MarioTeachesTyping3Decomp",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Air Traffic Chaos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-12T13:01:24Z",
+            "owner": "sasja-san",
+            "repo": "atc",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Armored Unit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-06T09:09:01Z",
+            "owner": "Normmatt",
+            "repo": "unarmoredunit",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blasterball Revolution 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-16T00:30:56Z",
+            "owner": "KoboDev",
+            "repo": "BBR2Decompile",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DOMA Days",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ren'Py",
+            "last_commit": "2025-11-07T21:36:23Z",
+            "owner": "iestyn129",
+            "repo": "DOMADays",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flappy Bird",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-28T07:17:15Z",
+            "owner": "fr3dsp",
+            "repo": "FlappyBird-Decomp",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ford Racing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-30T19:54:45Z",
+            "owner": "dashr9230",
+            "repo": "Gt2",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fortune Street",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-09-17T06:58:23Z",
+            "owner": "FortuneStreetModding",
+            "repo": "boom-street-decomp",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jazz Jackrabbit 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-09T10:45:54Z",
+            "owner": "Mustafa1177",
+            "repo": "jazzjackrabbit2-decompiled",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Onegai Monsters",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-20T16:02:24Z",
+            "owner": "Ryan-Myers",
+            "repo": "onegaimonsters",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rumble Fighter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-12T04:38:28Z",
+            "owner": "Primitheus",
+            "repo": "rumbledecomp",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Lord of the Rings: Return of the King",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-11T22:27:01Z",
+            "owner": "crimsonmagick",
+            "repo": "lotr-rotk",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WCW Nitro",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-28T23:38:08Z",
+            "owner": "martinbean",
+            "repo": "nitro",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Sport Mix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-07T16:32:47Z",
+            "owner": "EltyDev",
+            "repo": "MSM-decomp",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic the Hedgehog (DIDJ)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-18T17:25:32Z",
+            "owner": "ArchiverXP",
+            "repo": "sncdecomp",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ancient Empires",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-07-24T22:54:47Z",
+            "owner": "Atomk",
+            "repo": "ancient-empires-1-decompilation",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bounce",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-09-22T23:15:00Z",
+            "owner": "misterjdrg",
+            "repo": "Bouncer",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Creatures 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-29T12:00:32Z",
+            "owner": "xylolfrei",
+            "repo": "CREATURES-II-DECOMPILATION-PROJECT",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Defenders & Dragons",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-04T13:14:04Z",
+            "owner": "Lindarychwalski",
+            "repo": "Defenders-Dragons",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fate EXTELLA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-02T23:41:17Z",
+            "owner": "bIue9076r",
+            "repo": "fate-extella-decompilation",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Freedom Fighters",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-12T05:04:35Z",
+            "owner": "andresj-sanchez",
+            "repo": "frfi-decomp",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Granny",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2026-05-15T17:54:51Z",
+            "owner": "scd5dev",
+            "repo": "GrannyDecompilationLegacy",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mixels Rush",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-07T13:35:22Z",
+            "owner": "Nugetinc",
+            "repo": "MixelsRushDecompilation",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On The Run: The Getaway",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-13T01:26:09Z",
+            "owner": "caramelcupcakes842",
+            "repo": "On-The-Run-The-Getaway",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Radio Helicopter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-05-12T11:08:52Z",
+            "owner": "Bsquo",
+            "repo": "pcopter_wii",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpongeBob Moves In!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-30T08:12:30Z",
+            "owner": "Juanen100",
+            "repo": "SBMI-Decomp",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terminator Salvation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-07-22T01:01:19Z",
+            "owner": "connieprice",
+            "repo": "Terminator-Salvation-Lua",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tokimeki Memorial: Forever With You",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-17T00:27:53Z",
+            "owner": "CelestialAmber",
+            "repo": "tokimemo",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "World of Goo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-01-21T15:18:35Z",
+            "owner": "Fancy2209",
+            "repo": "wog-wiiware",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Age of Speed 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-11T00:21:14Z",
+            "owner": "Llamaware",
+            "repo": "age-of-speed2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amazing Island",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-15T21:25:21Z",
+            "owner": "EltaleLibrarian",
+            "repo": "Amazing",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Are You Smarter Than a 5th Grader: Make the Grade",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-08-26T19:13:27Z",
+            "owner": "Gmon20",
+            "repo": "makethedecomp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chernobyl Neighbor. Clown Gang",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-25T01:29:51Z",
+            "owner": "smolkrieger",
+            "repo": "nuclear-neighbor",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chiki's Chase",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smali",
+            "last_commit": "2025-07-03T23:31:41Z",
+            "owner": "gays-studio",
+            "repo": "ChikisChaseAPK",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dr. Brain Action Reaction",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "UnrealScript",
+            "last_commit": "2025-04-02T19:10:48Z",
+            "owner": "SirHenricus",
+            "repo": "DrBrainActionReaction_PackageDecomp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drakan: The Ancients' Gates",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-25T23:58:45Z",
+            "owner": "cScarletter",
+            "repo": "Drakan-The-Ancient-Gates-Decompilation-",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Five Nights At Freddy's",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-28T07:57:37Z",
+            "owner": "fr3dsp",
+            "repo": "FNaF-Decomp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Five Nights At Freddy's 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-28T15:41:40Z",
+            "owner": "fr3dsp",
+            "repo": "FNaF-2-Decomp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Green Farm 3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-05-01T05:43:33Z",
+            "owner": "SmithGoll",
+            "repo": "Greenier-Farm-3-Decomp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Johnny Herbert's Grand Prix Championship 1998",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-07-06T16:36:08Z",
+            "owner": "danvratil",
+            "repo": "jhgpc98decomp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lock's Quest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-07T21:12:41Z",
+            "owner": "redraincatching",
+            "repo": "locksmith",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On The Run 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-13T22:29:29Z",
+            "owner": "caramelcupcakes842",
+            "repo": "On-The-Run-2-Decomp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On The Run Vegas",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-13T22:30:52Z",
+            "owner": "caramelcupcakes842",
+            "repo": "On-The-Run-Vegas-Decomp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taiko No Tatsujin Wii Ketteiban",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-01T17:12:08Z",
+            "owner": "CalebPancake",
+            "repo": "Taiko-No-Tatsujin-Wii-Ketteiban",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Impossible Game",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-28T07:16:35Z",
+            "owner": "fr3dsp",
+            "repo": "TheImpossibleGame-Decomp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Journeyman Project Turbo!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T16:23:44Z",
+            "owner": "disinvite",
+            "repo": "jman-decomp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TwinBee PARADISE in Donburi Shima",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-08-28T20:18:02Z",
+            "owner": "Jhuyghue",
+            "repo": "donburi-decomp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wario Land: Shake It!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-01T16:28:00Z",
+            "owner": "Swiftshine",
+            "repo": "wlsi",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fatal Frame 2",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Hopmon",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Kirby's Return To Dreamland",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Legend of Legaia",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Metal Gear Solid 2",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Rock Band 3 (Nintendo DS)",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Snowboard Kids",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Star Fox 64",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Star Fox Adventures",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Star Wars DroidWorks",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Subway Surfers",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Super Monkey Ball",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Temple Run",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "WCW/nWo Revenge",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Yu-Gi-Oh! Reshef of Destruction",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "This section is for works in progress for categorisation."
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:07:33.678Z",
+    "original_repository": "CharlotteCross1998/awesome-game-decompilations",
+    "original_repository_sha": "432836bc8b293f3b96e21c52d1f7d5e7fec9ec34",
+    "enhanced_repository": "enhansome/enhansome-game-decompilations",
+    "enhanced_repository_description": null,
+    "title": "awesome-game-decompilations with stars"
+  }
+}
