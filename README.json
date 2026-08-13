@@ -28,7 +28,7 @@
             "last_commit": "2026-05-07T11:17:31Z",
             "owner": "vgrichina",
             "repo": "battlecity",
-            "stars": 5
+            "stars": 6
           }
         }
       ],
@@ -48,7 +48,7 @@
             "last_commit": "2026-08-10T17:30:25Z",
             "owner": "pret",
             "repo": "pokered",
-            "stars": 4876
+            "stars": 4877
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-06T21:08:51Z",
             "owner": "pret",
             "repo": "pokecrystal",
-            "stars": 2489
+            "stars": 2490
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-04T04:35:46Z",
             "owner": "pret",
             "repo": "pokeemerald",
-            "stars": 3376
+            "stars": 3378
           }
         },
         {
@@ -200,7 +200,7 @@
             "last_commit": "2026-08-04T03:21:32Z",
             "owner": "pret",
             "repo": "pokefirered",
-            "stars": 1546
+            "stars": 1549
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-02-08T17:33:28Z",
             "owner": "zeldaret",
             "repo": "tmc",
-            "stars": 875
+            "stars": 876
           }
         },
         {
@@ -304,7 +304,7 @@
             "last_commit": "2026-05-18T16:10:17Z",
             "owner": "Zelda64Recomp",
             "repo": "Zelda64Recomp",
-            "stars": 7180
+            "stars": 7181
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-05T16:32:30Z",
             "owner": "zeldaret",
             "repo": "oot",
-            "stars": 5473
+            "stars": 5474
           }
         },
         {
@@ -357,10 +357,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-09T19:24:51Z",
+            "last_commit": "2026-08-13T17:49:30Z",
             "owner": "pret",
             "repo": "pokestadium",
-            "stars": 196
+            "stars": 197
           }
         },
         {
@@ -371,7 +371,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-08T01:12:54Z",
+            "last_commit": "2026-08-13T16:57:29Z",
             "owner": "ethteck",
             "repo": "pokemonsnap",
             "stars": 98
@@ -399,7 +399,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T04:12:14Z",
+            "last_commit": "2026-08-13T04:16:36Z",
             "owner": "jaytheham",
             "repo": "body-harvest-decompilation",
             "stars": 37
@@ -422,7 +422,7 @@
             "last_commit": "2026-06-23T19:52:55Z",
             "owner": "zeldaret",
             "repo": "tp",
-            "stars": 1980
+            "stars": 1984
           }
         },
         {
@@ -447,10 +447,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T16:56:30Z",
+            "last_commit": "2026-08-13T18:23:44Z",
             "owner": "zeldaret",
             "repo": "tww",
-            "stars": 905
+            "stars": 908
           }
         },
         {
@@ -475,7 +475,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T09:03:16Z",
+            "last_commit": "2026-08-13T10:30:14Z",
             "owner": "zcanann",
             "repo": "SFA-Decomp",
             "stars": 28
@@ -526,7 +526,7 @@
             "last_commit": "2026-08-11T01:49:46Z",
             "owner": "pret",
             "repo": "pokeheartgold",
-            "stars": 568
+            "stars": 570
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2025-12-24T17:26:54Z",
             "owner": "pret",
             "repo": "pokediamond",
-            "stars": 512
+            "stars": 513
           }
         },
         {
@@ -554,7 +554,7 @@
             "last_commit": "2026-08-12T22:03:20Z",
             "owner": "pret",
             "repo": "pokeplatinum",
-            "stars": 499
+            "stars": 501
           }
         },
         {
@@ -568,7 +568,7 @@
             "last_commit": "2026-08-12T22:46:55Z",
             "owner": "pret",
             "repo": "pmd-sky",
-            "stars": 126
+            "stars": 127
           }
         },
         {
@@ -621,7 +621,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-09T17:20:39Z",
+            "last_commit": "2026-08-13T15:19:52Z",
             "owner": "Yanis002",
             "repo": "st",
             "stars": 6
@@ -644,7 +644,7 @@
             "last_commit": "2026-06-23T19:52:55Z",
             "owner": "zeldaret",
             "repo": "tp",
-            "stars": 1980
+            "stars": 1984
           }
         },
         {
@@ -734,7 +734,7 @@
             "last_commit": "2026-08-11T15:03:16Z",
             "owner": "zeldaret",
             "repo": "botw",
-            "stars": 2067
+            "stars": 2068
           }
         },
         {
@@ -782,7 +782,7 @@
             "last_commit": "2026-06-29T11:05:43Z",
             "owner": "hedge-dev",
             "repo": "UnleashedRecomp",
-            "stars": 4957
+            "stars": 4956
           }
         },
         {
@@ -796,7 +796,7 @@
             "last_commit": "2026-08-12T13:19:31Z",
             "owner": "sal063",
             "repo": "AC6_recomp",
-            "stars": 278
+            "stars": 281
           }
         },
         {
@@ -894,7 +894,7 @@
             "last_commit": "2026-02-27T20:33:23Z",
             "owner": "YoshiCrystal9",
             "repo": "re-gh2",
-            "stars": 21
+            "stars": 22
           }
         },
         {
@@ -995,7 +995,7 @@
             "last_commit": "2024-02-04T10:26:16Z",
             "owner": "n64decomp",
             "repo": "sm64",
-            "stars": 8716
+            "stars": 8717
           }
         },
         {
@@ -1023,7 +1023,7 @@
             "last_commit": "2026-07-26T20:03:17Z",
             "owner": "isledecomp",
             "repo": "isle",
-            "stars": 3450
+            "stars": 3452
           }
         },
         {
@@ -1065,7 +1065,7 @@
             "last_commit": "2026-07-02T07:38:45Z",
             "owner": "OpenDriver2",
             "repo": "REDRIVER2",
-            "stars": 1322
+            "stars": 1323
           }
         },
         {
@@ -1093,7 +1093,7 @@
             "last_commit": "2026-08-13T01:37:55Z",
             "owner": "dethrace-labs",
             "repo": "dethrace",
-            "stars": 1174
+            "stars": 1176
           }
         },
         {
@@ -1118,7 +1118,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T02:15:48Z",
+            "last_commit": "2026-08-13T09:01:10Z",
             "owner": "Xeeynamo",
             "repo": "sotn-decomp",
             "stars": 1044
@@ -1132,10 +1132,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T22:43:22Z",
+            "last_commit": "2026-08-13T16:05:29Z",
             "owner": "doldecomp",
             "repo": "melee",
-            "stars": 991
+            "stars": 992
           }
         },
         {
@@ -1146,7 +1146,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T21:39:50Z",
+            "last_commit": "2026-08-13T19:43:49Z",
             "owner": "LostArtefacts",
             "repo": "TRX",
             "stars": 964
@@ -1160,10 +1160,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T23:52:16Z",
+            "last_commit": "2026-08-13T15:55:44Z",
             "owner": "SMGCommunity",
             "repo": "Petari",
-            "stars": 882
+            "stars": 884
           }
         },
         {
@@ -1191,7 +1191,7 @@
             "last_commit": "2026-06-04T03:18:46Z",
             "owner": "mariopartyrd",
             "repo": "marioparty4",
-            "stars": 823
+            "stars": 824
           }
         },
         {
@@ -1202,10 +1202,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T03:20:42Z",
+            "last_commit": "2026-08-13T04:39:44Z",
             "owner": "shdecompilations",
             "repo": "silent-hill-decomp",
-            "stars": 823
+            "stars": 824
           }
         },
         {
@@ -1233,7 +1233,7 @@
             "last_commit": "2026-08-04T09:02:45Z",
             "owner": "FoxdieTeam",
             "repo": "mgs_reversing",
-            "stars": 758
+            "stars": 759
           }
         },
         {
@@ -1289,7 +1289,7 @@
             "last_commit": "2026-08-10T18:54:28Z",
             "owner": "GensokyoClub",
             "repo": "th06",
-            "stars": 528
+            "stars": 529
           }
         },
         {
@@ -1426,10 +1426,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T23:58:00Z",
+            "last_commit": "2026-08-13T04:21:00Z",
             "owner": "PrimeDecomp",
             "repo": "prime",
-            "stars": 290
+            "stars": 291
           }
         },
         {
@@ -1513,7 +1513,7 @@
             "last_commit": "2026-04-03T13:13:31Z",
             "owner": "crowded-street",
             "repo": "3s-decomp",
-            "stars": 266
+            "stars": 267
           }
         },
         {
@@ -1541,7 +1541,7 @@
             "last_commit": "2023-09-06T17:42:33Z",
             "owner": "itsmattkc",
             "repo": "RunnersDecomp",
-            "stars": 235
+            "stars": 236
           }
         },
         {
@@ -1580,7 +1580,7 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-08-13T03:50:28Z",
+            "last_commit": "2026-08-13T13:50:17Z",
             "owner": "Kirby64Ret",
             "repo": "kirby64",
             "stars": 227
@@ -1667,7 +1667,7 @@
             "last_commit": "2026-03-12T18:10:29Z",
             "owner": "gameblabla",
             "repo": "CSE2",
-            "stars": 194
+            "stars": 195
           }
         },
         {
@@ -1709,7 +1709,7 @@
             "last_commit": "2025-08-26T15:29:14Z",
             "owner": "open-ribbon",
             "repo": "open-ribbon",
-            "stars": 185
+            "stars": 186
           }
         },
         {
@@ -1849,7 +1849,7 @@
             "last_commit": "2026-07-14T15:31:00Z",
             "owner": "TheMobyCollective",
             "repo": "spyro-1",
-            "stars": 150
+            "stars": 151
           }
         },
         {
@@ -1916,7 +1916,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T04:40:37Z",
+            "last_commit": "2026-08-13T06:30:20Z",
             "owner": "ser-pounce",
             "repo": "rood-reverse",
             "stars": 130
@@ -1986,7 +1986,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-17T20:05:00Z",
+            "last_commit": "2026-08-13T16:45:55Z",
             "owner": "krystalgamer",
             "repo": "spidey-decomp",
             "stars": 118
@@ -2031,7 +2031,7 @@
             "last_commit": "2026-08-13T01:58:02Z",
             "owner": "opentestdriveunlimited",
             "repo": "OpenTestDriveUnlimited",
-            "stars": 105
+            "stars": 106
           }
         },
         {
@@ -2064,6 +2064,20 @@
         },
         {
           "node_type": "item",
+          "title": "Final Fantasy VII",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T19:23:32Z",
+            "owner": "Xeeynamo",
+            "repo": "ff7-decomp",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Wave Race 64",
           "description": null,
           "children": [],
@@ -2074,20 +2088,6 @@
             "owner": "LLONSIT",
             "repo": "Wave-Race-64",
             "stars": 102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Final Fantasy VII",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-11T19:08:40Z",
-            "owner": "Xeeynamo",
-            "repo": "ff7-decomp",
-            "stars": 100
           }
         },
         {
@@ -2126,7 +2126,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T13:33:06Z",
+            "last_commit": "2026-08-13T16:54:10Z",
             "owner": "ladysilverberg",
             "repo": "xenogears-decomp",
             "stars": 94
@@ -2140,7 +2140,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2024-11-04T13:28:26Z",
+            "last_commit": "2026-08-13T16:06:02Z",
             "owner": "ethteck",
             "repo": "kh1",
             "stars": 93
@@ -2154,7 +2154,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-09T01:08:37Z",
+            "last_commit": "2026-08-13T12:36:28Z",
             "owner": "SeekyCt",
             "repo": "spm-decomp",
             "stars": 91
@@ -2294,7 +2294,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T22:37:53Z",
+            "last_commit": "2026-08-13T17:36:16Z",
             "owner": "SAT-R",
             "repo": "sa3",
             "stars": 78
@@ -2400,6 +2400,20 @@
         },
         {
           "node_type": "item",
+          "title": "Mischief Makers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T08:24:11Z",
+            "owner": "Drahsid",
+            "repo": "mischief-makers",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Xenogears (non-matching)",
           "description": null,
           "children": [],
@@ -2423,20 +2437,6 @@
             "last_commit": "2024-08-09T21:01:04Z",
             "owner": "p4plus2",
             "repo": "DKC2-disassembly",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mischief Makers",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-11T19:07:21Z",
-            "owner": "Drahsid",
-            "repo": "mischief-makers",
             "stars": 68
           }
         },
@@ -2490,7 +2490,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T03:20:57Z",
+            "last_commit": "2026-08-13T17:52:47Z",
             "owner": "mariopartyrd",
             "repo": "marioparty3",
             "stars": 63
@@ -2647,7 +2647,7 @@
             "last_commit": "2026-08-10T18:54:34Z",
             "owner": "GensokyoClub",
             "repo": "th08",
-            "stars": 53
+            "stars": 54
           }
         },
         {
@@ -2857,7 +2857,7 @@
             "last_commit": "2023-01-15T20:41:57Z",
             "owner": "RocketRet",
             "repo": "Rocket-Robot-On-Wheels",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -3204,7 +3204,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T05:05:12Z",
+            "last_commit": "2026-08-13T19:39:16Z",
             "owner": "yannicksuter",
             "repo": "smstrikers-decomp",
             "stars": 32
@@ -3358,7 +3358,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T04:10:07Z",
+            "last_commit": "2026-08-13T06:09:26Z",
             "owner": "aloaf812",
             "repo": "GD",
             "stars": 29
@@ -4024,6 +4024,20 @@
         },
         {
           "node_type": "item",
+          "title": "Twisted Metal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-07-05T22:38:09Z",
+            "owner": "abelbriggs1",
+            "repo": "tm1_decomp",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Lego Star Wars III: The Clone Wars",
           "description": null,
           "children": [],
@@ -4075,20 +4089,6 @@
             "last_commit": "2026-01-21T01:46:51Z",
             "owner": "HaydnTrigg",
             "repo": "Castaway",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Twisted Metal",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-07-05T22:38:09Z",
-            "owner": "abelbriggs1",
-            "repo": "tm1_decomp",
             "stars": 16
           }
         },
@@ -4296,7 +4296,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T23:33:43Z",
+            "last_commit": "2026-08-13T19:53:20Z",
             "owner": "sabishii-bit",
             "repo": "Gauntlet-Dark-Legacy-Decompilation",
             "stars": 14
@@ -4408,7 +4408,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-08T04:25:58Z",
+            "last_commit": "2026-08-13T07:25:32Z",
             "owner": "Eebit",
             "repo": "fe11-us",
             "stars": 13
@@ -5332,7 +5332,7 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-08-11T05:57:55Z",
+            "last_commit": "2026-08-13T05:12:52Z",
             "owner": "NearlyTRex",
             "repo": "NocturneDecomp",
             "stars": 5
@@ -5522,6 +5522,20 @@
         },
         {
           "node_type": "item",
+          "title": "The Italian Job",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-20T09:59:13Z",
+            "owner": "dashr9230",
+            "repo": "Caper",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Sonic the Hedgehog 4 - Episode 1 (Windows Phone)",
           "description": null,
           "children": [],
@@ -5699,20 +5713,6 @@
             "last_commit": "2024-08-15T17:58:14Z",
             "owner": "NancySadkov",
             "repo": "dest",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "The Italian Job",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-20T09:59:13Z",
-            "owner": "dashr9230",
-            "repo": "Caper",
             "stars": 3
           }
         },
@@ -6088,7 +6088,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-07-30T08:12:30Z",
+            "last_commit": "2026-08-13T09:24:38Z",
             "owner": "Juanen100",
             "repo": "SBMI-Decomp",
             "stars": 1
@@ -6497,7 +6497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:07:33.678Z",
+    "last_updated": "2026-08-13T19:54:30.754Z",
     "original_repository": "CharlotteCross1998/awesome-game-decompilations",
     "original_repository_sha": "432836bc8b293f3b96e21c52d1f7d5e7fec9ec34",
     "enhanced_repository": "enhansome/enhansome-game-decompilations",
