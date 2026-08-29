@@ -18,7 +18,8 @@
                 "owner": "Nostaljipi",
                 "repo": "dr-mario-disassembly",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "vgrichina",
                 "repo": "battlecity",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             }
           ],
           "description": null,
@@ -54,8 +56,9 @@
                 "last_commit": "2026-08-27T22:16:48Z",
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4895
-              }
+                "stars": 4894
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -69,8 +72,9 @@
                 "last_commit": "2026-08-27T22:34:09Z",
                 "owner": "pret",
                 "repo": "pokeyellow",
-                "stars": 868
-              }
+                "stars": 870
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "pret",
                 "repo": "pokegold-spaceworld",
                 "stars": 393
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             }
           ],
           "description": null,
@@ -103,11 +108,12 @@
                 "archived": false,
                 "id": 4058868,
                 "language": "Assembly",
-                "last_commit": "2026-08-13T21:57:49Z",
+                "last_commit": "2026-08-28T22:06:49Z",
                 "owner": "pret",
                 "repo": "pokecrystal",
                 "stars": 2494
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -122,7 +128,8 @@
                 "owner": "pret",
                 "repo": "pokegold",
                 "stars": 710
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -137,7 +144,8 @@
                 "owner": "pret",
                 "repo": "poketcg",
                 "stars": 324
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "pret",
                 "repo": "pokepinball",
                 "stars": 197
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "pret",
                 "repo": "poketcg2",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -178,11 +188,12 @@
                 "archived": false,
                 "id": 610957587,
                 "language": "C",
-                "last_commit": "2026-08-26T01:22:46Z",
+                "last_commit": "2026-08-28T12:24:57Z",
                 "owner": "AngheloAlf",
                 "repo": "puzzleleague64",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             }
           ],
           "description": null,
@@ -203,8 +214,9 @@
                 "last_commit": "2026-08-26T10:44:36Z",
                 "owner": "pret",
                 "repo": "pokeemerald",
-                "stars": 3408
-              }
+                "stars": 3411
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -219,7 +231,8 @@
                 "owner": "pret",
                 "repo": "pokefirered",
                 "stars": 1575
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "pret",
                 "repo": "pokeruby",
                 "stars": 984
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -248,8 +262,9 @@
                 "last_commit": "2026-02-08T17:33:28Z",
                 "owner": "zeldaret",
                 "repo": "tmc",
-                "stars": 883
-              }
+                "stars": 884
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -264,7 +279,8 @@
                 "owner": "pret",
                 "repo": "pmd-red",
                 "stars": 278
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -279,7 +295,8 @@
                 "owner": "pret",
                 "repo": "pokepinballrs",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -294,7 +311,8 @@
                 "owner": "pret",
                 "repo": "pokeemerald-jp",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -309,7 +327,8 @@
                 "owner": "Dream-Atelier",
                 "repo": "kl-eod-decomp",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             }
           ],
           "description": null,
@@ -330,8 +349,9 @@
                 "last_commit": "2026-08-17T21:52:25Z",
                 "owner": "Zelda64Recomp",
                 "repo": "Zelda64Recomp",
-                "stars": 7209
-              }
+                "stars": 7210
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -345,8 +365,9 @@
                 "last_commit": "2026-08-19T12:04:50Z",
                 "owner": "zeldaret",
                 "repo": "oot",
-                "stars": 5487
-              }
+                "stars": 5490
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -357,11 +378,12 @@
                 "archived": false,
                 "id": 247875852,
                 "language": "C",
-                "last_commit": "2026-08-27T00:15:37Z",
+                "last_commit": "2026-08-28T11:39:11Z",
                 "owner": "zeldaret",
                 "repo": "mm",
-                "stars": 1710
-              }
+                "stars": 1714
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -375,8 +397,9 @@
                 "last_commit": "2026-08-16T17:56:24Z",
                 "owner": "zeldaret",
                 "repo": "af",
-                "stars": 289
-              }
+                "stars": 291
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -391,7 +414,8 @@
                 "owner": "pret",
                 "repo": "pokestadium",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -402,11 +426,12 @@
                 "archived": false,
                 "id": 275165286,
                 "language": "C",
-                "last_commit": "2026-08-24T04:25:04Z",
+                "last_commit": "2026-08-29T01:12:50Z",
                 "owner": "ethteck",
                 "repo": "pokemonsnap",
-                "stars": 99
-              }
+                "stars": 100
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -421,7 +446,8 @@
                 "owner": "pret",
                 "repo": "pokestadiumgs",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -432,11 +458,12 @@
                 "archived": false,
                 "id": 276809202,
                 "language": "C",
-                "last_commit": "2026-08-27T12:39:57Z",
+                "last_commit": "2026-08-28T14:13:14Z",
                 "owner": "jaytheham",
                 "repo": "body-harvest-decompilation",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             }
           ],
           "description": null,
@@ -457,8 +484,9 @@
                 "last_commit": "2026-06-23T19:52:55Z",
                 "owner": "zeldaret",
                 "repo": "tp",
-                "stars": 2002
-              }
+                "stars": 2005
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -472,8 +500,9 @@
                 "last_commit": "2026-07-18T01:55:27Z",
                 "owner": "ACreTeam",
                 "repo": "ac-decomp",
-                "stars": 1346
-              }
+                "stars": 1348
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -484,11 +513,12 @@
                 "archived": false,
                 "id": 689343905,
                 "language": "C++",
-                "last_commit": "2026-08-27T18:48:31Z",
+                "last_commit": "2026-08-29T00:43:02Z",
                 "owner": "zeldaret",
                 "repo": "tww",
-                "stars": 929
-              }
+                "stars": 931
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -503,7 +533,8 @@
                 "owner": "ACreTeam",
                 "repo": "afe-decomp",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -518,7 +549,8 @@
                 "owner": "zcanann",
                 "repo": "SFA-Decomp",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -533,7 +565,8 @@
                 "owner": "TeamOrre",
                 "repo": "xd-decomp",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -548,7 +581,8 @@
                 "owner": "natebag",
                 "repo": "Sims2DECOMP",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             }
           ],
           "description": null,
@@ -570,7 +604,8 @@
                 "owner": "pret",
                 "repo": "pokeheartgold",
                 "stars": 575
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -585,7 +620,8 @@
                 "owner": "pret",
                 "repo": "pokeplatinum",
                 "stars": 520
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -600,7 +636,8 @@
                 "owner": "pret",
                 "repo": "pokediamond",
                 "stars": 517
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -615,7 +652,8 @@
                 "owner": "pret",
                 "repo": "pmd-sky",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -630,7 +668,8 @@
                 "owner": "zeldaret",
                 "repo": "ph",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -645,7 +684,8 @@
                 "owner": "squiddonaut",
                 "repo": "pokeblack",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -659,8 +699,9 @@
                 "last_commit": "2026-08-26T19:27:00Z",
                 "owner": "DQIX",
                 "repo": "dqix-decomp",
-                "stars": 37
-              }
+                "stars": 38
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -675,7 +716,8 @@
                 "owner": "Yanis002",
                 "repo": "st",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             }
           ],
           "description": null,
@@ -696,8 +738,9 @@
                 "last_commit": "2026-06-23T19:52:55Z",
                 "owner": "zeldaret",
                 "repo": "tp",
-                "stars": 2002
-              }
+                "stars": 2005
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -712,7 +755,8 @@
                 "owner": "zeldaret",
                 "repo": "ss",
                 "stars": 156
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -727,7 +771,8 @@
                 "owner": "DarkRTA",
                 "repo": "rb3",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -738,11 +783,12 @@
                 "archived": false,
                 "id": 964100992,
                 "language": "C",
-                "last_commit": "2026-08-27T15:59:42Z",
+                "last_commit": "2026-08-28T22:04:11Z",
                 "owner": "SephDB",
                 "repo": "pokepark-wii-decomp",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -757,7 +803,8 @@
                 "owner": "bgsamm",
                 "repo": "pbr-dtk",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -772,7 +819,8 @@
                 "owner": "KooShnoo",
                 "repo": "pokemon-rumble",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             }
           ],
           "description": null,
@@ -794,7 +842,8 @@
                 "owner": "zeldaret",
                 "repo": "oot3d",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             }
           ],
           "description": null,
@@ -815,8 +864,9 @@
                 "last_commit": "2026-08-19T19:32:38Z",
                 "owner": "zeldaret",
                 "repo": "botw",
-                "stars": 2087
-              }
+                "stars": 2088
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -831,7 +881,8 @@
                 "owner": "Nintendocustom",
                 "repo": "Lego-City-Undercover-Decompilation",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -846,7 +897,8 @@
                 "owner": "Owen-Splat",
                 "repo": "las-decomp",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             }
           ],
           "description": null,
@@ -867,8 +919,9 @@
                 "last_commit": "2026-06-29T11:05:43Z",
                 "owner": "hedge-dev",
                 "repo": "UnleashedRecomp",
-                "stars": 4997
-              }
+                "stars": 5000
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -882,8 +935,25 @@
                 "last_commit": "2026-08-22T15:52:26Z",
                 "owner": "sal063",
                 "repo": "AC6_recomp",
-                "stars": 419
-              }
+                "stars": 420
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Blue Dragon",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1152398510,
+                "language": "C++",
+                "last_commit": "2026-08-28T20:58:04Z",
+                "owner": "zolaware",
+                "repo": "reblue",
+                "stars": 235
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -894,11 +964,12 @@
                 "archived": false,
                 "id": 1181687250,
                 "language": "C++",
-                "last_commit": "2026-08-21T22:34:34Z",
+                "last_commit": "2026-08-28T23:02:08Z",
                 "owner": "SolarCookies",
                 "repo": "TiP-Recomp",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -913,7 +984,8 @@
                 "owner": "masterspike52",
                 "repo": "reNut",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -928,7 +1000,8 @@
                 "owner": "ihatecompvir",
                 "repo": "band3_recomp",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -943,7 +1016,8 @@
                 "owner": "rjkiv",
                 "repo": "dc3-decomp",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -957,8 +1031,9 @@
                 "last_commit": "2026-06-22T16:21:17Z",
                 "owner": "twist84",
                 "repo": "halo3_cache_release_recomp",
-                "stars": 27
-              }
+                "stars": 26
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -973,7 +1048,8 @@
                 "owner": "YoshiCrystal9",
                 "repo": "re-gh2",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -988,7 +1064,8 @@
                 "owner": "masterspike52",
                 "repo": "reDAHM",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -1003,7 +1080,8 @@
                 "owner": "matty45",
                 "repo": "Crackdown2-Recomp",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -1018,7 +1096,8 @@
                 "owner": "SkiddyToast",
                 "repo": "Crackdown",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -1033,7 +1112,8 @@
                 "owner": "PranchaD",
                 "repo": "re-Sonic06Demo",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             },
             {
               "node_type": "item",
@@ -1048,7 +1128,8 @@
                 "owner": "testdriveupgrade",
                 "repo": "TDURE",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
             }
           ],
           "description": null,
@@ -1071,8 +1152,9 @@
                     "last_commit": "2025-09-15T02:01:36Z",
                     "owner": "diasurgical",
                     "repo": "devilution",
-                    "stars": 8996
-                  }
+                    "stars": 8997
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1086,8 +1168,9 @@
                     "last_commit": "2024-02-04T10:26:16Z",
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8738
-                  }
+                    "stars": 8741
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1101,8 +1184,9 @@
                     "last_commit": "2024-08-21T06:56:55Z",
                     "owner": "k4zmu2a",
                     "repo": "SpaceCadetPinball",
-                    "stars": 4634
-                  }
+                    "stars": 4636
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1116,8 +1200,9 @@
                     "last_commit": "2026-08-15T22:14:04Z",
                     "owner": "isledecomp",
                     "repo": "isle",
-                    "stars": 3462
-                  }
+                    "stars": 3464
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1131,8 +1216,9 @@
                     "last_commit": "2026-08-09T15:57:21Z",
                     "owner": "phoboslab",
                     "repo": "wipeout-rewrite",
-                    "stars": 2953
-                  }
+                    "stars": 2954
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1146,8 +1232,9 @@
                     "last_commit": "2026-08-25T17:02:23Z",
                     "owner": "pmret",
                     "repo": "papermario",
-                    "stars": 1601
-                  }
+                    "stars": 1602
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1161,8 +1248,9 @@
                     "last_commit": "2026-07-02T07:38:45Z",
                     "owner": "OpenDriver2",
                     "repo": "REDRIVER2",
-                    "stars": 1333
-                  }
+                    "stars": 1334
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1177,7 +1265,8 @@
                     "owner": "n64decomp",
                     "repo": "mk64",
                     "stars": 1294
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1192,7 +1281,8 @@
                     "owner": "dethrace-labs",
                     "repo": "dethrace",
                     "stars": 1181
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1207,7 +1297,8 @@
                     "owner": "RSDKModding",
                     "repo": "RSDKv4-Decompilation",
                     "stars": 1120
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1218,11 +1309,12 @@
                     "archived": false,
                     "id": 441414984,
                     "language": "C",
-                    "last_commit": "2026-08-28T01:53:09Z",
+                    "last_commit": "2026-08-29T01:52:45Z",
                     "owner": "Xeeynamo",
                     "repo": "sotn-decomp",
-                    "stars": 1055
-                  }
+                    "stars": 1058
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1233,11 +1325,12 @@
                     "archived": false,
                     "id": 276230427,
                     "language": "C",
-                    "last_commit": "2026-08-27T21:15:46Z",
+                    "last_commit": "2026-08-28T19:34:30Z",
                     "owner": "doldecomp",
                     "repo": "melee",
-                    "stars": 1015
-                  }
+                    "stars": 1016
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1248,11 +1341,12 @@
                     "archived": false,
                     "id": 336902304,
                     "language": "C",
-                    "last_commit": "2026-08-27T20:11:27Z",
+                    "last_commit": "2026-08-28T20:48:53Z",
                     "owner": "LostArtefacts",
                     "repo": "TRX",
                     "stars": 976
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1263,11 +1357,12 @@
                     "archived": false,
                     "id": 183966078,
                     "language": "C++",
-                    "last_commit": "2026-08-27T20:10:03Z",
+                    "last_commit": "2026-08-28T23:33:35Z",
                     "owner": "SMGCommunity",
                     "repo": "Petari",
-                    "stars": 895
-                  }
+                    "stars": 897
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1282,7 +1377,8 @@
                     "owner": "nmlgc",
                     "repo": "ReC98",
                     "stars": 855
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1296,8 +1392,9 @@
                     "last_commit": "2026-08-27T04:21:24Z",
                     "owner": "shdecompilations",
                     "repo": "silent-hill-decomp",
-                    "stars": 834
-                  }
+                    "stars": 837
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1311,8 +1408,9 @@
                     "last_commit": "2026-06-04T03:18:46Z",
                     "owner": "mariopartyrd",
                     "repo": "marioparty4",
-                    "stars": 830
-                  }
+                    "stars": 831
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1326,8 +1424,9 @@
                     "last_commit": "2026-08-18T06:29:26Z",
                     "owner": "RSDKModding",
                     "repo": "Sonic-Mania-Decompilation",
-                    "stars": 785
-                  }
+                    "stars": 786
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1341,8 +1440,9 @@
                     "last_commit": "2026-08-27T10:35:52Z",
                     "owner": "FoxdieTeam",
                     "repo": "mgs_reversing",
-                    "stars": 767
-                  }
+                    "stars": 768
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1357,7 +1457,8 @@
                     "owner": "RSDKModding",
                     "repo": "RSDKv3-Decompilation",
                     "stars": 697
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1371,8 +1472,9 @@
                     "last_commit": "2026-08-01T08:53:14Z",
                     "owner": "SAT-R",
                     "repo": "sa2",
-                    "stars": 651
-                  }
+                    "stars": 653
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1386,8 +1488,9 @@
                     "last_commit": "2026-02-15T01:24:32Z",
                     "owner": "GRAnimated",
                     "repo": "MinecraftLCE",
-                    "stars": 601
-                  }
+                    "stars": 602
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1401,8 +1504,9 @@
                     "last_commit": "2026-08-24T18:54:28Z",
                     "owner": "GensokyoClub",
                     "repo": "th06",
-                    "stars": 546
-                  }
+                    "stars": 551
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1416,8 +1520,9 @@
                     "last_commit": "2026-08-27T16:39:59Z",
                     "owner": "Legend-of-Dragoon-Modding",
                     "repo": "Severed-Chains",
-                    "stars": 510
-                  }
+                    "stars": 512
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1431,8 +1536,9 @@
                     "last_commit": "2025-09-16T19:12:37Z",
                     "owner": "snailspeed3",
                     "repo": "mkw",
-                    "stars": 446
-                  }
+                    "stars": 448
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1446,8 +1552,9 @@
                     "last_commit": "2026-07-05T11:20:07Z",
                     "owner": "CTR-tools",
                     "repo": "CTR-ModSDK",
-                    "stars": 441
-                  }
+                    "stars": 442
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1462,7 +1569,8 @@
                     "owner": "DavidSM64",
                     "repo": "Diddy-Kong-Racing",
                     "stars": 417
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1473,11 +1581,12 @@
                     "archived": false,
                     "id": 385371793,
                     "language": "C++",
-                    "last_commit": "2026-08-28T01:39:54Z",
+                    "last_commit": "2026-08-28T23:44:38Z",
                     "owner": "MonsterDruide1",
                     "repo": "OdysseyDecomp",
-                    "stars": 401
-                  }
+                    "stars": 402
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1492,7 +1601,8 @@
                     "owner": "alexbatalov",
                     "repo": "fallout2-re",
                     "stars": 398
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1507,7 +1617,8 @@
                     "owner": "lethal-guitar",
                     "repo": "Duke2Reconstructed",
                     "stars": 366
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1522,7 +1633,8 @@
                     "owner": "projectPiki",
                     "repo": "pikmin2",
                     "stars": 361
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1537,7 +1649,8 @@
                     "owner": "rrika",
                     "repo": "cdcEngineDXHR",
                     "stars": 311
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1551,8 +1664,9 @@
                     "last_commit": "2026-08-26T18:08:57Z",
                     "owner": "PrimeDecomp",
                     "repo": "prime",
-                    "stars": 299
-                  }
+                    "stars": 300
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1563,11 +1677,12 @@
                     "archived": false,
                     "id": 367915061,
                     "language": "C++",
-                    "last_commit": "2026-08-27T08:25:10Z",
+                    "last_commit": "2026-08-29T01:58:05Z",
                     "owner": "doldecomp",
                     "repo": "sms",
-                    "stars": 290
-                  }
+                    "stars": 292
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1582,7 +1697,8 @@
                     "owner": "projectPiki",
                     "repo": "pikmin",
                     "stars": 289
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1597,7 +1713,8 @@
                     "owner": "OpenBiohazard2",
                     "repo": "OpenBiohazard2",
                     "stars": 283
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1612,7 +1729,8 @@
                     "owner": "cyneprepou4uk",
                     "repo": "NES-Games-Disassembly",
                     "stars": 275
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1627,7 +1745,8 @@
                     "owner": "Gillou68310",
                     "repo": "DukeNukemZeroHour",
                     "stars": 270
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1642,7 +1761,8 @@
                     "owner": "crowded-street",
                     "repo": "3s-decomp",
                     "stars": 269
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1657,7 +1777,24 @@
                     "owner": "itsmattkc",
                     "repo": "RunnersDecomp",
                     "stars": 239
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Super Smash Bros.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 674504094,
+                    "language": "C",
+                    "last_commit": "2026-08-25T00:52:30Z",
+                    "owner": "VetriTheRetri",
+                    "repo": "ssb-decomp-re",
+                    "stars": 239
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1672,22 +1809,8 @@
                     "owner": "TheOnlyZac",
                     "repo": "sly1",
                     "stars": 238
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "Super Smash Bros.",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 674504094,
-                    "language": "C",
-                    "last_commit": "2026-08-25T00:52:30Z",
-                    "owner": "VetriTheRetri",
-                    "repo": "ssb-decomp-re",
-                    "stars": 238
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1702,7 +1825,8 @@
                     "owner": "mkst",
                     "repo": "conker",
                     "stars": 237
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1717,7 +1841,8 @@
                     "owner": "Erick194",
                     "repo": "DOOM64-RE",
                     "stars": 235
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1732,7 +1857,8 @@
                     "owner": "Kirby64Ret",
                     "repo": "kirby64",
                     "stars": 228
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1746,8 +1872,9 @@
                     "last_commit": "2026-06-07T19:15:59Z",
                     "owner": "vermiceli",
                     "repo": "nes-contra-us",
-                    "stars": 224
-                  }
+                    "stars": 225
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1761,8 +1888,9 @@
                     "last_commit": "2026-07-02T04:52:51Z",
                     "owner": "harvestwhisperer",
                     "repo": "hm64-decomp",
-                    "stars": 216
-                  }
+                    "stars": 217
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1773,11 +1901,12 @@
                     "archived": false,
                     "id": 832900297,
                     "language": "C",
-                    "last_commit": "2026-08-27T15:00:10Z",
+                    "last_commit": "2026-08-29T00:55:17Z",
                     "owner": "AshfordFamily",
                     "repo": "recvx-decomp",
                     "stars": 216
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1792,7 +1921,8 @@
                     "owner": "zestydevy",
                     "repo": "dinosaur-planet",
                     "stars": 215
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1806,8 +1936,9 @@
                     "last_commit": "2026-08-19T00:18:41Z",
                     "owner": "FireEmblemUniverse",
                     "repo": "fireemblem8u",
-                    "stars": 211
-                  }
+                    "stars": 212
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1822,7 +1953,8 @@
                     "owner": "gameblabla",
                     "repo": "CSE2",
                     "stars": 195
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1837,7 +1969,8 @@
                     "owner": "parappadev",
                     "repo": "parappa2",
                     "stars": 193
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1852,7 +1985,8 @@
                     "owner": "koopthekoopa",
                     "repo": "wii-ipl",
                     "stars": 191
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1867,7 +2001,8 @@
                     "owner": "open-ribbon",
                     "repo": "open-ribbon",
                     "stars": 187
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1878,11 +2013,12 @@
                     "archived": false,
                     "id": 864682338,
                     "language": "C",
-                    "last_commit": "2026-08-27T19:52:04Z",
+                    "last_commit": "2026-08-28T03:59:34Z",
                     "owner": "cdlewis",
                     "repo": "snowboardkids2-decomp",
                     "stars": 185
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1896,8 +2032,9 @@
                     "last_commit": "2024-07-22T20:22:03Z",
                     "owner": "Herringway",
                     "repo": "ebsrc",
-                    "stars": 178
-                  }
+                    "stars": 177
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1912,7 +2049,8 @@
                     "owner": "bfbbdecomp",
                     "repo": "bfbb",
                     "stars": 176
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1923,11 +2061,12 @@
                     "archived": false,
                     "id": 500232163,
                     "language": "C++",
-                    "last_commit": "2026-08-25T11:40:40Z",
+                    "last_commit": "2026-08-28T09:24:31Z",
                     "owner": "doldecomp",
                     "repo": "mkdd",
                     "stars": 175
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1942,7 +2081,8 @@
                     "owner": "doldecomp",
                     "repo": "ogws",
                     "stars": 166
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1957,7 +2097,8 @@
                     "owner": "yaz0r",
                     "repo": "Azel",
                     "stars": 162
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1972,7 +2113,8 @@
                     "owner": "TheMobyCollective",
                     "repo": "spyro-1",
                     "stars": 161
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -1987,7 +2129,24 @@
                     "owner": "Erick194",
                     "repo": "PSXDOOM-RE",
                     "stars": 160
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Need for Speed: Most Wanted",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 983120879,
+                    "language": "C++",
+                    "last_commit": "2026-08-29T00:14:27Z",
+                    "owner": "dbalatoni13",
+                    "repo": "nfsmw",
+                    "stars": 157
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2002,22 +2161,8 @@
                     "owner": "jiangzhengwenjz",
                     "repo": "katam",
                     "stars": 155
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "Need for Speed: Most Wanted",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 983120879,
-                    "language": "C++",
-                    "last_commit": "2026-08-28T01:55:53Z",
-                    "owner": "dbalatoni13",
-                    "repo": "nfsmw",
-                    "stars": 154
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2032,7 +2177,8 @@
                     "owner": "smitelli",
                     "repo": "cosmore",
                     "stars": 143
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2046,8 +2192,9 @@
                     "last_commit": "2025-11-29T22:55:36Z",
                     "owner": "Mr-Wiseguy",
                     "repo": "banjo-tooie",
-                    "stars": 136
-                  }
+                    "stars": 137
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2058,11 +2205,12 @@
                     "archived": false,
                     "id": 958831889,
                     "language": "C",
-                    "last_commit": "2026-08-27T06:49:37Z",
+                    "last_commit": "2026-08-28T19:58:29Z",
                     "owner": "ser-pounce",
                     "repo": "rood-reverse",
                     "stars": 135
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2077,7 +2225,8 @@
                     "owner": "metroidret",
                     "repo": "mzm",
                     "stars": 134
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2092,7 +2241,8 @@
                     "owner": "xbret",
                     "repo": "xenoblade",
                     "stars": 128
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2107,7 +2257,8 @@
                     "owner": "kittibyte",
                     "repo": "UndertaleDecomp",
                     "stars": 127
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2122,7 +2273,8 @@
                     "owner": "doldecomp",
                     "repo": "ttyd",
                     "stars": 126
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2137,7 +2289,8 @@
                     "owner": "2003scape",
                     "repo": "rsc-c",
                     "stars": 126
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2148,11 +2301,12 @@
                     "archived": false,
                     "id": 624554691,
                     "language": "C",
-                    "last_commit": "2026-08-27T23:23:22Z",
+                    "last_commit": "2026-08-28T15:32:21Z",
                     "owner": "krystalgamer",
                     "repo": "spidey-decomp",
                     "stars": 123
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2163,11 +2317,12 @@
                     "archived": false,
                     "id": 515314795,
                     "language": "C",
-                    "last_commit": "2026-08-27T11:37:08Z",
+                    "last_commit": "2026-08-28T13:28:24Z",
                     "owner": "NSMBW-Community",
                     "repo": "NSMBW-Decomp",
-                    "stars": 119
-                  }
+                    "stars": 120
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2182,7 +2337,8 @@
                     "owner": "Mikompilation",
                     "repo": "Himuro",
                     "stars": 115
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2193,11 +2349,12 @@
                     "archived": false,
                     "id": 1126466912,
                     "language": "C",
-                    "last_commit": "2026-08-28T02:19:05Z",
+                    "last_commit": "2026-08-28T05:27:58Z",
                     "owner": "dreamingmoths",
                     "repo": "memory-of-alessa",
                     "stars": 109
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2212,7 +2369,8 @@
                     "owner": "opentestdriveunlimited",
                     "repo": "OpenTestDriveUnlimited",
                     "stars": 109
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2227,7 +2385,8 @@
                     "owner": "Xeeynamo",
                     "repo": "ff7-decomp",
                     "stars": 108
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2242,7 +2401,8 @@
                     "owner": "biggestsonicfan",
                     "repo": "stfdecomp",
                     "stars": 104
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2257,7 +2417,8 @@
                     "owner": "LLONSIT",
                     "repo": "Wave-Race-64",
                     "stars": 104
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2271,8 +2432,9 @@
                     "last_commit": "2025-05-22T20:11:52Z",
                     "owner": "3dsdecomp",
                     "repo": "RedPepper",
-                    "stars": 102
-                  }
+                    "stars": 103
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2287,7 +2449,8 @@
                     "owner": "inspectredc",
                     "repo": "fzerox",
                     "stars": 102
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2298,11 +2461,12 @@
                     "archived": false,
                     "id": 959469291,
                     "language": "C",
-                    "last_commit": "2026-08-24T14:23:50Z",
+                    "last_commit": "2026-08-28T12:45:52Z",
                     "owner": "ladysilverberg",
                     "repo": "xenogears-decomp",
                     "stars": 98
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2317,7 +2481,8 @@
                     "owner": "CriminalRETeam",
                     "repo": "gta2_re",
                     "stars": 94
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2332,7 +2497,8 @@
                     "owner": "ethteck",
                     "repo": "kh1",
                     "stars": 94
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2347,7 +2513,24 @@
                     "owner": "Fantaskink",
                     "repo": "SOTC",
                     "stars": 94
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Halo: Combat Evolved",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 982936086,
+                    "language": "C",
+                    "last_commit": "2026-08-26T15:55:03Z",
+                    "owner": "punpckhdq",
+                    "repo": "halo",
+                    "stars": 92
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2362,7 +2545,8 @@
                     "owner": "SeekyCt",
                     "repo": "spm-decomp",
                     "stars": 91
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2377,22 +2561,8 @@
                     "owner": "ughman",
                     "repo": "c2c",
                     "stars": 91
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "Halo: Combat Evolved",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 982936086,
-                    "language": "C",
-                    "last_commit": "2026-08-26T15:55:03Z",
-                    "owner": "punpckhdq",
-                    "repo": "halo",
-                    "stars": 91
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2407,7 +2577,8 @@
                     "owner": "zeldaret",
                     "repo": "oot-vc",
                     "stars": 89
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2422,7 +2593,8 @@
                     "owner": "doldecomp",
                     "repo": "kar",
                     "stars": 87
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2437,7 +2609,8 @@
                     "owner": "femloy",
                     "repo": "OpenTower",
                     "stars": 87
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2452,7 +2625,8 @@
                     "owner": "InfiniteC0re",
                     "repo": "OpenBarnyard",
                     "stars": 84
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2467,7 +2641,8 @@
                     "owner": "alula",
                     "repo": "CircleShootApp",
                     "stars": 81
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2478,11 +2653,12 @@
                     "archived": false,
                     "id": 683675058,
                     "language": "C",
-                    "last_commit": "2026-08-27T21:28:47Z",
+                    "last_commit": "2026-08-28T20:04:07Z",
                     "owner": "SAT-R",
                     "repo": "sa3",
                     "stars": 79
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2497,7 +2673,8 @@
                     "owner": "decompals",
                     "repo": "yoshis-story",
                     "stars": 78
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2512,7 +2689,8 @@
                     "owner": "fmil95",
                     "repo": "soul-re",
                     "stars": 78
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2527,7 +2705,8 @@
                     "owner": "SAT-R",
                     "repo": "sa1",
                     "stars": 77
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2542,7 +2721,8 @@
                     "owner": "doldecomp",
                     "repo": "brawl",
                     "stars": 77
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2557,7 +2737,8 @@
                     "owner": "AngheloAlf",
                     "repo": "drmario64",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2572,7 +2753,8 @@
                     "owner": "mariopartyrd",
                     "repo": "marioparty",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2587,7 +2769,8 @@
                     "owner": "p4plus2",
                     "repo": "DKC2-disassembly",
                     "stars": 72
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2602,7 +2785,24 @@
                     "owner": "0danny",
                     "repo": "re47",
                     "stars": 72
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Super Mario Strikers",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 989774797,
+                    "language": "C++",
+                    "last_commit": "2026-08-25T15:42:00Z",
+                    "owner": "yannicksuter",
+                    "repo": "smstrikers-decomp",
+                    "stars": 71
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2617,7 +2817,8 @@
                     "owner": "Drahsid",
                     "repo": "mischief-makers",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2632,22 +2833,8 @@
                     "owner": "yaz0r",
                     "repo": "Noah",
                     "stars": 69
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "Super Mario Strikers",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 989774797,
-                    "language": "C++",
-                    "last_commit": "2026-08-25T15:42:00Z",
-                    "owner": "yannicksuter",
-                    "repo": "smstrikers-decomp",
-                    "stars": 68
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2662,7 +2849,8 @@
                     "owner": "LCERD",
                     "repo": "Minecraft-Xbox-360-Decompilation",
                     "stars": 66
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2677,7 +2865,8 @@
                     "owner": "yuv422",
                     "repo": "skifree_decomp",
                     "stars": 66
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2692,7 +2881,8 @@
                     "owner": "MediEvilDecompilation",
                     "repo": "medievil-decomp",
                     "stars": 65
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2703,11 +2893,12 @@
                     "archived": false,
                     "id": 502461748,
                     "language": "C",
-                    "last_commit": "2026-08-28T02:00:04Z",
+                    "last_commit": "2026-08-28T22:41:08Z",
                     "owner": "mariopartyrd",
                     "repo": "marioparty3",
                     "stars": 64
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2722,7 +2913,8 @@
                     "owner": "mkst",
                     "repo": "sssv",
                     "stars": 64
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2737,7 +2929,8 @@
                     "owner": "PrimeDecomp",
                     "repo": "echoes",
                     "stars": 62
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2752,7 +2945,8 @@
                     "owner": "GensokyoClub",
                     "repo": "th08",
                     "stars": 62
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2767,22 +2961,8 @@
                     "owner": "Bomberhackers",
                     "repo": "bmhero",
                     "stars": 60
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "Frogger (1997)",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 697515664,
-                    "language": "C",
-                    "last_commit": "2025-06-17T06:36:11Z",
-                    "owner": "HighwayFrogs",
-                    "repo": "frogger-psx",
-                    "stars": 60
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2797,7 +2977,24 @@
                     "owner": "PPrism",
                     "repo": "TerrariaOGC",
                     "stars": 60
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Frogger (1997)",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 697515664,
+                    "language": "C",
+                    "last_commit": "2025-06-17T06:36:11Z",
+                    "owner": "HighwayFrogs",
+                    "repo": "frogger-psx",
+                    "stars": 59
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2808,11 +3005,12 @@
                     "archived": false,
                     "id": 676657519,
                     "language": "C",
-                    "last_commit": "2026-08-25T07:09:12Z",
+                    "last_commit": "2026-08-28T22:03:26Z",
                     "owner": "metroidret",
                     "repo": "mf",
                     "stars": 59
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2827,7 +3025,8 @@
                     "owner": "XorTroll",
                     "repo": "mkds-re",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2842,7 +3041,24 @@
                     "owner": "jdperos",
                     "repo": "chrono-cross-decomp",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Super Mario 3D World + Bowser's Fury",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 826534070,
+                    "language": "C++",
+                    "last_commit": "2026-07-23T21:55:17Z",
+                    "owner": "3DWCommunity",
+                    "repo": "3dcomp",
+                    "stars": 56
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2857,7 +3073,8 @@
                     "owner": "openblack",
                     "repo": "bw1-decomp",
                     "stars": 56
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2872,22 +3089,8 @@
                     "owner": "k64ret",
                     "repo": "cv64",
                     "stars": 56
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "Super Mario 3D World + Bowser's Fury",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 826534070,
-                    "language": "C++",
-                    "last_commit": "2026-07-23T21:55:17Z",
-                    "owner": "3DWCommunity",
-                    "repo": "3dcomp",
-                    "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2902,7 +3105,8 @@
                     "owner": "mariopartyrd",
                     "repo": "marioparty2",
                     "stars": 51
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2917,7 +3121,8 @@
                     "owner": "atasro2",
                     "repo": "pwaa1",
                     "stars": 51
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2928,11 +3133,12 @@
                     "archived": false,
                     "id": 950858906,
                     "language": "C++",
-                    "last_commit": "2026-08-25T13:34:30Z",
+                    "last_commit": "2026-08-28T20:35:08Z",
                     "owner": "NSMB-Decomp",
                     "repo": "nsmb",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2947,7 +3153,8 @@
                     "owner": "SMGCommunity",
                     "repo": "Garigari",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2962,7 +3169,8 @@
                     "owner": "uncreativeCultist",
                     "repo": "buckshot-decomp-public",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2977,7 +3185,8 @@
                     "owner": "kernaltrap8",
                     "repo": "WoR-Plus",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -2988,11 +3197,12 @@
                     "archived": false,
                     "id": 614621229,
                     "language": "C",
-                    "last_commit": "2026-08-27T15:13:37Z",
+                    "last_commit": "2026-08-29T01:38:14Z",
                     "owner": "Ryan-Myers",
                     "repo": "Jet-Force-Gemini",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3007,7 +3217,8 @@
                     "owner": "Swiftshine",
                     "repo": "key",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3018,11 +3229,12 @@
                     "archived": false,
                     "id": 594421022,
                     "language": "C",
-                    "last_commit": "2026-08-25T18:15:30Z",
+                    "last_commit": "2026-08-28T21:57:21Z",
                     "owner": "tim-tim707",
                     "repo": "SW_RACER_RE",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3037,7 +3249,8 @@
                     "owner": "doldecomp",
                     "repo": "sadx",
                     "stars": 47
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3052,7 +3265,8 @@
                     "owner": "jooapa",
                     "repo": "Angry_Birds_Decompilation",
                     "stars": 47
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3067,7 +3281,8 @@
                     "owner": "AdventureT",
                     "repo": "OpenToshi",
                     "stars": 46
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3082,7 +3297,8 @@
                     "owner": "patataofcourse",
                     "repo": "rhgold",
                     "stars": 46
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3097,7 +3313,8 @@
                     "owner": "RocketRet",
                     "repo": "Rocket-Robot-On-Wheels",
                     "stars": 46
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3112,7 +3329,8 @@
                     "owner": "aboood40091",
                     "repo": "red-pro2",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3127,7 +3345,8 @@
                     "owner": "LuigiBlood",
                     "repo": "balloonfight_dis",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3142,7 +3361,8 @@
                     "owner": "ZackWilde27",
                     "repo": "FlatOut-2-decomp",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3157,7 +3377,8 @@
                     "owner": "mmzret",
                     "repo": "rmz3",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3172,7 +3393,8 @@
                     "owner": "jellees",
                     "repo": "bkgr",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3187,7 +3409,8 @@
                     "owner": "entriphy",
                     "repo": "kl2_lv_decomp",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3202,7 +3425,8 @@
                     "owner": "RushRE",
                     "repo": "SonicRushAdventure-Decomp",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3217,7 +3441,24 @@
                     "owner": "blackgamma7",
                     "repo": "Aidyn",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Harvest Moon: Friends of Mineral Town",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 458535633,
+                    "language": "Assembly",
+                    "last_commit": "2026-02-08T14:51:09Z",
+                    "owner": "StanHash",
+                    "repo": "fomt",
+                    "stars": 39
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3232,22 +3473,24 @@
                     "owner": "AdventureT",
                     "repo": "OpenJPOG",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
-                  "title": "Harvest Moon: Friends of Mineral Town",
+                  "title": "Croc: Legend of the Gobbos",
                   "description": null,
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "id": 458535633,
-                    "language": "Assembly",
-                    "last_commit": "2026-02-08T14:51:09Z",
-                    "owner": "StanHash",
-                    "repo": "fomt",
-                    "stars": 38
-                  }
+                    "id": 565111456,
+                    "language": "C",
+                    "last_commit": "2024-03-31T15:10:42Z",
+                    "owner": "Xeeynamo",
+                    "repo": "croc",
+                    "stars": 37
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3262,22 +3505,24 @@
                     "owner": "konovalov-aleks",
                     "repo": "reSL",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
-                  "title": "Croc: Legend of the Gobbos",
+                  "title": "Mario & Luigi: Superstar Saga",
                   "description": null,
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "id": 565111456,
-                    "language": "C",
-                    "last_commit": "2024-03-31T15:10:42Z",
-                    "owner": "Xeeynamo",
-                    "repo": "croc",
+                    "id": 615716415,
+                    "language": "Assembly",
+                    "last_commit": "2026-08-19T21:43:35Z",
+                    "owner": "jellees",
+                    "repo": "mlss",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3292,7 +3537,8 @@
                     "owner": "2Tie",
                     "repo": "mh1j",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3307,22 +3553,8 @@
                     "owner": "farisawan-2000",
                     "repo": "evangelion",
                     "stars": 36
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "Mario & Luigi: Superstar Saga",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 615716415,
-                    "language": "Assembly",
-                    "last_commit": "2026-08-19T21:43:35Z",
-                    "owner": "jellees",
-                    "repo": "mlss",
-                    "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3337,7 +3569,8 @@
                     "owner": "mariopartyrd",
                     "repo": "marioparty5",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3352,7 +3585,8 @@
                     "owner": "Iso-Kilo",
                     "repo": "Sonic-1-J2ME-Decompilation",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3367,7 +3601,8 @@
                     "owner": "eavpsp",
                     "repo": "cbr_decomp",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3382,7 +3617,8 @@
                     "owner": "Sage-of-Mirrors",
                     "repo": "zmansion",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3397,7 +3633,8 @@
                     "owner": "jellees",
                     "repo": "mksc",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3412,7 +3649,8 @@
                     "owner": "Adubbz",
                     "repo": "DCDecomp",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3427,7 +3665,8 @@
                     "owner": "markisha64",
                     "repo": "ddw3",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3442,7 +3681,8 @@
                     "owner": "doldecomp",
                     "repo": "sonicriders",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3457,7 +3697,8 @@
                     "owner": "Bomberhackers",
                     "repo": "bm64",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3472,7 +3713,8 @@
                     "owner": "MokhaLeee",
                     "repo": "FireEmblem7J",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3487,7 +3729,8 @@
                     "owner": "1superchip",
                     "repo": "ty-decomp",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3502,7 +3745,8 @@
                     "owner": "kiwidoggie",
                     "repo": "breadflowerdos",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3513,11 +3757,12 @@
                     "archived": false,
                     "id": 969784944,
                     "language": "C++",
-                    "last_commit": "2026-08-26T00:39:14Z",
+                    "last_commit": "2026-08-28T05:49:37Z",
                     "owner": "ZounaModding",
                     "repo": "RatDecomp",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3532,7 +3777,24 @@
                     "owner": "lhsazevedo",
                     "repo": "tbg-decomp",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Mega Man X4",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 853599652,
+                    "language": "C",
+                    "last_commit": "2026-08-28T07:02:12Z",
+                    "owner": "sozud",
+                    "repo": "mmx4",
+                    "stars": 30
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3547,7 +3809,8 @@
                     "owner": "dbalatoni13",
                     "repo": "nfsug",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3562,7 +3825,8 @@
                     "owner": "mariopartyrd",
                     "repo": "marioparty7",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3577,7 +3841,8 @@
                     "owner": "LLONSIT",
                     "repo": "AeroGauge",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3592,7 +3857,8 @@
                     "owner": "zcanann",
                     "repo": "FFCC-Decomp",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3607,7 +3873,8 @@
                     "owner": "aloaf812",
                     "repo": "GD",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3622,22 +3889,8 @@
                     "owner": "ChimpsAtSea",
                     "repo": "Reach",
                     "stars": 29
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "Mega Man X4",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 853599652,
-                    "language": "C",
-                    "last_commit": "2025-08-25T12:34:12Z",
-                    "owner": "sozud",
-                    "repo": "mmx4",
-                    "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3652,7 +3905,8 @@
                     "owner": "fmil95",
                     "repo": "recv-dc-decomp",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3667,7 +3921,8 @@
                     "owner": "LagoLunatic",
                     "repo": "ooe",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3682,7 +3937,8 @@
                     "owner": "RussianManSMWC",
                     "repo": "Donkey-Kong-NES-Disassembly",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3697,7 +3953,8 @@
                     "owner": "shao113",
                     "repo": "vh",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3712,7 +3969,8 @@
                     "owner": "CMR2Decomp",
                     "repo": "CMR2Decomp",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3727,7 +3985,8 @@
                     "owner": "inspectredc",
                     "repo": "fzerox-expansion-kit",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3742,7 +4001,8 @@
                     "owner": "widberg",
                     "repo": "FUELDecompilation",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3757,7 +4017,8 @@
                     "owner": "MatBourgon",
                     "repo": "Gex64Decomp",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3772,7 +4033,8 @@
                     "owner": "RossyDoubleUnderscore",
                     "repo": "ICO-decomp",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3787,7 +4049,8 @@
                     "owner": "Normmatt",
                     "repo": "m12",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3802,7 +4065,8 @@
                     "owner": "TeamBlossomDevs",
                     "repo": "DeltaruneDecomp_beta",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3817,7 +4081,8 @@
                     "owner": "vermiceli",
                     "repo": "nes-super-c",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3832,7 +4097,8 @@
                     "owner": "Drahsid",
                     "repo": "turok3",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3847,7 +4113,8 @@
                     "owner": "AKI-Club",
                     "repo": "vpw2",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3862,7 +4129,8 @@
                     "owner": "Yoshifanatic1",
                     "repo": "Donkey-Kong-Country-1-Disassembly",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3877,7 +4145,8 @@
                     "owner": "Drahsid",
                     "repo": "gauntlet-legends",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3892,7 +4161,8 @@
                     "owner": "Yotona",
                     "repo": "twewy",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3907,7 +4177,8 @@
                     "owner": "mariopartyrd",
                     "repo": "marioparty8",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3922,7 +4193,8 @@
                     "owner": "CelestialAmber",
                     "repo": "DKGBDisasm",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3937,7 +4209,8 @@
                     "owner": "doldecomp",
                     "repo": "gnt4",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3952,7 +4225,8 @@
                     "owner": "Decomp-And-Recomp",
                     "repo": "Samurai-Vs-Zombies",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3967,7 +4241,8 @@
                     "owner": "rep-stosw",
                     "repo": "tube64",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3982,7 +4257,8 @@
                     "owner": "Hamzaxx370",
                     "repo": "Ogre-Decomp",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -3997,7 +4273,8 @@
                     "owner": "mariopartyrd",
                     "repo": "mariopartyDS",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4012,7 +4289,8 @@
                     "owner": "ChrisNonyminus",
                     "repo": "hmawl",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4027,7 +4305,8 @@
                     "owner": "conhlee",
                     "repo": "rhf",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4042,7 +4321,8 @@
                     "owner": "seilc",
                     "repo": "incredibles",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4057,7 +4337,8 @@
                     "owner": "TheIndra55",
                     "repo": "cdcEngine",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4072,7 +4353,8 @@
                     "owner": "hansbonini",
                     "repo": "psx_tomba",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4087,7 +4369,8 @@
                     "owner": "monde-lointain",
                     "repo": "mariogolf64",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4102,7 +4385,8 @@
                     "owner": "mariopartyrd",
                     "repo": "marioparty6",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4117,7 +4401,8 @@
                     "owner": "testyourmine",
                     "repo": "cvaos",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4132,7 +4417,8 @@
                     "owner": "tclamb",
                     "repo": "mhp2g-decomp",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4147,7 +4433,8 @@
                     "owner": "farisawan-2000",
                     "repo": "superman",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4162,7 +4449,8 @@
                     "owner": "bfbbdecomp",
                     "repo": "tssm",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4177,7 +4465,8 @@
                     "owner": "mariopartyrd",
                     "repo": "marioparty9",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4192,7 +4481,8 @@
                     "owner": "banjo360",
                     "repo": "bk360",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4207,7 +4497,8 @@
                     "owner": "AnthonyBongers",
                     "repo": "GhostsAndGraves",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4222,7 +4513,8 @@
                     "owner": "NotExactlySiev",
                     "repo": "aloha",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4233,11 +4525,12 @@
                     "archived": false,
                     "id": 859031455,
                     "language": "C++",
-                    "last_commit": "2026-07-31T06:05:55Z",
+                    "last_commit": "2026-08-28T08:33:14Z",
                     "owner": "projectPiki",
                     "repo": "pik2wii",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4252,7 +4545,8 @@
                     "owner": "katstasaph",
                     "repo": "otii",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4267,7 +4561,8 @@
                     "owner": "Radfordhound",
                     "repo": "OpenLW",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4282,7 +4577,8 @@
                     "owner": "BurnoutHints",
                     "repo": "b5-decomp",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4297,7 +4593,8 @@
                     "owner": "EltaleLibrarian",
                     "repo": "SotE",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4312,7 +4609,8 @@
                     "owner": "abelbriggs1",
                     "repo": "tm1_decomp",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4327,7 +4625,8 @@
                     "owner": "NBlood",
                     "repo": "Duke64-RE",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4342,7 +4641,8 @@
                     "owner": "Rainchus",
                     "repo": "Quest64-Decomp",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4357,7 +4657,8 @@
                     "owner": "animaone",
                     "repo": "star-ocean-blue-sphere-source-code",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4372,7 +4673,8 @@
                     "owner": "Tmcg2",
                     "repo": "rogue_squadron64",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4387,7 +4689,8 @@
                     "owner": "Yoshifanatic1",
                     "repo": "Donkey-Kong-Country-3-Disassembly",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4402,7 +4705,8 @@
                     "owner": "ThePlayerRolo",
                     "repo": "LegoCloneWarsWii",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4417,7 +4721,8 @@
                     "owner": "atasro2",
                     "repo": "pwaa2",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4432,7 +4737,8 @@
                     "owner": "ssxdecomp",
                     "repo": "ssx3",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4447,7 +4753,8 @@
                     "owner": "HaydnTrigg",
                     "repo": "Castaway",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4462,7 +4769,8 @@
                     "owner": "abelbriggs1",
                     "repo": "tmb_decomp",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4477,7 +4785,8 @@
                     "owner": "jacobleeharris",
                     "repo": "tmhc",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4488,11 +4797,12 @@
                     "archived": false,
                     "id": 1078962432,
                     "language": "C",
-                    "last_commit": "2026-08-28T02:24:07Z",
+                    "last_commit": "2026-08-28T23:26:57Z",
                     "owner": "sabishii-bit",
                     "repo": "Gauntlet-Dark-Legacy-Decompilation",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4507,7 +4817,8 @@
                     "owner": "GRAnimated",
                     "repo": "Hagi",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4522,7 +4833,8 @@
                     "owner": "SwareJonge",
                     "repo": "IEStrikers",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4533,11 +4845,12 @@
                     "archived": false,
                     "id": 954341829,
                     "language": "C",
-                    "last_commit": "2026-08-27T22:21:58Z",
+                    "last_commit": "2026-08-28T03:17:21Z",
                     "owner": "tgsm",
                     "repo": "pbg",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4552,7 +4865,8 @@
                     "owner": "cakehonolulu",
                     "repo": "Bullseye",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4567,7 +4881,8 @@
                     "owner": "jiangzhengwenjz",
                     "repo": "csm3",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4582,7 +4897,8 @@
                     "owner": "SquareMan",
                     "repo": "xenosaga",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4597,7 +4913,8 @@
                     "owner": "roeming",
                     "repo": "mssb-dtk",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4612,7 +4929,8 @@
                     "owner": "quantumdude836",
                     "repo": "BugsDecomp",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4627,7 +4945,8 @@
                     "owner": "brunovalads",
                     "repo": "donald-land",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4642,7 +4961,8 @@
                     "owner": "GodkuHacking",
                     "repo": "Dragon-Ball-Legends",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4657,7 +4977,8 @@
                     "owner": "Zackmon",
                     "repo": "lunar2-psx-decomp",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4672,7 +4993,8 @@
                     "owner": "Francessco121",
                     "repo": "real-war-decomp",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4687,7 +5009,8 @@
                     "owner": "ssxdecomp",
                     "repo": "ssx",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4702,7 +5025,8 @@
                     "owner": "Darxoon",
                     "repo": "leaflitter",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4717,7 +5041,8 @@
                     "owner": "KidWizardOfTheWeb",
                     "repo": "SRZGDecomp",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4732,7 +5057,8 @@
                     "owner": "lethal-guitar",
                     "repo": "BioMenaceDecomp",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4747,7 +5073,8 @@
                     "owner": "Bomberhackers",
                     "repo": "bm64tsa",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4762,7 +5089,8 @@
                     "owner": "Eebit",
                     "repo": "fe11-us",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4773,11 +5101,12 @@
                     "archived": false,
                     "id": 1102420157,
                     "language": "C",
-                    "last_commit": "2026-08-20T20:35:02Z",
+                    "last_commit": "2026-08-28T07:09:20Z",
                     "owner": "projectPiki",
                     "repo": "pik1wii",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4792,7 +5121,8 @@
                     "owner": "rghdecomp",
                     "repo": "rgh",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4807,7 +5137,8 @@
                     "owner": "Alice-2010",
                     "repo": "Decomp",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4822,7 +5153,8 @@
                     "owner": "NKHook",
                     "repo": "BTD5-Decomp",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4837,7 +5169,8 @@
                     "owner": "calmsacibis995",
                     "repo": "crash-ps2",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4852,7 +5185,8 @@
                     "owner": "mkst",
                     "repo": "esa",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4867,7 +5201,8 @@
                     "owner": "Rainchus",
                     "repo": "Glover",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4882,7 +5217,8 @@
                     "owner": "CacaBueno64",
                     "repo": "ie3ogres",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4897,7 +5233,8 @@
                     "owner": "Swiftshine",
                     "repo": "kdc",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4912,7 +5249,8 @@
                     "owner": "BrentDaMage",
                     "repo": "mcpe-engine",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4927,7 +5265,8 @@
                     "owner": "lilDavid",
                     "repo": "warioland4",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4942,7 +5281,8 @@
                     "owner": "DellM-79",
                     "repo": "MarioTennisN64",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4957,7 +5297,8 @@
                     "owner": "decompfrontier",
                     "repo": "client",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4972,7 +5313,8 @@
                     "owner": "ZackWilde27",
                     "repo": "FlatOut-UC-Decomp",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -4987,7 +5329,8 @@
                     "owner": "VELD-Dev",
                     "repo": "Pyrocitor",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5002,7 +5345,8 @@
                     "owner": "Dexx-io",
                     "repo": "Splatoon-Decomp",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5017,7 +5361,8 @@
                     "owner": "matty45",
                     "repo": "sm64ds-decomp",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5032,7 +5377,8 @@
                     "owner": "chameleonTwistRet",
                     "repo": "chameleonTwistv1.0-JP",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5047,7 +5393,8 @@
                     "owner": "IWILLCRAFT-M0d",
                     "repo": "dogcomp",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5062,7 +5409,8 @@
                     "owner": "break-core",
                     "repo": "doshin-gc",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5077,7 +5425,8 @@
                     "owner": "WistfulHopes",
                     "repo": "ggx",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5092,7 +5441,8 @@
                     "owner": "FirecatFG",
                     "repo": "lsddecomp",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5107,7 +5457,8 @@
                     "owner": "Marvisak",
                     "repo": "mafia-re",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5122,7 +5473,8 @@
                     "owner": "Shintensu",
                     "repo": "OkamiHD-Decomp",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5137,7 +5489,8 @@
                     "owner": "Rainchus",
                     "repo": "PartnersInTime-Decomp",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5152,7 +5505,24 @@
                     "owner": "Vawlpe",
                     "repo": "BakuganDotC-decomp",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Cuphead",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 735418675,
+                    "language": "GLSL",
+                    "last_commit": "2025-07-16T14:43:43Z",
+                    "owner": "jmxamongusmodder",
+                    "repo": "cuphead-decomp",
+                    "stars": 9
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5167,7 +5537,8 @@
                     "owner": "mariopossamato",
                     "repo": "LEGO-Batman",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5182,7 +5553,8 @@
                     "owner": "klorfmorf",
                     "repo": "mnsg",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5197,7 +5569,8 @@
                     "owner": "burnedpopcorn",
                     "repo": "UnderTale-Yellow-Decompilation",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5212,7 +5585,8 @@
                     "owner": "GrantBenR",
                     "repo": "YsViDecomp",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5227,22 +5601,8 @@
                     "owner": "SlaveOfIDO",
                     "repo": "blastcorps",
                     "stars": 8
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "Cuphead",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 735418675,
-                    "language": "GLSL",
-                    "last_commit": "2025-07-16T14:43:43Z",
-                    "owner": "jmxamongusmodder",
-                    "repo": "cuphead-decomp",
-                    "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5257,7 +5617,8 @@
                     "owner": "pizdex",
                     "repo": "robogx",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5272,7 +5633,8 @@
                     "owner": "solidheron",
                     "repo": "Digimon_World_1_decompolation",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5287,7 +5649,8 @@
                     "owner": "Bamcane",
                     "repo": "re-plants-vs-zombies",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5302,7 +5665,8 @@
                     "owner": "Rainchus",
                     "repo": "SkiesOfArcadiaLegends",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5317,7 +5681,8 @@
                     "owner": "SimsAdvanceRet",
                     "repo": "UrbzGBADecomp",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5332,7 +5697,8 @@
                     "owner": "Swiftshine",
                     "repo": "yww",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5347,7 +5713,8 @@
                     "owner": "bluisblu",
                     "repo": "cttr",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5362,7 +5729,8 @@
                     "owner": "NiyaDev",
                     "repo": "DWM",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5377,7 +5745,8 @@
                     "owner": "Afterflash",
                     "repo": "HappyWheels",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5392,7 +5761,8 @@
                     "owner": "LiruJ",
                     "repo": "Lego-Battles-Decomp",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5407,7 +5777,8 @@
                     "owner": "marijnvdwerf",
                     "repo": "lego-racers",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5422,7 +5793,8 @@
                     "owner": "Rainchus",
                     "repo": "ShadowGate64",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5437,7 +5809,8 @@
                     "owner": "Charlese2",
                     "repo": "sgr",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5452,7 +5825,8 @@
                     "owner": "LLONSIT",
                     "repo": "VirtualPool64",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5467,7 +5841,8 @@
                     "owner": "martinbean",
                     "repo": "thunder",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5482,7 +5857,8 @@
                     "owner": "Eebit",
                     "repo": "aw2bhr",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5497,7 +5873,8 @@
                     "owner": "bismurphy",
                     "repo": "Aironauts-decomp",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5512,7 +5889,8 @@
                     "owner": "unspDecomp",
                     "repo": "abcParkDecomp",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5527,7 +5905,8 @@
                     "owner": "vabold",
                     "repo": "bba-wd",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5542,7 +5921,8 @@
                     "owner": "adipocira",
                     "repo": "doraemon1",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5557,7 +5937,8 @@
                     "owner": "GrasonHumphrey",
                     "repo": "Earthbound-Zero-Decomp",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5572,7 +5953,8 @@
                     "owner": "BttrDrgn",
                     "repo": "homeland",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5587,7 +5969,8 @@
                     "owner": "DavidGrice",
                     "repo": "knightskingdom",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5602,7 +5985,8 @@
                     "owner": "NearlyTRex",
                     "repo": "NocturneDecomp",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5617,7 +6001,8 @@
                     "owner": "Erizur",
                     "repo": "slpm86183",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5632,7 +6017,8 @@
                     "owner": "Soulcalibur-II-Research-Group",
                     "repo": "scII_re",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5647,7 +6033,8 @@
                     "owner": "ssxdecomp",
                     "repo": "ssxdvd",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5662,7 +6049,8 @@
                     "owner": "KiritoDv",
                     "repo": "tnt",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5677,7 +6065,8 @@
                     "owner": "LLONSIT-glitch",
                     "repo": "wonder",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5692,7 +6081,8 @@
                     "owner": "NewGBAXL",
                     "repo": "drmario64-gc",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5707,7 +6097,8 @@
                     "owner": "chameleonTwistRet",
                     "repo": "chameleonTwist2v1.0-JP",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5722,7 +6113,8 @@
                     "owner": "Bingies24",
                     "repo": "cuttherope-dx",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5737,7 +6129,8 @@
                     "owner": "palaceswitcher",
                     "repo": "Diamond-Rush-Decomp",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5752,7 +6145,8 @@
                     "owner": "imavie",
                     "repo": "ecdpdecomp",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5767,7 +6161,8 @@
                     "owner": "cScarletter",
                     "repo": "MK-3D-Era-Decompilation",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5782,7 +6177,8 @@
                     "owner": "Skate-Modding-Team",
                     "repo": "Skate-Decompilation-Project",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5797,7 +6193,8 @@
                     "owner": "SimsAdvanceRet",
                     "repo": "S2GBADecomp",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5812,7 +6209,8 @@
                     "owner": "SimsAdvanceRet",
                     "repo": "BustinOutGBADecomp",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5827,7 +6225,8 @@
                     "owner": "sabishii-bit",
                     "repo": "wwdcmp",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5842,7 +6241,8 @@
                     "owner": "Moddimation",
                     "repo": "KinokoDecomp-S",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5857,7 +6257,8 @@
                     "owner": "ieee802dot11ac",
                     "repo": "amp",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5872,7 +6273,8 @@
                     "owner": "forestbelton",
                     "repo": "azure",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5887,7 +6289,8 @@
                     "owner": "Moddimation",
                     "repo": "GoVacation-Decompilation",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5902,7 +6305,8 @@
                     "owner": "jvicu2001",
                     "repo": "rr64-decomp",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5917,7 +6321,8 @@
                     "owner": "hellow554",
                     "repo": "RustyBlazer",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5932,7 +6337,8 @@
                     "owner": "spyrosadventure",
                     "repo": "cloud-patrol-decomp",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5943,11 +6349,12 @@
                     "archived": false,
                     "id": 697009362,
                     "language": "C",
-                    "last_commit": "2026-07-20T09:59:13Z",
+                    "last_commit": "2026-08-28T20:59:23Z",
                     "owner": "dashr9230",
                     "repo": "Caper",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5962,7 +6369,8 @@
                     "owner": "fr3dsp",
                     "repo": "Sonic4Ep1-Decomp",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5977,7 +6385,8 @@
                     "owner": "Luigi587",
                     "repo": "GenerationsDecomp",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -5992,7 +6401,8 @@
                     "owner": "Costume-Quest-Modding",
                     "repo": "CostumeQuest-Decomp",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6007,7 +6417,8 @@
                     "owner": "Unnunu",
                     "repo": "darkrift",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6022,7 +6433,8 @@
                     "owner": "Wexos",
                     "repo": "DKCR-Decompilation",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6037,7 +6449,8 @@
                     "owner": "TotallyNotMichael-GH",
                     "repo": "dbz2",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6052,7 +6465,8 @@
                     "owner": "TheInfiniteLegend",
                     "repo": "f-0-ax",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6067,7 +6481,8 @@
                     "owner": "GlitchedDeveloper",
                     "repo": "Babil-Decompilation-Project",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6082,7 +6497,8 @@
                     "owner": "dingusdev",
                     "repo": "gunmetal-decomp",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6097,7 +6513,8 @@
                     "owner": "AM7999",
                     "repo": "ISpy-SM-Decomp",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6112,7 +6529,8 @@
                     "owner": "Avenze",
                     "repo": "ios_reverse_engineering",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6127,7 +6545,8 @@
                     "owner": "Yanis002",
                     "repo": "pm4",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6142,7 +6561,8 @@
                     "owner": "NancySadkov",
                     "repo": "dest",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6157,7 +6577,8 @@
                     "owner": "Colt-Zero",
                     "repo": "Thousand-Worlds",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6172,7 +6593,8 @@
                     "owner": "martinbean",
                     "repo": "nitro",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6187,7 +6609,8 @@
                     "owner": "EliasFever",
                     "repo": "MarioTeachesTyping3Decomp",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6202,7 +6625,8 @@
                     "owner": "sasja-san",
                     "repo": "atc",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6217,7 +6641,8 @@
                     "owner": "Normmatt",
                     "repo": "unarmoredunit",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6232,7 +6657,8 @@
                     "owner": "KoboDev",
                     "repo": "BBR2Decompile",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6247,7 +6673,8 @@
                     "owner": "misterjdrg",
                     "repo": "Bouncer",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6262,7 +6689,8 @@
                     "owner": "iestyn129",
                     "repo": "DOMADays",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6277,7 +6705,8 @@
                     "owner": "fr3dsp",
                     "repo": "FlappyBird-Decomp",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6292,7 +6721,8 @@
                     "owner": "dashr9230",
                     "repo": "Gt2",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6307,7 +6737,8 @@
                     "owner": "FortuneStreetModding",
                     "repo": "boom-street-decomp",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6322,7 +6753,8 @@
                     "owner": "Mustafa1177",
                     "repo": "jazzjackrabbit2-decompiled",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6337,7 +6769,8 @@
                     "owner": "Ryan-Myers",
                     "repo": "onegaimonsters",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6352,7 +6785,8 @@
                     "owner": "Primitheus",
                     "repo": "rumbledecomp",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6367,7 +6801,8 @@
                     "owner": "crimsonmagick",
                     "repo": "lotr-rotk",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6382,7 +6817,8 @@
                     "owner": "EltyDev",
                     "repo": "MSM-decomp",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6397,7 +6833,8 @@
                     "owner": "ArchiverXP",
                     "repo": "sncdecomp",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6412,7 +6849,8 @@
                     "owner": "Atomk",
                     "repo": "ancient-empires-1-decompilation",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6427,7 +6865,8 @@
                     "owner": "xylolfrei",
                     "repo": "CREATURES-II-DECOMPILATION-PROJECT",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6442,7 +6881,8 @@
                     "owner": "Lindarychwalski",
                     "repo": "Defenders-Dragons",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6457,7 +6897,8 @@
                     "owner": "cScarletter",
                     "repo": "Drakan-The-Ancient-Gates-Decompilation-",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6472,7 +6913,8 @@
                     "owner": "bIue9076r",
                     "repo": "fate-extella-decompilation",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6487,7 +6929,8 @@
                     "owner": "andresj-sanchez",
                     "repo": "frfi-decomp",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6502,7 +6945,8 @@
                     "owner": "scd5dev",
                     "repo": "GrannyDecompilationLegacy",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6517,7 +6961,8 @@
                     "owner": "Nugetinc",
                     "repo": "MixelsRushDecompilation",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6532,7 +6977,8 @@
                     "owner": "caramelcupcakes842",
                     "repo": "On-The-Run-The-Getaway",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6547,7 +6993,8 @@
                     "owner": "Bsquo",
                     "repo": "pcopter_wii",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6562,7 +7009,8 @@
                     "owner": "Juanen100",
                     "repo": "SBMI-Decomp",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6577,7 +7025,8 @@
                     "owner": "connieprice",
                     "repo": "Terminator-Salvation-Lua",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6592,7 +7041,8 @@
                     "owner": "disinvite",
                     "repo": "jman-decomp",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6607,7 +7057,8 @@
                     "owner": "CelestialAmber",
                     "repo": "tokimemo",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6622,7 +7073,8 @@
                     "owner": "Fancy2209",
                     "repo": "wog-wiiware",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6637,7 +7089,8 @@
                     "owner": "Llamaware",
                     "repo": "age-of-speed2",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6652,7 +7105,8 @@
                     "owner": "EltaleLibrarian",
                     "repo": "Amazing",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6667,7 +7121,8 @@
                     "owner": "Gmon20",
                     "repo": "makethedecomp",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6682,7 +7137,8 @@
                     "owner": "smolkrieger",
                     "repo": "nuclear-neighbor",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6697,7 +7153,8 @@
                     "owner": "gays-studio",
                     "repo": "ChikisChaseAPK",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6712,7 +7169,8 @@
                     "owner": "SirHenricus",
                     "repo": "DrBrainActionReaction_PackageDecomp",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6727,7 +7185,8 @@
                     "owner": "fr3dsp",
                     "repo": "FNaF-Decomp",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6742,7 +7201,8 @@
                     "owner": "fr3dsp",
                     "repo": "FNaF-2-Decomp",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6757,7 +7217,8 @@
                     "owner": "SmithGoll",
                     "repo": "Greenier-Farm-3-Decomp",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6772,7 +7233,8 @@
                     "owner": "danvratil",
                     "repo": "jhgpc98decomp",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6787,7 +7249,8 @@
                     "owner": "redraincatching",
                     "repo": "locksmith",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6802,7 +7265,8 @@
                     "owner": "caramelcupcakes842",
                     "repo": "On-The-Run-2-Decomp",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6817,7 +7281,8 @@
                     "owner": "caramelcupcakes842",
                     "repo": "On-The-Run-Vegas-Decomp",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6832,7 +7297,8 @@
                     "owner": "CalebPancake",
                     "repo": "Taiko-No-Tatsujin-Wii-Ketteiban",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6847,7 +7313,8 @@
                     "owner": "fr3dsp",
                     "repo": "TheImpossibleGame-Decomp",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6862,7 +7329,8 @@
                     "owner": "Jhuyghue",
                     "repo": "donburi-decomp",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 },
                 {
                   "node_type": "item",
@@ -6877,7 +7345,8 @@
                     "owner": "Swiftshine",
                     "repo": "wlsi",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
                 }
               ],
               "description": null,
@@ -6894,7 +7363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:24:54.276Z",
+    "last_updated": "2026-08-29T01:58:26.116Z",
     "original_repository_info": {
       "archived": false,
       "id": 694645895,
@@ -6902,7 +7371,7 @@
       "last_commit": "2026-08-02T13:14:00Z",
       "owner": "CharlotteCross1998",
       "repo": "awesome-game-decompilations",
-      "stars": 548
+      "stars": 550
     },
     "original_repository_sha": "432836bc8b293f3b96e21c52d1f7d5e7fec9ec34",
     "enhanced_repository": "enhansome/enhansome-game-decompilations",
