@@ -26,92 +26,92 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 ## GameBoy
 
-* [Pokémon Red](https://github.com/pret/pokered) ⭐ 4,965 | 🐛 22 | 🌐 Assembly | 📅 2026-09-22
-* [Pokémon Yellow](https://github.com/pret/pokeyellow) ⭐ 882 | 🐛 3 | 🌐 Assembly | 📅 2026-09-02
+* [Pokémon Red](https://github.com/pret/pokered) ⭐ 4,967 | 🐛 22 | 🌐 Assembly | 📅 2026-09-22
+* [Pokémon Yellow](https://github.com/pret/pokeyellow) ⭐ 884 | 🐛 3 | 🌐 Assembly | 📅 2026-09-02
 * [Pokémon Gold (SpaceWorld Demo)](https://github.com/pret/pokegold-spaceworld) ⭐ 399 | 🐛 2 | 🌐 Assembly | 📅 2026-09-27
 
 ## Gameboy Colour
 
-* [Pokémon Crystal](https://github.com/pret/pokecrystal) ⭐ 2,514 | 🐛 57 | 🌐 Assembly | 📅 2026-09-29
+* [Pokémon Crystal](https://github.com/pret/pokecrystal) ⭐ 2,513 | 🐛 57 | 🌐 Assembly | 📅 2026-09-29
 * [Pokémon Gold](https://github.com/pret/pokegold) ⭐ 720 | 🐛 4 | 🌐 Assembly | 📅 2026-09-29
 * [Pokémon TCG 1](https://github.com/pret/poketcg) ⭐ 328 | 🐛 7 | 🌐 Assembly | 📅 2026-09-22
 * [Pokémon Pinball](https://github.com/pret/pokepinball) ⭐ 200 | 🐛 4 | 🌐 Assembly | 📅 2026-08-01
 * [Pokémon TCG 2](https://github.com/pret/poketcg2) ⭐ 94 | 🐛 5 | 🌐 Assembly | 📅 2026-09-22
-* [Pokémon Puzzle](https://github.com/angheloalf/puzzleleague64) ⭐ 38 | 🐛 0 | 🌐 C | 📅 2026-10-01
+* [Pokémon Puzzle](https://github.com/angheloalf/puzzleleague64) ⭐ 38 | 🐛 0 | 🌐 C | 📅 2026-10-03
 
 ## GameBoy Advance
 
-* [Pokémon Emerald](https://github.com/pret/pokeemerald) ⭐ 3,518 | 🐛 80 | 🌐 C | 📅 2026-10-01
+* [Pokémon Emerald](https://github.com/pret/pokeemerald) ⭐ 3,523 | 🐛 81 | 🌐 C | 📅 2026-10-01
 * [Pokémon FireRed](https://github.com/pret/pokefirered) ⭐ 1,630 | 🐛 27 | 🌐 C | 📅 2026-09-26
 * [Pokémon Ruby](https://github.com/pret/pokeruby) ⭐ 996 | 🐛 35 | 🌐 C | 📅 2026-09-29
-* [The Legend of Zelda: Minish Cap](https://github.com/zeldaret/tmc) ⭐ 901 | 🐛 5 | 🌐 C | 📅 2026-09-27
+* [The Legend of Zelda: Minish Cap](https://github.com/zeldaret/tmc) ⭐ 902 | 🐛 5 | 🌐 C | 📅 2026-09-27
 * [Pokémon Mystery Dungeon: Red Rescue Team](https://github.com/pret/pmd-red) ⭐ 283 | 🐛 3 | 🌐 C | 📅 2026-10-02
 * [Pokémon Pinball Ruby & Sapphire](https://github.com/pret/pokepinballrs) ⭐ 145 | 🐛 13 | 🌐 Assembly | 📅 2026-09-27
-* [Pokémon Emerald (JP)](https://github.com/pret/pokeemerald-jp) ⭐ 66 | 🐛 3 | 🌐 Assembly | 📅 2021-10-08
-* [Klonoa: Empire of Dreams](https://github.com/Dream-Atelier/kl-eod-decomp) ⭐ 14 | 🐛 7 | 🌐 C | 📅 2026-09-05
+* [Pokémon Emerald (JP)](https://github.com/pret/pokeemerald-jp) ⭐ 67 | 🐛 3 | 🌐 Assembly | 📅 2021-10-08
+* [Klonoa: Empire of Dreams](https://github.com/Dream-Atelier/kl-eod-decomp) ⭐ 15 | 🐛 7 | 🌐 C | 📅 2026-09-05
 
 ## Nintendo 64
 
-* [The Legend of Zelda: Majora's Mask (Native Port)](https://github.com/Zelda64Recomp/Zelda64Recomp) ⭐ 7,337 | 🐛 140 | 🌐 C | 📅 2026-09-25
-* [The Legend of Zelda: Ocarina of Time](https://github.com/zeldaret/oot) ⭐ 5,548 | 🐛 73 | 🌐 C | 📅 2026-09-30
+* [The Legend of Zelda: Majora's Mask (Native Port)](https://github.com/Zelda64Recomp/Zelda64Recomp) ⭐ 7,341 | 🐛 140 | 🌐 C | 📅 2026-09-25
+* [The Legend of Zelda: Ocarina of Time](https://github.com/zeldaret/oot) ⭐ 5,549 | 🐛 73 | 🌐 C | 📅 2026-09-30
 * [The Legend of Zelda: Majora's Mask](https://github.com/zeldaret/mm) ⭐ 1,729 | 🐛 13 | 🌐 C | 📅 2026-09-26
 * [Animal Forest](https://github.com/zeldaret/af) ⭐ 297 | 🐛 7 | 🌐 C | 📅 2026-08-16
-* [Pokémon Stadium](https://github.com/pret/pokestadium) ⭐ 208 | 🐛 7 | 🌐 C | 📅 2026-09-29
+* [Pokémon Stadium](https://github.com/pret/pokestadium) ⭐ 208 | 🐛 7 | 🌐 C | 📅 2026-10-03
 * [Pokémon Snap](https://github.com/ethteck/pokemonsnap) ⭐ 106 | 🐛 9 | 🌐 C | 📅 2026-09-12
 * [Pokémon Stadium 2](https://github.com/pret/pokestadiumgs) ⭐ 52 | 🐛 0 | 🌐 C | 📅 2026-07-10
 * [⚠️ Body Harvest](https://github.com/jaytheham/body-harvest-decompilation) ⭐ 44 | 🐛 2 | 🌐 C | 📅 2026-10-03
 
 ## Nintendo Gamecube
 
-* [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp) ⭐ 2,062 | 🐛 35 | 🌐 C++ | 📅 2026-06-23
-* [Animal Crossing](https://github.com/acreteam/ac-decomp) ⭐ 1,382 | 🐛 6 | 🌐 C | 📅 2026-07-18
-* [The Legend of Zelda: Wind Waker](https://github.com/zeldaret/tww) ⭐ 1,032 | 🐛 175 | 🌐 C++ | 📅 2026-10-03
+* [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp) ⭐ 2,063 | 🐛 35 | 🌐 C++ | 📅 2026-06-23
+* [Animal Crossing](https://github.com/acreteam/ac-decomp) ⭐ 1,383 | 🐛 6 | 🌐 C | 📅 2026-07-18
+* [The Legend of Zelda: Wind Waker](https://github.com/zeldaret/tww) ⭐ 1,039 | 🐛 175 | 🌐 C++ | 📅 2026-10-03
 * [⚠️ Star Fox Adventures](https://github.com/zcanann/SFA-Decomp) ⭐ 64 | 🐛 2 | 🌐 C | 📅 2026-09-30
-* [Animal Forest e+](https://github.com/acreteam/afe-decomp) ⭐ 48 | 🐛 0 | 🌐 C | 📅 2026-09-16
-* [Pokémon XD: Gale of Darkness](https://github.com/TeamOrre/xd-decomp) ⭐ 31 | 🐛 2 | 🌐 C | 📅 2026-09-11
+* [Animal Forest e+](https://github.com/acreteam/afe-decomp) ⭐ 49 | 🐛 0 | 🌐 C | 📅 2026-09-16
+* [Pokémon XD: Gale of Darkness](https://github.com/TeamOrre/xd-decomp) ⭐ 32 | 🐛 2 | 🌐 C | 📅 2026-09-11
 * [⚠️ The Sims 2](https://github.com/natebag/Sims2DECOMP) ⭐ 19 | 🐛 2 | 🌐 C++ | 📅 2026-06-10
 
 ## Nintendo DS
 
 * [Pokémon HeartGold](https://github.com/pret/pokeheartgold) ⭐ 603 | 🐛 10 | 🌐 Assembly | 📅 2026-09-21
-* [Pokémon Platinum](https://github.com/pret/pokeplatinum) ⭐ 545 | 🐛 16 | 🌐 C | 📅 2026-09-20
+* [Pokémon Platinum](https://github.com/pret/pokeplatinum) ⭐ 547 | 🐛 16 | 🌐 C | 📅 2026-09-20
 * [Pokémon Diamond](https://github.com/pret/pokediamond) ⭐ 530 | 🐛 6 | 🌐 Assembly | 📅 2026-09-10
 * [Pokémon Mystery Dungeon: Explorers of Sky](https://github.com/pret/pmd-sky) ⭐ 138 | 🐛 2 | 🌐 Assembly | 📅 2026-10-02
-* [Phantom Hourglass](https://github.com/zeldaret/ph) ⭐ 106 | 🐛 40 | 🌐 C++ | 📅 2026-08-04
+* [Phantom Hourglass](https://github.com/zeldaret/ph) ⭐ 107 | 🐛 40 | 🌐 C++ | 📅 2026-08-04
 * [Pokémon Black](https://github.com/pokemodding/pokeblack) ⭐ 52 | 🐛 1 | 🌐 Assembly | 📅 2026-09-27
 * [Dragon Quest IX](https://github.com/DQIX/dqix-decomp) ⭐ 42 | 🐛 12 | 🌐 C++ | 📅 2026-09-12
-* [The Legend of Zelda: Spirit Tracks](https://github.com/yanis002/st) ⭐ 9 | 🐛 0 | 🌐 C++ | 📅 2026-10-02
+* [The Legend of Zelda: Spirit Tracks](https://github.com/yanis002/st) ⭐ 10 | 🐛 0 | 🌐 C++ | 📅 2026-10-02
 
 ## Nintendo Wii
 
-* [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp) ⭐ 2,062 | 🐛 35 | 🌐 C++ | 📅 2026-06-23
-* [The Legend of Zelda: Skyward Sword](https://github.com/zeldaret/ss) ⭐ 179 | 🐛 18 | 🌐 C++ | 📅 2026-10-03
-* [Rock Band 3 (Wii)](https://github.com/DarkRTA/rb3) ⭐ 118 | 🐛 0 | 🌐 C++ | 📅 2026-07-16
+* [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp) ⭐ 2,063 | 🐛 35 | 🌐 C++ | 📅 2026-06-23
+* [The Legend of Zelda: Skyward Sword](https://github.com/zeldaret/ss) ⭐ 180 | 🐛 17 | 🌐 C++ | 📅 2026-10-03
+* [Rock Band 3 (Wii)](https://github.com/DarkRTA/rb3) ⭐ 118 | 🐛 0 | 🌐 C++ | 📅 2026-10-03
 * [Pokémon Battle Revolution](https://github.com/bgsamm/pbr-dtk) ⭐ 17 | 🐛 0 | 🌐 C | 📅 2026-09-19
-* [Pokepark Wii: Pikachu's Adventure](https://github.com/sephdb/pokepark-wii-decomp) ⭐ 15 | 🐛 0 | 🌐 C | 📅 2026-10-02
+* [Pokepark Wii: Pikachu's Adventure](https://github.com/sephdb/pokepark-wii-decomp) ⭐ 15 | 🐛 0 | 🌐 C | 📅 2026-10-03
 * [Pokémon Rumble](https://github.com/KooShnoo/pokemon-rumble) ⭐ 11 | 🐛 2 | 🌐 C++ | 📅 2026-04-24
 
 ## Nintendo 3DS
 
-* [The Legend of Zelda: Ocarina of Time 3D](https://github.com/zeldaret/oot3d) ⭐ 84 | 🐛 3 | 🌐 C++ | 📅 2026-09-04
+* [The Legend of Zelda: Ocarina of Time 3D](https://github.com/zeldaret/oot3d) ⭐ 85 | 🐛 3 | 🌐 C++ | 📅 2026-09-04
 
 ## Nintendo Switch
 
-* [The Legend of Zelda: Breath of The Wild](https://github.com/zeldaret/botw) ⭐ 2,159 | 🐛 19 | 🌐 C++ | 📅 2026-09-27
-* [Lego City Undercover](https://github.com/Nintendocustom/Lego-City-Undercover-Decompilation) ⭐ 27 | 🐛 2 | 🌐 C++ | 📅 2026-10-02
-* [The Legend of Zelda: Link's Awakening](https://github.com/Owen-Splat/las-decomp) ⭐ 8 | 🐛 0 | 📅 2026-03-21
+* [The Legend of Zelda: Breath of The Wild](https://github.com/zeldaret/botw) ⭐ 2,159 | 🐛 19 | 🌐 C++ | 📅 2026-10-03
+* [Lego City Undercover](https://github.com/Nintendocustom/Lego-City-Undercover-Decompilation) ⭐ 27 | 🐛 3 | 🌐 C++ | 📅 2026-10-02
+* [The Legend of Zelda: Link's Awakening](https://github.com/Owen-Splat/las-decomp) ⭐ 7 | 🐛 0 | 📅 2026-03-21
 
 ## Xbox 360
 
-* [Sonic Unleashed](https://github.com/hedge-dev/UnleashedRecomp) ⭐ 5,108 | 🐛 239 | 🌐 C++ | 📅 2026-06-29
-* [Blue Dragon](https://github.com/zolaware/reblue) ⭐ 738 | 🐛 33 | 🌐 C++ | 📅 2026-10-02
-* [Ace Combat 6: Fires of Liberation](https://github.com/sal063/AC6_recomp) ⭐ 482 | 🐛 28 | 🌐 C++ | 📅 2026-08-22
-* [Viva Pinata: Trouble In Paradise](https://github.com/SolarCookies/TiP-Recomp) ⭐ 190 | 🐛 15 | 🌐 C++ | 📅 2026-10-03
+* [Sonic Unleashed](https://github.com/hedge-dev/UnleashedRecomp) ⭐ 5,112 | 🐛 239 | 🌐 C++ | 📅 2026-06-29
+* [Blue Dragon](https://github.com/zolaware/reblue) ⭐ 740 | 🐛 32 | 🌐 C++ | 📅 2026-10-02
+* [Ace Combat 6: Fires of Liberation](https://github.com/sal063/AC6_recomp) ⭐ 483 | 🐛 28 | 🌐 C++ | 📅 2026-08-22
+* [Viva Pinata: Trouble In Paradise](https://github.com/SolarCookies/TiP-Recomp) ⭐ 191 | 🐛 15 | 🌐 C++ | 📅 2026-10-03
 * [Banjo-Kazooie Nuts and Bolts](https://github.com/masterspike52/reNut) ⭐ 144 | 🐛 1 | 🌐 C++ | 📅 2026-09-14
 * [Rock Band 3 (Xbox 360)](https://github.com/ihatecompvir/band3_recomp) ⭐ 51 | 🐛 0 | 🌐 C++ | 📅 2026-10-02
 * [Destroy All Humans: Path of the Furon](https://github.com/masterspike52/reDAHM) ⭐ 39 | 🐛 2 | 🌐 C++ | 📅 2026-09-26
 * [Dance Central 3](https://github.com/rjkiv/dc3-decomp) ⭐ 37 | 🐛 0 | 🌐 C++ | 📅 2026-10-03
-* [Halo 3 Delta](https://github.com/twist84/halo3_cache_release_recomp/) ⭐ 34 | 🐛 0 | 🌐 C++ | 📅 2026-06-22
+* [Halo 3 Delta](https://github.com/twist84/halo3_cache_release_recomp/) ⭐ 35 | 🐛 0 | 🌐 C++ | 📅 2026-06-22
 * [Guitar Hero 2](https://github.com/YoshiCrystal9/re-gh2) ⭐ 28 | 🐛 2 | 🌐 C++ | 📅 2026-02-27
 * [Crackdown](https://github.com/SkiddyToast/Crackdown) ⭐ 26 | 🐛 1 | 🌐 C++ | 📅 2026-03-04
 * [Crackdown 2](https://github.com/matty45/Crackdown2-Recomp) ⭐ 25 | 🐛 7 | 🌐 Python | 📅 2026-08-07
@@ -124,15 +124,15 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [Diablo](https://github.com/diasurgical/devilution) ⭐ 8,998 | 🐛 42 | 🌐 C++ | 📅 2025-09-15
 
-* [Super Mario 64](https://github.com/n64decomp/sm64) ⭐ 8,799 | 🐛 29 | 🌐 C | 📅 2024-02-04
+* [Super Mario 64](https://github.com/n64decomp/sm64) ⭐ 8,800 | 🐛 29 | 🌐 C | 📅 2024-02-04
 
-* [Space Cadet Pinball](https://github.com/k4zmu2a/SpaceCadetPinball) ⭐ 4,671 | 🐛 69 | 🌐 C++ | 📅 2024-08-21
+* [Space Cadet Pinball](https://github.com/k4zmu2a/SpaceCadetPinball) ⭐ 4,674 | 🐛 69 | 🌐 C++ | 📅 2024-08-21
 
 * [Lego Island](https://github.com/isledecomp/isle) ⭐ 3,479 | 🐛 4 | 🌐 C++ | 📅 2026-09-18
 
 * [Wipeout](https://github.com/phoboslab/wipeout-rewrite) ⭐ 2,970 | 🐛 68 | 🌐 C | 📅 2026-09-27
 
-* [Super Smash Bros. Melee](https://github.com/doldecomp/melee) ⭐ 2,325 | 🐛 23 | 🌐 C | 📅 2026-10-02
+* [Super Smash Bros. Melee](https://github.com/doldecomp/melee) ⭐ 2,332 | 🐛 25 | 🌐 C | 📅 2026-10-03
 
 * [Paper Mario](https://github.com/pmret/papermario) ⭐ 1,621 | 🐛 34 | 🌐 C | 📅 2026-09-26
 
@@ -144,37 +144,37 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [Sonic the Hedgehog 1 & 2 (Mobile)](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) ⭐ 1,141 | 🐛 16 | 🌐 C++ | 📅 2026-09-06
 
-* [Castlevania: Symphony of the Night](https://github.com/xeeynamo/sotn-decomp) ⭐ 1,110 | 🐛 22 | 🌐 C | 📅 2026-10-03
+* [Super Mario Galaxy](https://github.com/SMGCommunity/Petari) ⭐ 1,112 | 🐛 0 | 🌐 C++ | 📅 2026-10-03
 
-* [Super Mario Galaxy](https://github.com/SMGCommunity/Petari) ⭐ 1,105 | 🐛 0 | 🌐 C++ | 📅 2026-10-02
+* [Castlevania: Symphony of the Night](https://github.com/xeeynamo/sotn-decomp) ⭐ 1,111 | 🐛 23 | 🌐 C | 📅 2026-10-03
 
-* [Tomb Raider I & II](https://github.com/LostArtefacts/TRX) ⭐ 1,000 | 🐛 161 | 🌐 C | 📅 2026-10-02
+* [Tomb Raider I & II](https://github.com/LostArtefacts/TRX) ⭐ 1,002 | 🐛 159 | 🌐 C | 📅 2026-10-03
 
-* [Silent Hill](https://github.com/Vatuu/silent-hill-decomp) ⭐ 876 | 🐛 10 | 🌐 C | 📅 2026-09-16
+* [Silent Hill](https://github.com/Vatuu/silent-hill-decomp) ⭐ 878 | 🐛 10 | 🌐 C | 📅 2026-09-16
 
-* [Touhou (PC-98)](https://github.com/nmlgc/ReC98) ⭐ 870 | 🐛 4 | 🌐 Assembly | 📅 2026-03-16
+* [Touhou (PC-98)](https://github.com/nmlgc/ReC98) ⭐ 872 | 🐛 4 | 🌐 Assembly | 📅 2026-03-16
 
 * [Mario Party 4](https://github.com/mariopartyrd/marioparty4) ⭐ 860 | 🐛 3 | 🌐 C | 📅 2026-09-24
 
-* [Sonic Mania](https://github.com/Rubberduckycooly/Sonic-Mania-Decompilation) ⭐ 805 | 🐛 12 | 🌐 C | 📅 2026-09-21
+* [Sonic Mania](https://github.com/Rubberduckycooly/Sonic-Mania-Decompilation) ⭐ 806 | 🐛 12 | 🌐 C | 📅 2026-09-21
 
-* [Metal Gear Solid](https://github.com/FoxdieTeam/mgs_reversing) ⭐ 793 | 🐛 7 | 🌐 C | 📅 2026-10-03
+* [Metal Gear Solid](https://github.com/FoxdieTeam/mgs_reversing) ⭐ 793 | 🐛 6 | 🌐 C | 📅 2026-10-03
 
-* [Sonic the Hedgehog CD (Mobile)](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation) ⭐ 707 | 🐛 7 | 🌐 C++ | 📅 2026-08-16
+* [Sonic the Hedgehog CD (Mobile)](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation) ⭐ 708 | 🐛 7 | 🌐 C++ | 📅 2026-08-16
 
-* [Sonic Advance 2](https://github.com/SAT-R/sa2) ⭐ 674 | 🐛 9 | 🌐 C | 📅 2026-08-01
+* [Sonic Advance 2](https://github.com/SAT-R/sa2) ⭐ 673 | 🐛 9 | 🌐 C | 📅 2026-08-01
 
-* [Minecraft: Nintendo Switch Edition](https://github.com/GRAnimated/MinecraftLCE) ⭐ 611 | 🐛 9 | 🌐 C++ | 📅 2026-09-29
+* [Minecraft: Nintendo Switch Edition](https://github.com/GRAnimated/MinecraftLCE) ⭐ 611 | 🐛 9 | 🌐 C++ | 📅 2026-10-03
 
-* [Touhou 06: The Embodiment of Scarlet Devil](https://github.com/happyhavoc/th06) ⭐ 601 | 🐛 14 | 🌐 C++ | 📅 2026-10-02
+* [Touhou 06: The Embodiment of Scarlet Devil](https://github.com/happyhavoc/th06) ⭐ 601 | 🐛 14 | 🌐 C++ | 📅 2026-10-03
 
-* [Legend of Dragoon](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains) ⭐ 536 | 🐛 177 | 🌐 Java | 📅 2026-09-28
+* [Legend of Dragoon](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains) ⭐ 537 | 🐛 177 | 🌐 Java | 📅 2026-09-28
 
 * [Mario Kart Wii](https://github.com/riidefi/mkw) ⭐ 466 | 🐛 29 | 🌐 C | 📅 2025-09-16
 
 * [Crash Team Racing](https://github.com/CTR-tools/CTR-ModSDK) ⭐ 447 | 🐛 20 | 🌐 C | 📅 2026-07-05
 
-* [Super Mario Odyssey](https://github.com/MonsterDruide1/OdysseyDecomp) ⭐ 437 | 🐛 209 | 🌐 C++ | 📅 2026-10-03
+* [Super Mario Odyssey](https://github.com/MonsterDruide1/OdysseyDecomp) ⭐ 437 | 🐛 210 | 🌐 C++ | 📅 2026-10-03
 
 * [Diddy Kong Racing](https://github.com/davidsm64/diddy-kong-racing) ⭐ 423 | 🐛 4 | 🌐 C | 📅 2026-10-01
 
@@ -186,27 +186,27 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [Star Fox 64](https://github.com/sonicdcer/sf64) ⭐ 347 | 🐛 0 | 🌐 C | 📅 2026-09-28
 
-* [Metroid Prime](https://github.com/primedecomp/prime) ⭐ 326 | 🐛 13 | 🌐 C++ | 📅 2026-10-03
+* [Metroid Prime](https://github.com/primedecomp/prime) ⭐ 327 | 🐛 10 | 🌐 C++ | 📅 2026-10-03
 
-* [Super Mario Sunshine](https://github.com/doldecomp/sms) ⭐ 319 | 🐛 13 | 🌐 C++ | 📅 2026-10-02
+* [Super Mario Sunshine](https://github.com/doldecomp/sms) ⭐ 321 | 🐛 14 | 🌐 C++ | 📅 2026-10-02
 
-* [Deus Ex: Human Revolution](https://github.com/rrika/cdcEngineDXHR) ⭐ 317 | 🐛 0 | 🌐 C++ | 📅 2026-06-24
+* [Deus Ex: Human Revolution](https://github.com/rrika/cdcEngineDXHR) ⭐ 318 | 🐛 0 | 🌐 C++ | 📅 2026-06-24
 
-* [Pikmin](https://github.com/projectPiki/pikmin) ⭐ 310 | 🐛 2 | 🌐 C | 📅 2026-09-08
+* [Pikmin](https://github.com/projectPiki/pikmin) ⭐ 311 | 🐛 2 | 🌐 C | 📅 2026-09-08
 
 * [Resident Evil 2](https://github.com/OpenBiohazard2/OpenBiohazard2) ⭐ 290 | 🐛 11 | 🌐 Go | 📅 2026-08-17
 
-* [Battle City](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Battle%20City) ⭐ 282 | 🐛 0 | 🌐 Assembly | 📅 2026-08-12
+* [Battle City](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Battle%20City) ⭐ 283 | 🐛 0 | 🌐 Assembly | 📅 2026-08-12
 
 * [Duke Nukem: Zero Hour](https://github.com/gillou68310/dukenukemzerohour) ⭐ 274 | 🐛 0 | 🌐 C | 📅 2025-11-06
 
-* [Street Fighter III: 3rd Strike](https://github.com/crowded-street/3s-decomp) ⭐ 272 | 🐛 0 | 🌐 C | 📅 2026-04-03
+* [Street Fighter III: 3rd Strike](https://github.com/crowded-street/3s-decomp) ⭐ 273 | 🐛 0 | 🌐 C | 📅 2026-04-03
+
+* [Resident Evil - Code: Veronica X](https://github.com/fmil95/recvx-decomp) ⭐ 261 | 🐛 0 | 🌐 C | 📅 2026-10-02
 
 * [Super Smash Bros.](https://github.com/vetritheretri/ssb-decomp-re) ⭐ 261 | 🐛 4 | 🌐 C | 📅 2026-09-08
 
-* [Resident Evil - Code: Veronica X](https://github.com/fmil95/recvx-decomp) ⭐ 259 | 🐛 0 | 🌐 C | 📅 2026-10-02
-
-* [Sly Cooper and the Thievius Raccoonus](https://github.com/TheOnlyZac/sly1) ⭐ 253 | 🐛 11 | 🌐 C++ | 📅 2026-09-26
+* [Sly Cooper and the Thievius Raccoonus](https://github.com/TheOnlyZac/sly1) ⭐ 254 | 🐛 11 | 🌐 C++ | 📅 2026-09-26
 
 * [Sonic Runners](https://github.com/itsmattkc/RunnersDecomp) ⭐ 243 | 🐛 2 | 🌐 C# | 📅 2023-09-06
 
@@ -222,17 +222,17 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [Harvest Moon 64](https://github.com/harvestwhisperer/hm64-decomp) ⭐ 218 | 🐛 2 | 🌐 C | 📅 2026-07-02
 
-* [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet) ⭐ 217 | 🐛 1 | 🌐 C | 📅 2026-10-02
+* [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet) ⭐ 217 | 🐛 1 | 🌐 C | 📅 2026-10-03
 
-* [Wii Menu](https://github.com/koopthekoopa/wii-ipl) ⭐ 211 | 🐛 2 | 🌐 C | 📅 2026-09-20
+* [Wii Menu](https://github.com/koopthekoopa/wii-ipl) ⭐ 212 | 🐛 2 | 🌐 C | 📅 2026-09-20
 
-* [Need for Speed: Most Wanted](https://github.com/dbalatoni13/nfsmw) ⭐ 202 | 🐛 13 | 🌐 C++ | 📅 2026-10-02
+* [Need for Speed: Most Wanted](https://github.com/dbalatoni13/nfsmw) ⭐ 203 | 🐛 13 | 🌐 C++ | 📅 2026-10-02
 
 * [PaRappa The Rapper 2](https://github.com/parappadev/parappa2) ⭐ 201 | 🐛 6 | 🌐 C | 📅 2026-09-17
 
 * [Cave Story](https://github.com/gameblabla/CSE2) ⭐ 198 | 🐛 0 | 🌐 C++ | 📅 2026-03-12
 
-* [Mario Kart: Double Dash!!](https://github.com/doldecomp/mkdd) ⭐ 193 | 🐛 10 | 🌐 C++ | 📅 2026-09-17
+* [Mario Kart: Double Dash!!](https://github.com/doldecomp/mkdd) ⭐ 193 | 🐛 14 | 🌐 C++ | 📅 2026-09-17
 
 * [Snowboard Kids 2](https://github.com/cdlewis/snowboardkids2-decomp) ⭐ 188 | 🐛 4 | 🌐 C | 📅 2026-09-27
 
@@ -240,9 +240,9 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [VIB Ribbon](https://github.com/open-ribbon/open-ribbon) ⭐ 187 | 🐛 2 | 🌐 C | 📅 2025-08-26
 
-* [Earthbound](https://github.com/Herringway/ebsrc) ⭐ 180 | 🐛 10 | 🌐 Assembly | 📅 2026-10-02
+* [Earthbound](https://github.com/Herringway/ebsrc) ⭐ 180 | 🐛 12 | 🌐 Assembly | 📅 2026-10-02
 
-* [Spyro the Dragon](https://github.com/TheMobyCollective/spyro-1) ⭐ 174 | 🐛 8 | 🌐 C | 📅 2026-09-25
+* [Spyro the Dragon](https://github.com/TheMobyCollective/spyro-1) ⭐ 174 | 🐛 8 | 🌐 C | 📅 2026-10-03
 
 * [Wii Sports](https://github.com/doldecomp/ogws) ⭐ 171 | 🐛 8 | 🌐 C | 📅 2026-09-19
 
@@ -250,13 +250,13 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [Doom PSX](https://github.com/Erick194/PSXDOOM-RE) ⭐ 161 | 🐛 1 | 🌐 C | 📅 2025-05-30
 
-* [Final Fantasy VII](https://github.com/xeeynamo/ff7-decomp) ⭐ 158 | 🐛 5 | 🌐 C | 📅 2026-10-03
+* [Final Fantasy VII](https://github.com/xeeynamo/ff7-decomp) ⭐ 160 | 🐛 3 | 🌐 C | 📅 2026-10-03
 
-* [Halo: Combat Evolved](https://github.com/punpckhdq/halo) ⭐ 158 | 🐛 4 | 🌐 C | 📅 2026-10-02
+* [Halo: Combat Evolved](https://github.com/punpckhdq/halo) ⭐ 160 | 🐛 5 | 🌐 C | 📅 2026-10-03
 
 * [Kirby & The Amazing Mirror](https://github.com/jiangzhengwenjz/katam) ⭐ 157 | 🐛 8 | 🌐 C | 📅 2026-09-17
 
-* [Vagrant Story](https://github.com/ser-pounce/rood-reverse) ⭐ 149 | 🐛 1 | 🌐 C | 📅 2026-10-02
+* [Vagrant Story](https://github.com/ser-pounce/rood-reverse) ⭐ 151 | 🐛 4 | 🌐 C | 📅 2026-10-03
 
 * [Banjo-Tooie](https://github.com/mr-wiseguy/banjo-tooie) ⭐ 143 | 🐛 6 | 🌐 C | 📅 2025-11-29
 
@@ -264,35 +264,35 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [Metroid: Zero Mission](https://github.com/metroidret/mzm) ⭐ 142 | 🐛 23 | 🌐 C | 📅 2026-08-23
 
-* [Xenoblade](https://github.com/xbret/xenoblade) ⭐ 137 | 🐛 1 | 🌐 C | 📅 2026-06-28
+* [Paper Mario: The Thousand-Year Door](https://github.com/doldecomp/ttyd) ⭐ 137 | 🐛 0 | 🌐 C | 📅 2026-09-27
 
-* [Paper Mario: The Thousand-Year Door](https://github.com/doldecomp/ttyd) ⭐ 136 | 🐛 0 | 🌐 C | 📅 2026-09-27
+* [Xenoblade](https://github.com/xbret/xenoblade) ⭐ 137 | 🐛 1 | 🌐 C | 📅 2026-06-28
 
 * [New Super Mario Bros. Wii](https://github.com/NSMBW-Community/NSMBW-Decomp) ⭐ 135 | 🐛 8 | 🌐 C | 📅 2026-09-27
 
 * [Runescape (2003)](https://github.com/2003scape/rsc-c) ⭐ 131 | 🐛 51 | 🌐 C | 📅 2026-07-16
 
-* [Silent Hill 3](https://github.com/dreamingmoths/memory-of-alessa) ⭐ 131 | 🐛 13 | 🌐 C | 📅 2026-10-02
+* [Silent Hill 3](https://github.com/dreamingmoths/memory-of-alessa) ⭐ 131 | 🐛 12 | 🌐 C | 📅 2026-10-03
 
 * [Spider-Man](https://github.com/krystalgamer/spidey-decomp) ⭐ 130 | 🐛 24 | 🌐 C | 📅 2026-08-28
 
 * [UNDERTALE (Xbox One)](https://github.com/kittibyte/UndertaleDecomp) ⭐ 127 | 🐛 7 | 🌐 Game Maker Language | 📅 2025-09-04
 
-* [Test Drive Unlimited](https://github.com/opentestdriveunlimited/OpenTestDriveUnlimited) ⭐ 124 | 🐛 68 | 🌐 C++ | 📅 2026-10-01
+* [Test Drive Unlimited](https://github.com/opentestdriveunlimited/OpenTestDriveUnlimited) ⭐ 124 | 🐛 69 | 🌐 C++ | 📅 2026-10-01
 
-* [Fatal Frame](https://github.com/mikompilation/himuro) ⭐ 120 | 🐛 0 | 🌐 C | 📅 2026-10-02
+* [Fatal Frame](https://github.com/mikompilation/himuro) ⭐ 120 | 🐛 0 | 🌐 C | 📅 2026-10-03
 
-* [Xenogears](https://github.com/ladysilverberg/xenogears-decomp) ⭐ 113 | 🐛 0 | 🌐 C | 📅 2026-09-26
+* [Xenogears](https://github.com/ladysilverberg/xenogears-decomp) ⭐ 115 | 🐛 0 | 🌐 C | 📅 2026-09-26
 
 * [Wave Race 64](https://github.com/llonsit/wave-race-64) ⭐ 109 | 🐛 0 | 🌐 Assembly | 📅 2026-09-26
 
+* [Super Mario 3D Land](https://github.com/3dsdecomp/redpepper) ⭐ 108 | 🐛 0 | 🌐 C++ | 📅 2025-05-22
+
 * [Sonic The Fighters](https://github.com/biggestsonicfan/stfdecomp) ⭐ 108 | 🐛 1 | 🌐 Assembly | 📅 2026-02-28
 
-* [Super Mario 3D Land](https://github.com/3dsdecomp/redpepper) ⭐ 107 | 🐛 0 | 🌐 C++ | 📅 2025-05-22
+* [Shadow of the Colossus](https://github.com/Fantaskink/SOTC) ⭐ 108 | 🐛 1 | 🌐 C | 📅 2026-03-02
 
 * [F-Zero X](https://github.com/inspectredc/fzerox) ⭐ 107 | 🐛 2 | 🌐 C | 📅 2026-09-17
-
-* [Shadow of the Colossus](https://github.com/Fantaskink/SOTC) ⭐ 107 | 🐛 1 | 🌐 C | 📅 2026-03-02
 
 * [Grand Theft Auto 2](https://github.com/CriminalRETeam/gta2_re) ⭐ 105 | 🐛 8 | 🌐 C++ | 📅 2026-10-03
 
@@ -300,7 +300,7 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [Super Mario Strikers](https://github.com/yannicksuter/smstrikers-decomp) ⭐ 96 | 🐛 0 | 🌐 C++ | 📅 2026-09-17
 
-* [Super Paper Mario](https://github.com/seekyct/spm-decomp) ⭐ 95 | 🐛 7 | 🌐 C | 📅 2026-09-12
+* [Super Paper Mario](https://github.com/seekyct/spm-decomp) ⭐ 96 | 🐛 7 | 🌐 C | 📅 2026-10-03
 
 * [Crash Bandicoot 2: Cortex Strikes Back](https://github.com/ughman/c2c) ⭐ 94 | 🐛 0 | 🌐 C | 📅 2020-09-30
 
@@ -316,11 +316,11 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [Kirby Air Ride](https://github.com/doldecomp/kar) ⭐ 85 | 🐛 0 | 🌐 Assembly | 📅 2025-02-26
 
-* [Sonic Advance 3](https://github.com/SAT-R/sa3) ⭐ 82 | 🐛 1 | 🌐 C | 📅 2026-10-02
+* [Sonic Advance 3](https://github.com/SAT-R/sa3) ⭐ 82 | 🐛 1 | 🌐 C | 📅 2026-10-03
+
+* [Legacy of Kain: Soul Reaver](https://github.com/fmil95/soul-re) ⭐ 81 | 🐛 2 | 🌐 C | 📅 2026-09-21
 
 * [Mario Party](https://github.com/mariopartyrd/marioparty) ⭐ 80 | 🐛 1 | 🌐 C | 📅 2026-06-28
-
-* [Legacy of Kain: Soul Reaver](https://github.com/fmil95/soul-re) ⭐ 80 | 🐛 2 | 🌐 C | 📅 2026-09-21
 
 * [Dr. Mario 64](https://github.com/angheloalf/drmario64) ⭐ 78 | 🐛 0 | 🌐 C | 📅 2026-08-13
 
@@ -328,15 +328,15 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [Sonic Advance](https://github.com/SAT-R/sa1) ⚠️ Archived
 
-* [Xenogears (non-matching)](https://github.com/yaz0r/Noah) ⭐ 76 | 🐛 1 | 🌐 C++ | 📅 2026-04-22
+* [Donkey Kong Country 2](https://github.com/p4plus2/DKC2-disassembly) ⭐ 76 | 🐛 1 | 🌐 Assembly | 📅 2024-08-09
 
-* [Donkey Kong Country 2](https://github.com/p4plus2/DKC2-disassembly) ⭐ 75 | 🐛 1 | 🌐 Assembly | 📅 2024-08-09
+* [Xenogears (non-matching)](https://github.com/yaz0r/Noah) ⭐ 76 | 🐛 1 | 🌐 C++ | 📅 2026-04-22
 
 * [Hitman: Codename 47](https://github.com/0danny/re47) ⚠️ Archived
 
-* [Black and White](https://github.com/openblack/bw1-decomp) ⭐ 73 | 🐛 18 | 🌐 C++ | 📅 2026-10-03
+* [Black and White](https://github.com/openblack/bw1-decomp) ⭐ 74 | 🐛 17 | 🌐 C++ | 📅 2026-10-03
 
-* [Metroid Prime 2](https://github.com/primedecomp/echoes) ⭐ 72 | 🐛 20 | 🌐 C++ | 📅 2026-10-03
+* [Metroid Prime 2](https://github.com/primedecomp/echoes) ⭐ 72 | 🐛 7 | 🌐 C++ | 📅 2026-10-03
 
 * [Mischief Makers](https://github.com/drahsid/mischief-makers) ⭐ 71 | 🐛 2 | 🌐 C | 📅 2026-09-19
 
@@ -348,15 +348,17 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [SkiFree](https://github.com/yuv422/skifree_decomp) ⭐ 69 | 🐛 0 | 🌐 Assembly | 📅 2022-12-08
 
-* [Chrono Cross](https://github.com/jdperos/chrono-cross-decomp) ⭐ 67 | 🐛 15 | 🌐 C | 📅 2026-04-14
+* [Minecraft: Xbox 360 Edition](https://github.com/LCERD/Minecraft-Xbox-360-Decompilation) ⭐ 68 | 🐛 1 | 🌐 C++ | 📅 2025-09-27
 
-* [Minecraft: Xbox 360 Edition](https://github.com/LCERD/Minecraft-Xbox-360-Decompilation) ⭐ 67 | 🐛 1 | 🌐 C++ | 📅 2025-09-27
+* [Chrono Cross](https://github.com/jdperos/chrono-cross-decomp) ⭐ 67 | 🐛 15 | 🌐 C | 📅 2026-04-14
 
 * [Metroid Fusion](https://github.com/metroidret/mf) ⭐ 65 | 🐛 6 | 🌐 C | 📅 2026-09-28
 
 * [Space Station Silicon Valley](https://github.com/mkst/sssv) ⭐ 65 | 🐛 1 | 🌐 C | 📅 2026-09-10
 
 * [Terraria](https://github.com/PPrism/TerrariaOGC) ⭐ 65 | 🐛 3 | 🌐 C# | 📅 2026-05-27
+
+* [Dark Cloud](https://github.com/adubbz/dcdecomp) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-10-03
 
 * [Mario Kart DS](https://github.com/XorTroll/mkds-re) ⭐ 62 | 🐛 0 | 🌐 C | 📅 2025-01-24
 
@@ -368,9 +370,7 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [Frogger (1997)](https://github.com/HighwayFrogs/frogger-psx) ⭐ 59 | 🐛 0 | 🌐 C | 📅 2025-06-17
 
-* [Star Wars Episode 1: Racer](https://github.com/tim-tim707/SW_RACER_RE) ⭐ 59 | 🐛 31 | 🌐 C | 📅 2026-10-02
-
-* [Dark Cloud](https://github.com/adubbz/dcdecomp) ⭐ 57 | 🐛 0 | 🌐 C++ | 📅 2026-10-03
+* [Star Wars Episode 1: Racer](https://github.com/tim-tim707/SW_RACER_RE) ⭐ 59 | 🐛 33 | 🌐 C | 📅 2026-10-03
 
 * [Guitar Hero: Warriors of Rock](https://github.com/kernaltrap8/WoR-Plus) ⭐ 53 | 🐛 2 | 🌐 HiveQL | 📅 2024-12-25
 
@@ -390,9 +390,9 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [Rhythm Heaven DS](https://github.com/patataofcourse/rhgold) ⭐ 48 | 🐛 0 | 🌐 C | 📅 2026-06-21
 
-* [Rocket: Robot on Wheels](https://github.com/RocketRet/Rocket-Robot-On-Wheels) ⭐ 47 | 🐛 4 | 🌐 C | 📅 2023-01-15
+* [de Blob](https://github.com/AdventureT/OpenToshi) ⭐ 47 | 🐛 3 | 🌐 C++ | 📅 2025-12-31
 
-* [de Blob](https://github.com/AdventureT/OpenToshi) ⭐ 46 | 🐛 3 | 🌐 C++ | 📅 2025-12-31
+* [Rocket: Robot on Wheels](https://github.com/RocketRet/Rocket-Robot-On-Wheels) ⭐ 47 | 🐛 4 | 🌐 C | 📅 2023-01-15
 
 * [New Super Mario Bros. U](https://github.com/aboood40091/red-pro2) ⭐ 43 | 🐛 0 | 🌐 C++ | 📅 2026-09-30
 
@@ -400,19 +400,19 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [FlatOut 2](https://github.com/ZackWilde27/FlatOut-2-decomp) ⭐ 43 | 🐛 0 | 🌐 C | 📅 2025-10-16
 
+* [Harvest Moon: Friends of Mineral Town](https://github.com/StanHash/fomt) ⭐ 43 | 🐛 0 | 🌐 Assembly | 📅 2026-02-08
+
 * [Klonoa 2: Lunatea's Veil](https://github.com/entriphy/kl2_lv_decomp) ⭐ 43 | 🐛 0 | 🌐 C | 📅 2025-03-07
 
 * [Sonic Rush Adventure](https://github.com/RushRE/SonicRushAdventure-Decomp) ⭐ 42 | 🐛 1 | 🌐 C | 📅 2026-09-23
 
 * [Balloon Fight](https://github.com/LuigiBlood/balloonfight_dis) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2018-10-21
 
-* [Banjo-Kazooie: Grunty's Revenge](https://github.com/jellees/bkgr) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2026-10-01
+* [Banjo-Kazooie: Grunty's Revenge](https://github.com/jellees/bkgr) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2026-10-03
 
-* [Harvest Moon: Friends of Mineral Town](https://github.com/StanHash/fomt) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2026-02-08
+* [Halo Reach](https://github.com/ChimpsAtSea/Reach) ⭐ 42 | 🐛 0 | 🌐 C++ | 📅 2026-10-01
 
 * [Megaman Zero 3](https://github.com/mmzret/rmz3) ⭐ 42 | 🐛 262 | 🌐 Assembly | 📅 2026-07-24
-
-* [Halo Reach](https://github.com/ChimpsAtSea/Reach) ⭐ 41 | 🐛 0 | 🌐 C++ | 📅 2026-10-01
 
 * [Aidyn Chronicles](https://github.com/blackgamma7/aidyn) ⭐ 40 | 🐛 0 | 🌐 C++ | 📅 2026-09-22
 
@@ -428,15 +428,15 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [Mario Party 5](https://github.com/mariopartyrd/marioparty5) ⭐ 37 | 🐛 2 | 🌐 C | 📅 2026-05-30
 
+* [Battlefield 2](https://github.com/kiwidoggie/breadflowerdos) ⭐ 37 | 🐛 3 | 🌐 C++ | 📅 2026-10-01
+
 * [Colin McRae Rally 2.0](https://github.com/CMR2Decomp/CMR2Decomp) ⭐ 37 | 🐛 0 | 🌐 HTML | 📅 2026-09-20
+
+* [Final Fantasy Crystal Chronicles](https://github.com/zcanann/FFCC-Decomp) ⭐ 37 | 🐛 2 | 🌐 C | 📅 2026-10-03
 
 * [Mario & Luigi: Superstar Saga](https://github.com/jellees/mlss) ⭐ 36 | 🐛 1 | 🌐 Assembly | 📅 2026-08-19
 
 * [Sonic the Hedgehog (J2ME)](https://github.com/Iso-Kilo/Sonic-1-J2ME-Decompilation) ⭐ 36 | 🐛 3 | 🌐 Java | 📅 2021-02-19
-
-* [Battlefield 2](https://github.com/kiwidoggie/breadflowerdos) ⭐ 36 | 🐛 3 | 🌐 C++ | 📅 2026-10-01
-
-* [Final Fantasy Crystal Chronicles](https://github.com/zcanann/FFCC-Decomp) ⭐ 36 | 🐛 2 | 🌐 C | 📅 2026-10-03
 
 * [Fire Emblem: The Blazing Blade](https://github.com/MokhaLeee/FireEmblem7J) ⭐ 36 | 🐛 0 | 🌐 Assembly | 📅 2026-09-29
 
@@ -452,9 +452,9 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [Sonic Riders](https://github.com/doldecomp/sonicriders) ⭐ 34 | 🐛 0 | 🌐 Assembly | 📅 2022-02-06
 
-* [Mega Man X4](https://github.com/sozud/mmx4) ⭐ 34 | 🐛 2 | 🌐 C | 📅 2026-10-02
+* [Mega Man X4](https://github.com/sozud/mmx4) ⭐ 34 | 🐛 2 | 🌐 C | 📅 2026-10-03
 
-* [Ty the Tasmanian Tiger](https://github.com/1superchip/ty-decomp) ⭐ 34 | 🐛 0 | 🌐 C++ | 📅 2026-09-30
+* [Ty the Tasmanian Tiger](https://github.com/1superchip/ty-decomp) ⭐ 34 | 🐛 0 | 🌐 C++ | 📅 2026-10-03
 
 * [Bomberman 64](https://github.com/bomberhackers/bm64) ⭐ 33 | 🐛 0 | 🌐 C | 📅 2026-03-08
 
@@ -470,15 +470,15 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [Castlevania: Order of Ecclesia](https://github.com/lagolunatic/ooe) ⭐ 30 | 🐛 0 | 🌐 C | 📅 2025-05-04
 
+* [Donkey Kong Country 1](https://github.com/Yoshifanatic1/Donkey-Kong-Country-1-Disassembly) ⭐ 30 | 🐛 0 | 🌐 Assembly | 📅 2021-11-21
+
+* [Ico](https://github.com/rossydoubleunderscore/ico-decomp) ⭐ 30 | 🐛 0 | 🌐 C | 📅 2026-01-08
+
 * [The World Ends With You](https://github.com/Yotona/twewy) ⭐ 30 | 🐛 0 | 🌐 C | 📅 2026-10-02
 
 * [Mario Party 7](https://github.com/mariopartyrd/marioparty7) ⭐ 29 | 🐛 10 | 🌐 C | 📅 2026-06-03
 
 * [Donkey Kong](https://github.com/RussianManSMWC/Donkey-Kong-NES-Disassembly) ⭐ 29 | 🐛 0 | 🌐 Assembly | 📅 2024-04-19
-
-* [Donkey Kong Country 1](https://github.com/Yoshifanatic1/Donkey-Kong-Country-1-Disassembly) ⭐ 29 | 🐛 0 | 🌐 Assembly | 📅 2021-11-21
-
-* [Ico](https://github.com/rossydoubleunderscore/ico-decomp) ⭐ 29 | 🐛 0 | 🌐 C | 📅 2026-01-08
 
 * [F-Zero X (Expansion Kit)](https://github.com/inspectredc/fzerox-expansion-kit) ⭐ 28 | 🐛 0 | 🌐 C | 📅 2026-01-06
 
@@ -526,19 +526,23 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [Naruto: Gekitō Ninja Taisen! 4](https://github.com/doldecomp/gnt4) ⭐ 23 | 🐛 0 | 🌐 Assembly | 📅 2022-08-10
 
+* [SSX 3](https://github.com/ssxdecomp/ssx3) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-10-01
+
 * [The SpongeBob SquarePants Movie](https://github.com/bfbbdecomp/tssm) ⭐ 23 | 🐛 0 | 🌐 C++ | 📅 2026-06-15
 
 * [Tomb Raider: Legend](https://github.com/TheIndra55/cdcEngine) ⭐ 23 | 🐛 0 | 🌐 C++ | 📅 2024-12-24
 
 * [Mario Party 6](https://github.com/mariopartyrd/marioparty6) ⭐ 22 | 🐛 1 | 🌐 C | 📅 2026-07-23
 
-* [SSX 3](https://github.com/ssxdecomp/ssx3) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2026-10-01
+* [Gauntlet Dark Legacy](https://github.com/sabishii-bit/Gauntlet-Dark-Legacy-Decompilation) ⭐ 22 | 🐛 2 | 🌐 C | 📅 2026-09-25
 
 * [Superman 64](https://github.com/farisawan-2000/superman) ⭐ 22 | 🐛 0 | 🌐 Assembly | 📅 2021-04-17
 
 * [Mario Party 9](https://github.com/mariopartyrd/marioparty9) ⭐ 21 | 🐛 0 | 🌐 C | 📅 2025-04-01
 
-* [Gauntlet Dark Legacy](https://github.com/sabishii-bit/Gauntlet-Dark-Legacy-Decompilation) ⭐ 21 | 🐛 2 | 🌐 C | 📅 2026-09-25
+* [Donkey Kong Country 3](https://github.com/Yoshifanatic1/Donkey-Kong-Country-3-Disassembly) ⭐ 21 | 🐛 0 | 🌐 Assembly | 📅 2021-09-30
+
+* [Jumping Flash](https://github.com/NotExactlySiev/aloha) ⭐ 21 | 🐛 0 | 🌐 Assembly | 📅 2026-10-03
 
 * [Oregon Trail II](https://github.com/katstasaph/otii) ⭐ 21 | 🐛 5 | 🌐 C | 📅 2025-08-01
 
@@ -548,21 +552,17 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [Burnout Paradise](https://github.com/BurnoutHints/b5-decomp) ⭐ 20 | 🐛 0 | 🌐 C++ | 📅 2025-06-15
 
-* [Donkey Kong Country 3](https://github.com/Yoshifanatic1/Donkey-Kong-Country-3-Disassembly) ⭐ 20 | 🐛 0 | 🌐 Assembly | 📅 2021-09-30
-
 * [Ghosts And Graves](https://github.com/AnthonyBongers/GhostsAndGraves) ⭐ 20 | 🐛 0 | 🌐 Assembly | 📅 2025-11-22
-
-* [Jumping Flash](https://github.com/NotExactlySiev/aloha) ⭐ 20 | 🐛 0 | 🌐 Assembly | 📅 2026-09-21
 
 * [New Play Control! Pikmin 2](https://github.com/projectPiki/pik2wii) ⭐ 20 | 🐛 0 | 🌐 C++ | 📅 2026-09-20
 
 * [Star Wars: Shadows of the Empire](https://github.com/eltalelibrarian/sote) ⭐ 20 | 🐛 1 | 🌐 C | 📅 2025-02-10
 
-* [Twisted Metal](https://github.com/abelbriggs1/tm1_decomp) ⭐ 20 | 🐛 0 | 🌐 C | 📅 2026-09-28
+* [Twisted Metal](https://github.com/abelbriggs1/tm1_decomp) ⭐ 20 | 🐛 0 | 🌐 C | 📅 2026-10-03
 
 * [Lego Star Wars III: The Clone Wars](https://github.com/ThePlayerRolo/LegoCloneWarsWii) ⭐ 18 | 🐛 0 | 🌐 C | 📅 2025-12-07
 
-* [Star Wars: Rogue Squadron](https://github.com/Tmcg2/rogue_squadron64) ⭐ 18 | 🐛 1 | 🌐 C | 📅 2026-09-30
+* [Star Wars: Rogue Squadron](https://github.com/Tmcg2/rogue_squadron64) ⭐ 18 | 🐛 1 | 🌐 C | 📅 2026-10-03
 
 * [Touhou 08: Imperishable Night](https://github.com/GensokyoClub/th08) ⭐ 18 | 🐛 0 | 🌐 C++ | 📅 2026-09-06
 
@@ -575,6 +575,8 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 * [Summon Night: Craft Sword Monogatari Hajimari no Ishi](https://github.com/jiangzhengwenjz/csm3) ⭐ 17 | 🐛 2 | 🌐 Assembly | 📅 2024-06-02
 
 * [Twisted Metal Black](https://github.com/abelbriggs1/tmb_decomp) ⭐ 17 | 🐛 0 | 🌐 C | 📅 2026-03-21
+
+* [Xenosaga Episode 1 - Der Wille zur Macht](https://github.com/squareman/xenosaga) ⭐ 17 | 🐛 0 | 🌐 C | 📅 2024-08-18
 
 * [Bugs Bunny: Lost in Time!](https://github.com/quantumdude836/BugsDecomp) ⭐ 16 | 🐛 0 | 🌐 C | 📅 2024-04-04
 
@@ -590,13 +592,13 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [Twisted Metal: Harbor City](https://github.com/jacobleeharris/tmhc) ⭐ 16 | 🐛 0 | 🌐 C | 📅 2026-08-30
 
-* [Xenosaga Episode 1 - Der Wille zur Macht](https://github.com/squareman/xenosaga) ⭐ 16 | 🐛 0 | 🌐 C | 📅 2024-08-18
-
 * [Mario Superstar Baseball](https://github.com/roeming/mssb-dtk) ⭐ 15 | 🐛 0 | 🌐 C | 📅 2026-07-12
 
 * [Donald Land](https://github.com/brunovalads/donald-land) ⭐ 15 | 🐛 0 | 🌐 Assembly | 📅 2018-12-19
 
 * [Inazuma Eleven Strikers](https://github.com/SwareJonge/IEStrikers) ⭐ 15 | 🐛 0 | 🌐 C | 📅 2024-06-13
+
+* [Lunar 2: Eternal Blue Complete](https://github.com/Zackmon/lunar2-psx-decomp) ⭐ 15 | 🐛 0 | 🌐 C | 📅 2022-04-14
 
 * [Real War](https://github.com/Francessco121/real-war-decomp) ⭐ 15 | 🐛 0 | 🌐 Dart | 📅 2024-05-27
 
@@ -612,8 +614,6 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [Dragon Ball Legends](https://github.com/GodkuHacking/Dragon-Ball-Legends) ⭐ 14 | 🐛 0 | 🌐 Smali | 📅 2024-05-09
 
-* [Lunar 2: Eternal Blue Complete](https://github.com/Zackmon/lunar2-psx-decomp) ⭐ 14 | 🐛 0 | 🌐 C | 📅 2022-04-14
-
 * [Minecraft: Pocket Edition](https://github.com/BrentDaMage/mcpe-engine) ⭐ 14 | 🐛 2 | 🌐 C++ | 📅 2026-02-11
 
 * [Alice in Wonderland](https://github.com/Alice-2010/Decomp) ⭐ 13 | 🐛 0 | 🌐 C | 📅 2026-09-10
@@ -625,6 +625,8 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 * [Evo's Space Adventures](https://github.com/mkst/esa) ⭐ 13 | 🐛 0 | 🌐 C | 📅 2026-05-10
 
 * [FlatOut: Ultimate Carnage](https://github.com/ZackWilde27/FlatOut-UC-Decomp) ⭐ 13 | 🐛 0 | 🌐 C++ | 📅 2025-10-22
+
+* [Inazuma Eleven 3 - Sekai e no Chousen: The Ogre!!](https://github.com/CacaBueno64/ie3ogres) ⭐ 13 | 🐛 0 | 🌐 Assembly | 📅 2026-09-01
 
 * [New Play Control! Pikmin](https://github.com/projectPiki/pik1wii) ⭐ 13 | 🐛 0 | 🌐 C | 📅 2026-09-04
 
@@ -639,8 +641,6 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 * [Brave Frontier](https://github.com/decompfrontier/client) ⭐ 12 | 🐛 9 | 🌐 C | 📅 2025-05-30
 
 * [Glover](https://github.com/rainchus/glover) ⭐ 12 | 🐛 0 | 🌐 C | 📅 2025-03-13
-
-* [Inazuma Eleven 3 - Sekai e no Chousen: The Ogre!!](https://github.com/CacaBueno64/ie3ogres) ⭐ 12 | 🐛 0 | 🌐 Assembly | 📅 2026-09-01
 
 * [Kirby's Dream Collection - Special Edition](https://github.com/Swiftshine/kdc) ⭐ 12 | 🐛 1 | 🌐 C | 📅 2026-07-24
 
@@ -796,6 +796,8 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 
 * [F-Zero AX](https://github.com/TheInfiniteLegend/f-0-ax) ⭐ 3 | 🐛 0 | 🌐 C | 📅 2024-04-27
 
+* [Flappy Bird](https://github.com/fr3dsp/FlappyBird-Decomp) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2025-10-28
+
 * [I Spy Spooky Mansion](https://github.com/AM7999/ISpy-SM-Decomp) ⭐ 3 | 🐛 0 | 🌐 C++ | 📅 2024-07-30
 
 * [Princess Maker 4](https://github.com/Yanis002/pm4) ⭐ 3 | 🐛 0 | 🌐 C | 📅 2026-01-30
@@ -817,8 +819,6 @@ Discussion: <https://github.com/CharlotteCross1998/awesome-game-decompilations/d
 * [DOMA Days](https://github.com/iestyn129/DOMADays) ⭐ 2 | 🐛 0 | 🌐 Ren'Py | 📅 2025-11-07
 
 * [Fate EXTELLA](https://github.com/bIue9076r/fate-extella-decompilation) ⭐ 2 | 🐛 0 | 🌐 C | 📅 2025-07-02
-
-* [Flappy Bird](https://github.com/fr3dsp/FlappyBird-Decomp) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2025-10-28
 
 * [Ford Racing](https://github.com/dashr9230/Gt2) ⭐ 2 | 🐛 0 | 🌐 C | 📅 2026-07-30
 
