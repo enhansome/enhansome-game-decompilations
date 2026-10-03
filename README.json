@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Dr. Mario",
-              "description": null,
+              "description": "Nostaljipi/dr-mario-disassembly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "⚠️ Battle City",
-              "description": null,
+              "description": "vgrichina/battlecity",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -57,7 +57,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Red",
-              "description": null,
+              "description": "pret/pokered",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -84,7 +84,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Yellow",
-              "description": null,
+              "description": "pret/pokeyellow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -111,7 +111,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Gold (SpaceWorld Demo)",
-              "description": null,
+              "description": "pret/pokegold-spaceworld",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -147,7 +147,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Crystal",
-              "description": null,
+              "description": "pret/pokecrystal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -174,7 +174,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Gold",
-              "description": null,
+              "description": "pret/pokegold",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -201,7 +201,7 @@
             {
               "node_type": "item",
               "title": "Pokémon TCG 1",
-              "description": null,
+              "description": "pret/poketcg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -228,7 +228,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Pinball",
-              "description": null,
+              "description": "pret/pokepinball",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -255,7 +255,7 @@
             {
               "node_type": "item",
               "title": "Pokémon TCG 2",
-              "description": null,
+              "description": "pret/poketcg2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -276,7 +276,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Puzzle",
-              "description": null,
+              "description": "AngheloAlf/puzzleleague64",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -304,7 +304,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Emerald",
-              "description": null,
+              "description": "pret/pokeemerald",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -317,7 +317,7 @@
                 "open_issues": 80,
                 "owner": "pret",
                 "repo": "pokeemerald",
-                "stars": 3514,
+                "stars": 3518,
                 "topics": [
                   "c",
                   "decompilation",
@@ -331,7 +331,7 @@
             {
               "node_type": "item",
               "title": "Pokémon FireRed",
-              "description": null,
+              "description": "pret/pokefirered",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -358,7 +358,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Ruby",
-              "description": null,
+              "description": "pret/pokeruby",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -385,7 +385,7 @@
             {
               "node_type": "item",
               "title": "The Legend of Zelda: Minish Cap",
-              "description": null,
+              "description": "zeldaret/tmc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -406,7 +406,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Mystery Dungeon: Red Rescue Team",
-              "description": null,
+              "description": "pret/pmd-red",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -433,7 +433,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Pinball Ruby & Sapphire",
-              "description": null,
+              "description": "pret/pokepinballrs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -460,7 +460,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Emerald (JP)",
-              "description": null,
+              "description": "pret/pokeemerald-jp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -487,7 +487,7 @@
             {
               "node_type": "item",
               "title": "Klonoa: Empire of Dreams",
-              "description": null,
+              "description": "Dream-Atelier/kl-eod-decomp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -515,7 +515,7 @@
             {
               "node_type": "item",
               "title": "The Legend of Zelda: Majora's Mask (Native Port)",
-              "description": null,
+              "description": "Zelda64Recomp/Zelda64Recomp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -528,7 +528,7 @@
                 "open_issues": 140,
                 "owner": "Zelda64Recomp",
                 "repo": "Zelda64Recomp",
-                "stars": 7336,
+                "stars": 7337,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -536,7 +536,7 @@
             {
               "node_type": "item",
               "title": "The Legend of Zelda: Ocarina of Time",
-              "description": null,
+              "description": "zeldaret/oot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -557,7 +557,7 @@
             {
               "node_type": "item",
               "title": "The Legend of Zelda: Majora's Mask",
-              "description": null,
+              "description": "zeldaret/mm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -580,7 +580,7 @@
             {
               "node_type": "item",
               "title": "Animal Forest",
-              "description": null,
+              "description": "zeldaret/af",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -601,7 +601,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Stadium",
-              "description": null,
+              "description": "pret/pokestadium",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -611,7 +611,7 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-09-29T00:11:22Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "pret",
                 "repo": "pokestadium",
                 "stars": 208,
@@ -628,7 +628,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Snap",
-              "description": null,
+              "description": "ethteck/pokemonsnap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -649,7 +649,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Stadium 2",
-              "description": null,
+              "description": "pret/pokestadiumgs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -676,7 +676,7 @@
             {
               "node_type": "item",
               "title": "⚠️ Body Harvest",
-              "description": null,
+              "description": "jaytheham/body-harvest-decompilation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -685,11 +685,11 @@
                 "id": 276809202,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-02T08:15:48Z",
+                "last_commit": "2026-10-03T02:19:03Z",
                 "open_issues": 2,
                 "owner": "jaytheham",
                 "repo": "body-harvest-decompilation",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -704,7 +704,7 @@
             {
               "node_type": "item",
               "title": "The Legend of Zelda: Twilight Princess",
-              "description": null,
+              "description": "zeldaret/tp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -717,7 +717,7 @@
                 "open_issues": 35,
                 "owner": "zeldaret",
                 "repo": "tp",
-                "stars": 2061,
+                "stars": 2062,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -725,7 +725,7 @@
             {
               "node_type": "item",
               "title": "Animal Crossing",
-              "description": null,
+              "description": "ACreTeam/ac-decomp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -746,7 +746,7 @@
             {
               "node_type": "item",
               "title": "The Legend of Zelda: Wind Waker",
-              "description": null,
+              "description": "zeldaret/tww",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -755,11 +755,11 @@
                 "id": 689343905,
                 "language": "C++",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-02T21:12:58Z",
-                "open_issues": 177,
+                "last_commit": "2026-10-03T01:14:44Z",
+                "open_issues": 175,
                 "owner": "zeldaret",
                 "repo": "tww",
-                "stars": 1026,
+                "stars": 1032,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -767,7 +767,7 @@
             {
               "node_type": "item",
               "title": "⚠️ Star Fox Adventures",
-              "description": null,
+              "description": "zcanann/SFA-Decomp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -780,7 +780,7 @@
                 "open_issues": 2,
                 "owner": "zcanann",
                 "repo": "SFA-Decomp",
-                "stars": 63,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -788,7 +788,7 @@
             {
               "node_type": "item",
               "title": "Animal Forest e+",
-              "description": null,
+              "description": "ACreTeam/afe-decomp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -809,7 +809,7 @@
             {
               "node_type": "item",
               "title": "Pokémon XD: Gale of Darkness",
-              "description": null,
+              "description": "TeamOrre/xd-decomp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -830,7 +830,7 @@
             {
               "node_type": "item",
               "title": "⚠️ The Sims 2",
-              "description": null,
+              "description": "natebag/Sims2DECOMP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -858,7 +858,7 @@
             {
               "node_type": "item",
               "title": "Pokémon HeartGold",
-              "description": null,
+              "description": "pret/pokeheartgold",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -885,7 +885,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Platinum",
-              "description": null,
+              "description": "pret/pokeplatinum",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -912,7 +912,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Diamond",
-              "description": null,
+              "description": "pret/pokediamond",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -939,7 +939,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Mystery Dungeon: Explorers of Sky",
-              "description": null,
+              "description": "pret/pmd-sky",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -960,7 +960,7 @@
             {
               "node_type": "item",
               "title": "Phantom Hourglass",
-              "description": null,
+              "description": "zeldaret/ph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -981,7 +981,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Black",
-              "description": null,
+              "description": "squiddonaut/pokeblack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1002,7 +1002,7 @@
             {
               "node_type": "item",
               "title": "Dragon Quest IX",
-              "description": null,
+              "description": "DQIX/dqix-decomp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1023,7 +1023,7 @@
             {
               "node_type": "item",
               "title": "The Legend of Zelda: Spirit Tracks",
-              "description": null,
+              "description": "Yanis002/st",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1032,7 +1032,7 @@
                 "id": 1121357897,
                 "language": "C++",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-02T21:07:15Z",
+                "last_commit": "2026-10-02T23:00:19Z",
                 "open_issues": 0,
                 "owner": "Yanis002",
                 "repo": "st",
@@ -1051,7 +1051,7 @@
             {
               "node_type": "item",
               "title": "The Legend of Zelda: Twilight Princess",
-              "description": null,
+              "description": "zeldaret/tp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1064,7 +1064,7 @@
                 "open_issues": 35,
                 "owner": "zeldaret",
                 "repo": "tp",
-                "stars": 2061,
+                "stars": 2062,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -1072,7 +1072,7 @@
             {
               "node_type": "item",
               "title": "The Legend of Zelda: Skyward Sword",
-              "description": null,
+              "description": "zeldaret/ss",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1081,7 +1081,7 @@
                 "id": 815286008,
                 "language": "C++",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-30T17:15:27Z",
+                "last_commit": "2026-10-03T00:32:12Z",
                 "open_issues": 18,
                 "owner": "zeldaret",
                 "repo": "ss",
@@ -1093,7 +1093,7 @@
             {
               "node_type": "item",
               "title": "Rock Band 3 (Wii)",
-              "description": null,
+              "description": "DarkRTA/rb3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1114,7 +1114,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Battle Revolution",
-              "description": null,
+              "description": "bgsamm/pbr-dtk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1135,7 +1135,7 @@
             {
               "node_type": "item",
               "title": "Pokepark Wii: Pikachu's Adventure",
-              "description": null,
+              "description": "SephDB/pokepark-wii-decomp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1156,7 +1156,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Rumble",
-              "description": null,
+              "description": "KooShnoo/pokemon-rumble",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1184,7 +1184,7 @@
             {
               "node_type": "item",
               "title": "The Legend of Zelda: Ocarina of Time 3D",
-              "description": null,
+              "description": "zeldaret/oot3d",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1212,7 +1212,7 @@
             {
               "node_type": "item",
               "title": "The Legend of Zelda: Breath of The Wild",
-              "description": null,
+              "description": "zeldaret/botw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1225,7 +1225,7 @@
                 "open_issues": 19,
                 "owner": "zeldaret",
                 "repo": "botw",
-                "stars": 2158,
+                "stars": 2159,
                 "topics": [
                   "breath-of-the-wild",
                   "clang",
@@ -1240,7 +1240,7 @@
             {
               "node_type": "item",
               "title": "Lego City Undercover",
-              "description": null,
+              "description": "Nintendocustom/Lego-City-Undercover-Decompilation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1261,7 +1261,7 @@
             {
               "node_type": "item",
               "title": "The Legend of Zelda: Link's Awakening",
-              "description": null,
+              "description": "Owen-Splat/las-decomp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1289,7 +1289,7 @@
             {
               "node_type": "item",
               "title": "Sonic Unleashed",
-              "description": null,
+              "description": "hedge-dev/UnleashedRecomp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1302,7 +1302,7 @@
                 "open_issues": 239,
                 "owner": "hedge-dev",
                 "repo": "UnleashedRecomp",
-                "stars": 5107,
+                "stars": 5108,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -1310,7 +1310,7 @@
             {
               "node_type": "item",
               "title": "Blue Dragon",
-              "description": null,
+              "description": "zolaware/reblue",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1320,7 +1320,7 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-02T13:33:59Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "zolaware",
                 "repo": "reblue",
                 "stars": 738,
@@ -1331,7 +1331,7 @@
             {
               "node_type": "item",
               "title": "Ace Combat 6: Fires of Liberation",
-              "description": null,
+              "description": "sal063/AC6_recomp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1352,7 +1352,7 @@
             {
               "node_type": "item",
               "title": "Viva Pinata: Trouble In Paradise",
-              "description": null,
+              "description": "SolarCookies/TiP-Recomp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1361,11 +1361,11 @@
                 "id": 1181687250,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-02T03:32:10Z",
+                "last_commit": "2026-10-03T01:10:21Z",
                 "open_issues": 15,
                 "owner": "SolarCookies",
                 "repo": "TiP-Recomp",
-                "stars": 188,
+                "stars": 190,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -1373,7 +1373,7 @@
             {
               "node_type": "item",
               "title": "Banjo-Kazooie Nuts and Bolts",
-              "description": null,
+              "description": "masterspike52/reNut",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1394,7 +1394,7 @@
             {
               "node_type": "item",
               "title": "Rock Band 3 (Xbox 360)",
-              "description": null,
+              "description": "ihatecompvir/band3_recomp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1415,7 +1415,7 @@
             {
               "node_type": "item",
               "title": "Destroy All Humans: Path of the Furon",
-              "description": null,
+              "description": "masterspike52/reDAHM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1436,7 +1436,7 @@
             {
               "node_type": "item",
               "title": "Dance Central 3",
-              "description": null,
+              "description": "rjkiv/dc3-decomp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1445,7 +1445,7 @@
                 "id": 1026372133,
                 "language": "C++",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-02T21:05:32Z",
+                "last_commit": "2026-10-03T04:09:28Z",
                 "open_issues": 0,
                 "owner": "rjkiv",
                 "repo": "dc3-decomp",
@@ -1457,7 +1457,7 @@
             {
               "node_type": "item",
               "title": "Halo 3 Delta",
-              "description": null,
+              "description": "twist84/halo3_cache_release_recomp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1470,7 +1470,7 @@
                 "open_issues": 0,
                 "owner": "twist84",
                 "repo": "halo3_cache_release_recomp",
-                "stars": 32,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -1478,7 +1478,7 @@
             {
               "node_type": "item",
               "title": "Guitar Hero 2",
-              "description": null,
+              "description": "YoshiCrystal9/re-gh2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1499,7 +1499,7 @@
             {
               "node_type": "item",
               "title": "Crackdown",
-              "description": null,
+              "description": "SkiddyToast/Crackdown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1520,7 +1520,7 @@
             {
               "node_type": "item",
               "title": "Crackdown 2",
-              "description": null,
+              "description": "matty45/Crackdown2-Recomp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1547,7 +1547,7 @@
             {
               "node_type": "item",
               "title": "Test Drive Unlimited",
-              "description": null,
+              "description": "testdriveupgrade/TDURE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1568,7 +1568,7 @@
             {
               "node_type": "item",
               "title": "Sonic 06 Demo",
-              "description": null,
+              "description": "PranchaD/re-Sonic06Demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1598,7 +1598,7 @@
                 {
                   "node_type": "item",
                   "title": "Diablo",
-                  "description": null,
+                  "description": "diasurgical/devilution",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1611,7 +1611,7 @@
                     "open_issues": 42,
                     "owner": "diasurgical",
                     "repo": "devilution",
-                    "stars": 8999,
+                    "stars": 8998,
                     "topics": [
                       "devilution",
                       "diablo",
@@ -1624,7 +1624,7 @@
                 {
                   "node_type": "item",
                   "title": "Super Mario 64",
-                  "description": null,
+                  "description": "n64decomp/sm64",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1645,7 +1645,7 @@
                 {
                   "node_type": "item",
                   "title": "Space Cadet Pinball",
-                  "description": null,
+                  "description": "k4zmu2a/SpaceCadetPinball",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1666,7 +1666,7 @@
                 {
                   "node_type": "item",
                   "title": "Lego Island",
-                  "description": null,
+                  "description": "isledecomp/isle",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1687,7 +1687,7 @@
                 {
                   "node_type": "item",
                   "title": "Wipeout",
-                  "description": null,
+                  "description": "phoboslab/wipeout-rewrite",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1708,7 +1708,7 @@
                 {
                   "node_type": "item",
                   "title": "Super Smash Bros. Melee",
-                  "description": null,
+                  "description": "doldecomp/melee",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1729,7 +1729,7 @@
                 {
                   "node_type": "item",
                   "title": "Paper Mario",
-                  "description": null,
+                  "description": "pmret/papermario",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1756,7 +1756,7 @@
                 {
                   "node_type": "item",
                   "title": "Driver 2",
-                  "description": null,
+                  "description": "OpenDriver2/REDRIVER2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1788,7 +1788,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario Kart 64",
-                  "description": null,
+                  "description": "n64decomp/mk64",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1809,7 +1809,7 @@
                 {
                   "node_type": "item",
                   "title": "Carmageddon",
-                  "description": null,
+                  "description": "dethrace-labs/dethrace",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1819,7 +1819,7 @@
                     "language": "C",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-07T08:49:07Z",
-                    "open_issues": 95,
+                    "open_issues": 96,
                     "owner": "dethrace-labs",
                     "repo": "dethrace",
                     "stars": 1202,
@@ -1837,7 +1837,7 @@
                 {
                   "node_type": "item",
                   "title": "Sonic the Hedgehog 1 & 2 (Mobile)",
-                  "description": null,
+                  "description": "RSDKModding/RSDKv4-Decompilation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1858,7 +1858,7 @@
                 {
                   "node_type": "item",
                   "title": "Castlevania: Symphony of the Night",
-                  "description": null,
+                  "description": "Xeeynamo/sotn-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1867,7 +1867,7 @@
                     "id": 441414984,
                     "language": "C",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-02T21:25:21Z",
+                    "last_commit": "2026-10-03T00:24:45Z",
                     "open_issues": 22,
                     "owner": "Xeeynamo",
                     "repo": "sotn-decomp",
@@ -1882,7 +1882,7 @@
                 {
                   "node_type": "item",
                   "title": "Super Mario Galaxy",
-                  "description": null,
+                  "description": "SMGCommunity/Petari",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1895,7 +1895,7 @@
                     "open_issues": 0,
                     "owner": "SMGCommunity",
                     "repo": "Petari",
-                    "stars": 1104,
+                    "stars": 1105,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
@@ -1903,7 +1903,7 @@
                 {
                   "node_type": "item",
                   "title": "Tomb Raider I & II",
-                  "description": null,
+                  "description": "LostArtefacts/TRX",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1929,7 +1929,7 @@
                 {
                   "node_type": "item",
                   "title": "Silent Hill",
-                  "description": null,
+                  "description": "shdecompilations/silent-hill-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1942,7 +1942,7 @@
                     "open_issues": 10,
                     "owner": "shdecompilations",
                     "repo": "silent-hill-decomp",
-                    "stars": 875,
+                    "stars": 876,
                     "topics": [
                       "decompilation",
                       "konami",
@@ -1954,7 +1954,7 @@
                 {
                   "node_type": "item",
                   "title": "Touhou (PC-98)",
-                  "description": null,
+                  "description": "nmlgc/ReC98",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1984,7 +1984,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario Party 4",
-                  "description": null,
+                  "description": "mariopartyrd/marioparty4",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2005,7 +2005,7 @@
                 {
                   "node_type": "item",
                   "title": "Sonic Mania",
-                  "description": null,
+                  "description": "RSDKModding/Sonic-Mania-Decompilation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2026,7 +2026,7 @@
                 {
                   "node_type": "item",
                   "title": "Metal Gear Solid",
-                  "description": null,
+                  "description": "FoxdieTeam/mgs_reversing",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2035,8 +2035,8 @@
                     "id": 223033157,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-28T23:09:16Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-10-03T00:57:58Z",
+                    "open_issues": 7,
                     "owner": "FoxdieTeam",
                     "repo": "mgs_reversing",
                     "stars": 793,
@@ -2047,7 +2047,7 @@
                 {
                   "node_type": "item",
                   "title": "Sonic the Hedgehog CD (Mobile)",
-                  "description": null,
+                  "description": "RSDKModding/RSDKv3-Decompilation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2068,7 +2068,7 @@
                 {
                   "node_type": "item",
                   "title": "Sonic Advance 2",
-                  "description": null,
+                  "description": "SAT-R/sa2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2095,7 +2095,7 @@
                 {
                   "node_type": "item",
                   "title": "Minecraft: Nintendo Switch Edition",
-                  "description": null,
+                  "description": "GRAnimated/MinecraftLCE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2120,7 +2120,7 @@
                 {
                   "node_type": "item",
                   "title": "Touhou 06: The Embodiment of Scarlet Devil",
-                  "description": null,
+                  "description": "GensokyoClub/th06",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2147,7 +2147,7 @@
                 {
                   "node_type": "item",
                   "title": "Legend of Dragoon",
-                  "description": null,
+                  "description": "Legend-of-Dragoon-Modding/Severed-Chains",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2171,7 +2171,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario Kart Wii",
-                  "description": null,
+                  "description": "snailspeed3/mkw",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2192,7 +2192,7 @@
                 {
                   "node_type": "item",
                   "title": "Crash Team Racing",
-                  "description": null,
+                  "description": "CTR-tools/CTR-ModSDK",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2222,7 +2222,7 @@
                 {
                   "node_type": "item",
                   "title": "Super Mario Odyssey",
-                  "description": null,
+                  "description": "MonsterDruide1/OdysseyDecomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2231,11 +2231,11 @@
                     "id": 385371793,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-10-02T22:17:50Z",
+                    "last_commit": "2026-10-03T04:35:37Z",
                     "open_issues": 209,
                     "owner": "MonsterDruide1",
                     "repo": "OdysseyDecomp",
-                    "stars": 436,
+                    "stars": 437,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
@@ -2243,7 +2243,7 @@
                 {
                   "node_type": "item",
                   "title": "Diddy Kong Racing",
-                  "description": null,
+                  "description": "DavidSM64/Diddy-Kong-Racing",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2264,7 +2264,7 @@
                 {
                   "node_type": "item",
                   "title": "Fallout 2",
-                  "description": null,
+                  "description": "alexbatalov/fallout2-re",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2291,7 +2291,7 @@
                 {
                   "node_type": "item",
                   "title": "Pikmin 2",
-                  "description": null,
+                  "description": "projectPiki/pikmin2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2317,7 +2317,7 @@
                 {
                   "node_type": "item",
                   "title": "Duke Nukem II",
-                  "description": null,
+                  "description": "lethal-guitar/Duke2Reconstructed",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2338,7 +2338,7 @@
                 {
                   "node_type": "item",
                   "title": "Star Fox 64",
-                  "description": null,
+                  "description": "sonicdcer/sf64",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2359,7 +2359,7 @@
                 {
                   "node_type": "item",
                   "title": "Metroid Prime",
-                  "description": null,
+                  "description": "PrimeDecomp/prime",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2368,8 +2368,8 @@
                     "id": 473362373,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-02T22:27:49Z",
-                    "open_issues": 11,
+                    "last_commit": "2026-10-03T03:52:03Z",
+                    "open_issues": 13,
                     "owner": "PrimeDecomp",
                     "repo": "prime",
                     "stars": 326,
@@ -2387,7 +2387,7 @@
                 {
                   "node_type": "item",
                   "title": "Super Mario Sunshine",
-                  "description": null,
+                  "description": "doldecomp/sms",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2408,7 +2408,7 @@
                 {
                   "node_type": "item",
                   "title": "Deus Ex: Human Revolution",
-                  "description": null,
+                  "description": "rrika/cdcEngineDXHR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2435,7 +2435,7 @@
                 {
                   "node_type": "item",
                   "title": "Pikmin",
-                  "description": null,
+                  "description": "projectPiki/pikmin",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2448,7 +2448,7 @@
                     "open_issues": 2,
                     "owner": "projectPiki",
                     "repo": "pikmin",
-                    "stars": 309,
+                    "stars": 310,
                     "topics": [
                       "cpp",
                       "decompilation",
@@ -2461,7 +2461,7 @@
                 {
                   "node_type": "item",
                   "title": "Resident Evil 2",
-                  "description": null,
+                  "description": "OpenBiohazard2/OpenBiohazard2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2486,7 +2486,7 @@
                 {
                   "node_type": "item",
                   "title": "Battle City",
-                  "description": null,
+                  "description": "cyneprepou4uk/NES-Games-Disassembly",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2507,7 +2507,7 @@
                 {
                   "node_type": "item",
                   "title": "Duke Nukem: Zero Hour",
-                  "description": null,
+                  "description": "Gillou68310/DukeNukemZeroHour",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2528,7 +2528,7 @@
                 {
                   "node_type": "item",
                   "title": "Street Fighter III: 3rd Strike",
-                  "description": null,
+                  "description": "crowded-street/3s-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2549,7 +2549,7 @@
                 {
                   "node_type": "item",
                   "title": "Super Smash Bros.",
-                  "description": null,
+                  "description": "VetriTheRetri/ssb-decomp-re",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2570,7 +2570,7 @@
                 {
                   "node_type": "item",
                   "title": "Resident Evil - Code: Veronica X",
-                  "description": null,
+                  "description": "AshfordFamily/recvx-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2583,7 +2583,7 @@
                     "open_issues": 0,
                     "owner": "AshfordFamily",
                     "repo": "recvx-decomp",
-                    "stars": 255,
+                    "stars": 259,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
@@ -2591,7 +2591,7 @@
                 {
                   "node_type": "item",
                   "title": "Sly Cooper and the Thievius Raccoonus",
-                  "description": null,
+                  "description": "TheOnlyZac/sly1",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2622,7 +2622,7 @@
                 {
                   "node_type": "item",
                   "title": "Sonic Runners",
-                  "description": null,
+                  "description": "itsmattkc/RunnersDecomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2643,7 +2643,7 @@
                 {
                   "node_type": "item",
                   "title": "Conker's Bad Fur Day",
-                  "description": null,
+                  "description": "mkst/conker",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2670,7 +2670,7 @@
                 {
                   "node_type": "item",
                   "title": "Doom 64",
-                  "description": null,
+                  "description": "Erick194/DOOM64-RE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2691,7 +2691,7 @@
                 {
                   "node_type": "item",
                   "title": "Contra",
-                  "description": null,
+                  "description": "vermiceli/nes-contra-us",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2719,7 +2719,7 @@
                 {
                   "node_type": "item",
                   "title": "Kirby 64: The Crystal Shards",
-                  "description": null,
+                  "description": "Kirby64Ret/kirby64",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2742,7 +2742,7 @@
                 {
                   "node_type": "item",
                   "title": "Fire Emblem: The Sacred Stones",
-                  "description": null,
+                  "description": "FireEmblemUniverse/fireemblem8u",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2763,7 +2763,7 @@
                 {
                   "node_type": "item",
                   "title": "Harvest Moon 64",
-                  "description": null,
+                  "description": "harvestwhisperer/hm64-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2784,7 +2784,7 @@
                 {
                   "node_type": "item",
                   "title": "Dinosaur Planet",
-                  "description": null,
+                  "description": "zestydevy/dinosaur-planet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2805,7 +2805,7 @@
                 {
                   "node_type": "item",
                   "title": "Wii Menu",
-                  "description": null,
+                  "description": "koopthekoopa/wii-ipl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2831,7 +2831,7 @@
                 {
                   "node_type": "item",
                   "title": "Need for Speed: Most Wanted",
-                  "description": null,
+                  "description": "dbalatoni13/nfsmw",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2861,7 +2861,7 @@
                 {
                   "node_type": "item",
                   "title": "PaRappa The Rapper 2",
-                  "description": null,
+                  "description": "parappadev/parappa2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2874,7 +2874,7 @@
                     "open_issues": 6,
                     "owner": "parappadev",
                     "repo": "parappa2",
-                    "stars": 200,
+                    "stars": 201,
                     "topics": [
                       "decomp",
                       "decompilation",
@@ -2890,7 +2890,7 @@
                 {
                   "node_type": "item",
                   "title": "Cave Story",
-                  "description": null,
+                  "description": "gameblabla/CSE2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2911,7 +2911,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario Kart: Double Dash!!",
-                  "description": null,
+                  "description": "doldecomp/mkdd",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2932,7 +2932,7 @@
                 {
                   "node_type": "item",
                   "title": "Snowboard Kids 2",
-                  "description": null,
+                  "description": "cdlewis/snowboardkids2-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2961,7 +2961,7 @@
                 {
                   "node_type": "item",
                   "title": "SpongeBob SquarePants: Battle for Bikini Bottom",
-                  "description": null,
+                  "description": "bfbbdecomp/bfbb",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2982,7 +2982,7 @@
                 {
                   "node_type": "item",
                   "title": "VIB Ribbon",
-                  "description": null,
+                  "description": "open-ribbon/open-ribbon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3010,7 +3010,7 @@
                 {
                   "node_type": "item",
                   "title": "Earthbound",
-                  "description": null,
+                  "description": "Herringway/ebsrc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3019,7 +3019,7 @@
                     "id": 147980981,
                     "language": "Assembly",
                     "license": null,
-                    "last_commit": "2024-07-22T20:22:03Z",
+                    "last_commit": "2026-10-02T23:54:40Z",
                     "open_issues": 10,
                     "owner": "Herringway",
                     "repo": "ebsrc",
@@ -3036,7 +3036,7 @@
                 {
                   "node_type": "item",
                   "title": "Spyro the Dragon",
-                  "description": null,
+                  "description": "TheMobyCollective/spyro-1",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3057,7 +3057,7 @@
                 {
                   "node_type": "item",
                   "title": "Wii Sports",
-                  "description": null,
+                  "description": "doldecomp/ogws",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3078,7 +3078,7 @@
                 {
                   "node_type": "item",
                   "title": "Panzer Dragoon Saga",
-                  "description": null,
+                  "description": "yaz0r/Azel",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3091,7 +3091,7 @@
                     "open_issues": 1,
                     "owner": "yaz0r",
                     "repo": "Azel",
-                    "stars": 168,
+                    "stars": 169,
                     "topics": [
                       "decompilation",
                       "ghidra",
@@ -3103,7 +3103,7 @@
                 {
                   "node_type": "item",
                   "title": "Doom PSX",
-                  "description": null,
+                  "description": "Erick194/PSXDOOM-RE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3123,8 +3123,29 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Final Fantasy VII",
+                  "description": "Xeeynamo/ff7-decomp",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Matching decomp of Final Fantasy VII for PlayStation 1",
+                    "homepage": null,
+                    "id": 1060063534,
+                    "language": "C",
+                    "license": null,
+                    "last_commit": "2026-10-03T01:15:04Z",
+                    "open_issues": 5,
+                    "owner": "Xeeynamo",
+                    "repo": "ff7-decomp",
+                    "stars": 158,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Halo: Combat Evolved",
-                  "description": null,
+                  "description": "punpckhdq/halo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3133,8 +3154,8 @@
                     "id": 982936086,
                     "language": "C",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-02T22:35:14Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-10-02T23:46:35Z",
+                    "open_issues": 4,
                     "owner": "punpckhdq",
                     "repo": "halo",
                     "stars": 158,
@@ -3144,29 +3165,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Final Fantasy VII",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Matching decomp of Final Fantasy VII for PlayStation 1",
-                    "homepage": null,
-                    "id": 1060063534,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2026-10-02T21:25:47Z",
-                    "open_issues": 6,
-                    "owner": "Xeeynamo",
-                    "repo": "ff7-decomp",
-                    "stars": 157,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:58:26.116Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Kirby & The Amazing Mirror",
-                  "description": null,
+                  "description": "jiangzhengwenjz/katam",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3194,7 +3194,7 @@
                 {
                   "node_type": "item",
                   "title": "Vagrant Story",
-                  "description": null,
+                  "description": "ser-pounce/rood-reverse",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3215,7 +3215,7 @@
                 {
                   "node_type": "item",
                   "title": "Banjo-Tooie",
-                  "description": null,
+                  "description": "Mr-Wiseguy/banjo-tooie",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3236,7 +3236,7 @@
                 {
                   "node_type": "item",
                   "title": "Cosmo's Cosmic Adventure",
-                  "description": null,
+                  "description": "smitelli/cosmore",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3265,7 +3265,7 @@
                 {
                   "node_type": "item",
                   "title": "Metroid: Zero Mission",
-                  "description": null,
+                  "description": "metroidret/mzm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3289,7 +3289,7 @@
                 {
                   "node_type": "item",
                   "title": "Xenoblade",
-                  "description": null,
+                  "description": "xbret/xenoblade",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3314,7 +3314,7 @@
                 {
                   "node_type": "item",
                   "title": "Paper Mario: The Thousand-Year Door",
-                  "description": null,
+                  "description": "doldecomp/ttyd",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3335,7 +3335,7 @@
                 {
                   "node_type": "item",
                   "title": "New Super Mario Bros. Wii",
-                  "description": null,
+                  "description": "NSMBW-Community/NSMBW-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3356,7 +3356,7 @@
                 {
                   "node_type": "item",
                   "title": "Runescape (2003)",
-                  "description": null,
+                  "description": "2003scape/rsc-c",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3389,7 +3389,7 @@
                 {
                   "node_type": "item",
                   "title": "Silent Hill 3",
-                  "description": null,
+                  "description": "dreamingmoths/memory-of-alessa",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3414,7 +3414,7 @@
                 {
                   "node_type": "item",
                   "title": "Spider-Man",
-                  "description": null,
+                  "description": "krystalgamer/spidey-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3439,7 +3439,7 @@
                 {
                   "node_type": "item",
                   "title": "UNDERTALE (Xbox One)",
-                  "description": null,
+                  "description": "kittibyte/UndertaleDecomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3460,7 +3460,7 @@
                 {
                   "node_type": "item",
                   "title": "Test Drive Unlimited",
-                  "description": null,
+                  "description": "opentestdriveunlimited/OpenTestDriveUnlimited",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3490,7 +3490,7 @@
                 {
                   "node_type": "item",
                   "title": "Fatal Frame",
-                  "description": null,
+                  "description": "Mikompilation/Himuro",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3511,7 +3511,7 @@
                 {
                   "node_type": "item",
                   "title": "Xenogears",
-                  "description": null,
+                  "description": "ladysilverberg/xenogears-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3532,7 +3532,7 @@
                 {
                   "node_type": "item",
                   "title": "Wave Race 64",
-                  "description": null,
+                  "description": "LLONSIT/Wave-Race-64",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3556,7 +3556,7 @@
                 {
                   "node_type": "item",
                   "title": "Sonic The Fighters",
-                  "description": null,
+                  "description": "biggestsonicfan/stfdecomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3577,7 +3577,7 @@
                 {
                   "node_type": "item",
                   "title": "Super Mario 3D Land",
-                  "description": null,
+                  "description": "3dsdecomp/RedPepper",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3601,7 +3601,7 @@
                 {
                   "node_type": "item",
                   "title": "F-Zero X",
-                  "description": null,
+                  "description": "inspectredc/fzerox",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3622,7 +3622,7 @@
                 {
                   "node_type": "item",
                   "title": "Shadow of the Colossus",
-                  "description": null,
+                  "description": "Fantaskink/SOTC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3651,7 +3651,7 @@
                 {
                   "node_type": "item",
                   "title": "Grand Theft Auto 2",
-                  "description": null,
+                  "description": "CriminalRETeam/gta2_re",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3660,7 +3660,7 @@
                     "id": 859324578,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-10-02T21:56:34Z",
+                    "last_commit": "2026-10-03T00:27:04Z",
                     "open_issues": 8,
                     "owner": "CriminalRETeam",
                     "repo": "gta2_re",
@@ -3677,7 +3677,7 @@
                 {
                   "node_type": "item",
                   "title": "Kingdom Hearts",
-                  "description": null,
+                  "description": "ethteck/kh1",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3698,7 +3698,7 @@
                 {
                   "node_type": "item",
                   "title": "Super Mario Strikers",
-                  "description": null,
+                  "description": "yannicksuter/smstrikers-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3724,7 +3724,7 @@
                 {
                   "node_type": "item",
                   "title": "Super Paper Mario",
-                  "description": null,
+                  "description": "SeekyCt/spm-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3753,7 +3753,7 @@
                 {
                   "node_type": "item",
                   "title": "Crash Bandicoot 2: Cortex Strikes Back",
-                  "description": null,
+                  "description": "ughman/c2c",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3774,7 +3774,7 @@
                 {
                   "node_type": "item",
                   "title": "Zuma Deluxe",
-                  "description": null,
+                  "description": "alula/CircleShootApp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3795,7 +3795,7 @@
                 {
                   "node_type": "item",
                   "title": "Ocarina of Time (& Wii Virtual Console N64 Emulator)",
-                  "description": null,
+                  "description": "zeldaret/oot-vc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3816,7 +3816,7 @@
                 {
                   "node_type": "item",
                   "title": "Super Smash Bros. Brawl",
-                  "description": null,
+                  "description": "doldecomp/brawl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3837,7 +3837,7 @@
                 {
                   "node_type": "item",
                   "title": "Pizza Tower",
-                  "description": null,
+                  "description": "femloy/OpenTower",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3858,7 +3858,7 @@
                 {
                   "node_type": "item",
                   "title": "Barnyard",
-                  "description": null,
+                  "description": "InfiniteC0re/OpenBarnyard",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3884,7 +3884,7 @@
                 {
                   "node_type": "item",
                   "title": "Kirby Air Ride",
-                  "description": null,
+                  "description": "doldecomp/kar",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3905,7 +3905,7 @@
                 {
                   "node_type": "item",
                   "title": "Sonic Advance 3",
-                  "description": null,
+                  "description": "SAT-R/sa3",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3926,7 +3926,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario Party",
-                  "description": null,
+                  "description": "mariopartyrd/marioparty",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3947,7 +3947,7 @@
                 {
                   "node_type": "item",
                   "title": "Legacy of Kain: Soul Reaver",
-                  "description": null,
+                  "description": "fmil95/soul-re",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3968,7 +3968,7 @@
                 {
                   "node_type": "item",
                   "title": "Dr. Mario 64",
-                  "description": null,
+                  "description": "AngheloAlf/drmario64",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3989,7 +3989,7 @@
                 {
                   "node_type": "item",
                   "title": "Yoshi's Story",
-                  "description": null,
+                  "description": "decompals/yoshis-story",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4010,7 +4010,7 @@
                 {
                   "node_type": "item",
                   "title": "Sonic Advance",
-                  "description": null,
+                  "description": "SAT-R/sa1",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4031,7 +4031,7 @@
                 {
                   "node_type": "item",
                   "title": "Xenogears (non-matching)",
-                  "description": null,
+                  "description": "yaz0r/Noah",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4056,7 +4056,7 @@
                 {
                   "node_type": "item",
                   "title": "Donkey Kong Country 2",
-                  "description": null,
+                  "description": "p4plus2/DKC2-disassembly",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4077,7 +4077,7 @@
                 {
                   "node_type": "item",
                   "title": "Hitman: Codename 47",
-                  "description": null,
+                  "description": "0danny/re47",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4101,7 +4101,7 @@
                 {
                   "node_type": "item",
                   "title": "Black and White",
-                  "description": null,
+                  "description": "openblack/bw1-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4110,11 +4110,11 @@
                     "id": 501673936,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-02T20:18:07Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-10-03T02:55:22Z",
+                    "open_issues": 18,
                     "owner": "openblack",
                     "repo": "bw1-decomp",
-                    "stars": 72,
+                    "stars": 73,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
@@ -4122,7 +4122,7 @@
                 {
                   "node_type": "item",
                   "title": "Metroid Prime 2",
-                  "description": null,
+                  "description": "PrimeDecomp/echoes",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4131,8 +4131,8 @@
                     "id": 573577286,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-02T22:47:23Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-03T04:19:41Z",
+                    "open_issues": 20,
                     "owner": "PrimeDecomp",
                     "repo": "echoes",
                     "stars": 72,
@@ -4150,7 +4150,7 @@
                 {
                   "node_type": "item",
                   "title": "Mischief Makers",
-                  "description": null,
+                  "description": "Drahsid/mischief-makers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4176,7 +4176,7 @@
                 {
                   "node_type": "item",
                   "title": "MediEvil",
-                  "description": null,
+                  "description": "MediEvilDecompilation/medievil-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4197,7 +4197,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario Party 3",
-                  "description": null,
+                  "description": "mariopartyrd/marioparty3",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4218,7 +4218,7 @@
                 {
                   "node_type": "item",
                   "title": "Super Mario Galaxy 2",
-                  "description": null,
+                  "description": "SMGCommunity/Garigari",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4239,7 +4239,7 @@
                 {
                   "node_type": "item",
                   "title": "SkiFree",
-                  "description": null,
+                  "description": "yuv422/skifree_decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4262,7 +4262,7 @@
                 {
                   "node_type": "item",
                   "title": "Chrono Cross",
-                  "description": null,
+                  "description": "jdperos/chrono-cross-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4283,7 +4283,7 @@
                 {
                   "node_type": "item",
                   "title": "Minecraft: Xbox 360 Edition",
-                  "description": null,
+                  "description": "LCERD/Minecraft-Xbox-360-Decompilation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4304,7 +4304,7 @@
                 {
                   "node_type": "item",
                   "title": "Metroid Fusion",
-                  "description": null,
+                  "description": "metroidret/mf",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4328,7 +4328,7 @@
                 {
                   "node_type": "item",
                   "title": "Space Station Silicon Valley",
-                  "description": null,
+                  "description": "mkst/sssv",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4354,7 +4354,7 @@
                 {
                   "node_type": "item",
                   "title": "Terraria",
-                  "description": null,
+                  "description": "PPrism/TerrariaOGC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4375,7 +4375,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario Kart DS",
-                  "description": null,
+                  "description": "XorTroll/mkds-re",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4403,7 +4403,7 @@
                 {
                   "node_type": "item",
                   "title": "New Super Mario Bros.",
-                  "description": null,
+                  "description": "NSMB-Decomp/nsmb",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4424,7 +4424,7 @@
                 {
                   "node_type": "item",
                   "title": "Bomberman Hero",
-                  "description": null,
+                  "description": "Bomberhackers/bmhero",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4445,7 +4445,7 @@
                 {
                   "node_type": "item",
                   "title": "Castlevania 64",
-                  "description": null,
+                  "description": "k64ret/cv64",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4466,7 +4466,7 @@
                 {
                   "node_type": "item",
                   "title": "Frogger (1997)",
-                  "description": null,
+                  "description": "HighwayFrogs/frogger-psx",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4487,7 +4487,7 @@
                 {
                   "node_type": "item",
                   "title": "Star Wars Episode 1: Racer",
-                  "description": null,
+                  "description": "tim-tim707/SW_RACER_RE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4497,7 +4497,7 @@
                     "language": "C",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-10-02T22:10:27Z",
-                    "open_issues": 29,
+                    "open_issues": 31,
                     "owner": "tim-tim707",
                     "repo": "SW_RACER_RE",
                     "stars": 59,
@@ -4508,7 +4508,7 @@
                 {
                   "node_type": "item",
                   "title": "Dark Cloud",
-                  "description": null,
+                  "description": "TheMoonPeople/Chronicle",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4517,11 +4517,11 @@
                     "id": 628511134,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-10-02T06:40:04Z",
+                    "last_commit": "2026-10-03T04:38:59Z",
                     "open_issues": 0,
                     "owner": "TheMoonPeople",
                     "repo": "Chronicle",
-                    "stars": 56,
+                    "stars": 57,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
@@ -4529,7 +4529,7 @@
                 {
                   "node_type": "item",
                   "title": "Guitar Hero: Warriors of Rock",
-                  "description": null,
+                  "description": "kernaltrap8/WoR-Plus",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4559,7 +4559,7 @@
                 {
                   "node_type": "item",
                   "title": "Jet Force Gemini",
-                  "description": null,
+                  "description": "Ryan-Myers/Jet-Force-Gemini",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4580,7 +4580,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario Party 2",
-                  "description": null,
+                  "description": "mariopartyrd/marioparty2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4601,7 +4601,7 @@
                 {
                   "node_type": "item",
                   "title": "Phoenix Wright: Ace Attorney",
-                  "description": null,
+                  "description": "atasro2/pwaa1",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4622,7 +4622,7 @@
                 {
                   "node_type": "item",
                   "title": "Buckshot Roulette",
-                  "description": null,
+                  "description": "uncreativeCultist/buckshot-decomp-public",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4649,7 +4649,7 @@
                 {
                   "node_type": "item",
                   "title": "Kirby's Epic Yarn",
-                  "description": null,
+                  "description": "Swiftshine/key",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4674,7 +4674,7 @@
                 {
                   "node_type": "item",
                   "title": "Sonic Adventure DX",
-                  "description": null,
+                  "description": "doldecomp/sadx",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4695,7 +4695,7 @@
                 {
                   "node_type": "item",
                   "title": "Angry Birds",
-                  "description": null,
+                  "description": "jooapa/Angry_Birds_Decompilation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4736,7 +4736,7 @@
                 {
                   "node_type": "item",
                   "title": "Rhythm Heaven DS",
-                  "description": null,
+                  "description": "patataofcourse/rhgold",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4762,7 +4762,7 @@
                 {
                   "node_type": "item",
                   "title": "Rocket: Robot on Wheels",
-                  "description": null,
+                  "description": "RocketRet/Rocket-Robot-On-Wheels",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4783,7 +4783,7 @@
                 {
                   "node_type": "item",
                   "title": "de Blob",
-                  "description": null,
+                  "description": "AdventureT/OpenToshi",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4804,7 +4804,7 @@
                 {
                   "node_type": "item",
                   "title": "New Super Mario Bros. U",
-                  "description": null,
+                  "description": "aboood40091/red-pro2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4828,7 +4828,7 @@
                 {
                   "node_type": "item",
                   "title": "Digimon World 3",
-                  "description": null,
+                  "description": "markisha64/ddw3",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4849,7 +4849,7 @@
                 {
                   "node_type": "item",
                   "title": "FlatOut 2",
-                  "description": null,
+                  "description": "ZackWilde27/FlatOut-2-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4872,7 +4872,7 @@
                 {
                   "node_type": "item",
                   "title": "Klonoa 2: Lunatea's Veil",
-                  "description": null,
+                  "description": "entriphy/kl2_lv_decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4898,7 +4898,7 @@
                 {
                   "node_type": "item",
                   "title": "Sonic Rush Adventure",
-                  "description": null,
+                  "description": "RushRE/SonicRushAdventure-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4919,7 +4919,7 @@
                 {
                   "node_type": "item",
                   "title": "Balloon Fight",
-                  "description": null,
+                  "description": "LuigiBlood/balloonfight_dis",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4940,7 +4940,7 @@
                 {
                   "node_type": "item",
                   "title": "Banjo-Kazooie: Grunty's Revenge",
-                  "description": null,
+                  "description": "jellees/bkgr",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4961,7 +4961,7 @@
                 {
                   "node_type": "item",
                   "title": "Harvest Moon: Friends of Mineral Town",
-                  "description": null,
+                  "description": "StanHash/fomt",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4982,7 +4982,7 @@
                 {
                   "node_type": "item",
                   "title": "Megaman Zero 3",
-                  "description": null,
+                  "description": "mmzret/rmz3",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5018,7 +5018,7 @@
                 {
                   "node_type": "item",
                   "title": "Halo Reach",
-                  "description": null,
+                  "description": "ChimpsAtSea/Reach",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5045,7 +5045,7 @@
                 {
                   "node_type": "item",
                   "title": "Aidyn Chronicles",
-                  "description": null,
+                  "description": "blackgamma7/Aidyn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5071,7 +5071,7 @@
                 {
                   "node_type": "item",
                   "title": "Chibi-Robo!",
-                  "description": null,
+                  "description": "eavpsp/cbr_decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5092,7 +5092,7 @@
                 {
                   "node_type": "item",
                   "title": "Jurassic Park: Operation Genesis",
-                  "description": null,
+                  "description": "AdventureT/OpenJPOG",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5113,7 +5113,7 @@
                 {
                   "node_type": "item",
                   "title": "Monster Hunter",
-                  "description": null,
+                  "description": "2Tie/mh1j",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5134,7 +5134,7 @@
                 {
                   "node_type": "item",
                   "title": "ShortLine",
-                  "description": null,
+                  "description": "konovalov-aleks/reSL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5170,7 +5170,7 @@
                 {
                   "node_type": "item",
                   "title": "Croc: Legend of the Gobbos",
-                  "description": null,
+                  "description": "Xeeynamo/croc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5191,7 +5191,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario Party 5",
-                  "description": null,
+                  "description": "mariopartyrd/marioparty5",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5212,7 +5212,7 @@
                 {
                   "node_type": "item",
                   "title": "Colin McRae Rally 2.0",
-                  "description": null,
+                  "description": "CMR2Decomp/CMR2Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5244,7 +5244,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario & Luigi: Superstar Saga",
-                  "description": null,
+                  "description": "jellees/mlss",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5265,7 +5265,7 @@
                 {
                   "node_type": "item",
                   "title": "Sonic the Hedgehog (J2ME)",
-                  "description": null,
+                  "description": "Iso-Kilo/Sonic-1-J2ME-Decompilation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5286,7 +5286,7 @@
                 {
                   "node_type": "item",
                   "title": "Battlefield 2",
-                  "description": null,
+                  "description": "kiwidoggie/breadflowerdos",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5311,7 +5311,7 @@
                 {
                   "node_type": "item",
                   "title": "Final Fantasy Crystal Chronicles",
-                  "description": null,
+                  "description": "zcanann/FFCC-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5320,7 +5320,7 @@
                     "id": 1102117447,
                     "language": "C",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-02T22:04:38Z",
+                    "last_commit": "2026-10-03T04:40:05Z",
                     "open_issues": 2,
                     "owner": "zcanann",
                     "repo": "FFCC-Decomp",
@@ -5332,7 +5332,7 @@
                 {
                   "node_type": "item",
                   "title": "Fire Emblem: The Blazing Blade",
-                  "description": null,
+                  "description": "MokhaLeee/FireEmblem7J",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5353,7 +5353,7 @@
                 {
                   "node_type": "item",
                   "title": "Neon Genesis Evangelion 64",
-                  "description": null,
+                  "description": "farisawan-2000/evangelion",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5374,7 +5374,7 @@
                 {
                   "node_type": "item",
                   "title": "Ratatouille",
-                  "description": null,
+                  "description": "ZounaModding/RatDecomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5401,7 +5401,7 @@
                 {
                   "node_type": "item",
                   "title": "Geometry Dash",
-                  "description": null,
+                  "description": "aloaf812/GD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5431,7 +5431,7 @@
                 {
                   "node_type": "item",
                   "title": "Luigi's Mansion",
-                  "description": null,
+                  "description": "Sage-of-Mirrors/zmansion",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5452,7 +5452,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario Kart: Super Circuit",
-                  "description": null,
+                  "description": "jellees/mksc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5473,7 +5473,7 @@
                 {
                   "node_type": "item",
                   "title": "Sonic Riders",
-                  "description": null,
+                  "description": "doldecomp/sonicriders",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5494,7 +5494,7 @@
                 {
                   "node_type": "item",
                   "title": "Mega Man X4",
-                  "description": null,
+                  "description": "sozud/mmx4",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5518,7 +5518,7 @@
                 {
                   "node_type": "item",
                   "title": "Ty the Tasmanian Tiger",
-                  "description": null,
+                  "description": "1superchip/ty-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5539,7 +5539,7 @@
                 {
                   "node_type": "item",
                   "title": "Bomberman 64",
-                  "description": null,
+                  "description": "Bomberhackers/bm64",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5559,8 +5559,29 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Resident Evil - Code: Veronica",
+                  "description": "fmil95/recv-dc-decomp",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Decompilation project of Resident Evil - Code: Veronica (DC) which aims to reconstruct the source code of the game. ",
+                    "homepage": null,
+                    "id": 1073827594,
+                    "language": "C",
+                    "license": null,
+                    "last_commit": "2026-01-20T20:45:29Z",
+                    "open_issues": 0,
+                    "owner": "fmil95",
+                    "repo": "recv-dc-decomp",
+                    "stars": 33,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Tokyo Bus Guide",
-                  "description": null,
+                  "description": "lhsazevedo/tbg-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5588,7 +5609,7 @@
                 {
                   "node_type": "item",
                   "title": "Need for Speed: Underground",
-                  "description": null,
+                  "description": "dbalatoni13/nfsug",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5609,7 +5630,7 @@
                 {
                   "node_type": "item",
                   "title": "AeroGauge",
-                  "description": null,
+                  "description": "LLONSIT/AeroGauge",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5633,29 +5654,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Resident Evil - Code: Veronica",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Decompilation project of Resident Evil - Code: Veronica (DC) which aims to reconstruct the source code of the game. ",
-                    "homepage": null,
-                    "id": 1073827594,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2026-01-20T20:45:29Z",
-                    "open_issues": 0,
-                    "owner": "fmil95",
-                    "repo": "recv-dc-decomp",
-                    "stars": 31,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:58:26.116Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Vandal Hearts",
-                  "description": null,
+                  "description": "shao113/vh",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5679,7 +5679,7 @@
                 {
                   "node_type": "item",
                   "title": "Castlevania: Order of Ecclesia",
-                  "description": null,
+                  "description": "LagoLunatic/ooe",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5700,7 +5700,7 @@
                 {
                   "node_type": "item",
                   "title": "The World Ends With You",
-                  "description": null,
+                  "description": "Yotona/twewy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5721,7 +5721,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario Party 7",
-                  "description": null,
+                  "description": "mariopartyrd/marioparty7",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5742,7 +5742,7 @@
                 {
                   "node_type": "item",
                   "title": "Donkey Kong",
-                  "description": null,
+                  "description": "RussianManSMWC/Donkey-Kong-NES-Disassembly",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5763,7 +5763,7 @@
                 {
                   "node_type": "item",
                   "title": "Donkey Kong Country 1",
-                  "description": null,
+                  "description": "Yoshifanatic1/Donkey-Kong-Country-1-Disassembly",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5784,7 +5784,7 @@
                 {
                   "node_type": "item",
                   "title": "Ico",
-                  "description": null,
+                  "description": "RossyDoubleUnderscore/ICO-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5805,7 +5805,7 @@
                 {
                   "node_type": "item",
                   "title": "F-Zero X (Expansion Kit)",
-                  "description": null,
+                  "description": "inspectredc/fzerox-expansion-kit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5826,7 +5826,7 @@
                 {
                   "node_type": "item",
                   "title": "Mother 1+2",
-                  "description": null,
+                  "description": "Normmatt/m12",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5847,7 +5847,7 @@
                 {
                   "node_type": "item",
                   "title": "FUEL",
-                  "description": null,
+                  "description": "widberg/FUELDecompilation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5868,7 +5868,7 @@
                 {
                   "node_type": "item",
                   "title": "Gex 64: Enter the Gecko",
-                  "description": null,
+                  "description": "MatBourgon/Gex64Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5889,7 +5889,7 @@
                 {
                   "node_type": "item",
                   "title": "Monster Hunter Portable 2nd G",
-                  "description": null,
+                  "description": "tclamb/mhp2g-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5910,7 +5910,7 @@
                 {
                   "node_type": "item",
                   "title": "Virtual Pro Wrestling 2: Ōdō Keishō",
-                  "description": null,
+                  "description": "AKI-Club/vpw2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5935,7 +5935,7 @@
                 {
                   "node_type": "item",
                   "title": "Yakuza",
-                  "description": null,
+                  "description": "Hamzaxx370/Ogre-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5956,7 +5956,7 @@
                 {
                   "node_type": "item",
                   "title": "Deltarune",
-                  "description": null,
+                  "description": "TeamBlossomDevs/DeltaruneDecomp_beta",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5977,7 +5977,7 @@
                 {
                   "node_type": "item",
                   "title": "Donkey Kong '94",
-                  "description": null,
+                  "description": "CelestialAmber/DKGBDisasm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5998,7 +5998,7 @@
                 {
                   "node_type": "item",
                   "title": "Gauntlet Legends",
-                  "description": null,
+                  "description": "Drahsid/gauntlet-legends",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6019,7 +6019,7 @@
                 {
                   "node_type": "item",
                   "title": "Probotector/Super C",
-                  "description": null,
+                  "description": "vermiceli/nes-super-c",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6048,7 +6048,7 @@
                 {
                   "node_type": "item",
                   "title": "Tomba!",
-                  "description": null,
+                  "description": "hansbonini/psx_tomba",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6075,7 +6075,7 @@
                 {
                   "node_type": "item",
                   "title": "Tube",
-                  "description": null,
+                  "description": "rep-stosw/tube64",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6117,7 +6117,7 @@
                 {
                   "node_type": "item",
                   "title": "Turok 3: Shadow of Oblivion",
-                  "description": null,
+                  "description": "Drahsid/turok3",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -6138,7 +6138,7 @@
                 {
                   "node_type": "item",
                   "title": "Rhythm Heaven Fever",
-                  "description": null,
+                  "description": "conhlee/rhf",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6164,7 +6164,7 @@
                 {
                   "node_type": "item",
                   "title": "Samurai Vs Zombies",
-                  "description": null,
+                  "description": "Decomp-And-Recomp/Samurai-Vs-Zombies",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6185,7 +6185,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario Party 8",
-                  "description": null,
+                  "description": "mariopartyrd/marioparty8",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6206,7 +6206,7 @@
                 {
                   "node_type": "item",
                   "title": "Castlevania: Aria of Sorrow",
-                  "description": null,
+                  "description": "testyourmine/cvaos",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6227,7 +6227,7 @@
                 {
                   "node_type": "item",
                   "title": "Harvest Moon: A Wonderful Life",
-                  "description": null,
+                  "description": "ChrisNonyminus/hmawl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6248,7 +6248,7 @@
                 {
                   "node_type": "item",
                   "title": "The Incredibles",
-                  "description": null,
+                  "description": "seilc/incredibles",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6269,7 +6269,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario Golf",
-                  "description": null,
+                  "description": "monde-lointain/mariogolf64",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6290,7 +6290,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario Party DS",
-                  "description": null,
+                  "description": "mariopartyrd/mariopartyDS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6311,7 +6311,7 @@
                 {
                   "node_type": "item",
                   "title": "Naruto: Gekitō Ninja Taisen! 4",
-                  "description": null,
+                  "description": "doldecomp/gnt4",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6332,7 +6332,7 @@
                 {
                   "node_type": "item",
                   "title": "The SpongeBob SquarePants Movie",
-                  "description": null,
+                  "description": "bfbbdecomp/tssm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6353,7 +6353,7 @@
                 {
                   "node_type": "item",
                   "title": "Tomb Raider: Legend",
-                  "description": null,
+                  "description": "TheIndra55/cdcEngine",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6374,7 +6374,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario Party 6",
-                  "description": null,
+                  "description": "mariopartyrd/marioparty6",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6395,7 +6395,7 @@
                 {
                   "node_type": "item",
                   "title": "SSX 3",
-                  "description": null,
+                  "description": "ssxdecomp/ssx3",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6416,7 +6416,7 @@
                 {
                   "node_type": "item",
                   "title": "Superman 64",
-                  "description": null,
+                  "description": "farisawan-2000/superman",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6437,7 +6437,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario Party 9",
-                  "description": null,
+                  "description": "mariopartyrd/marioparty9",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6458,7 +6458,7 @@
                 {
                   "node_type": "item",
                   "title": "Gauntlet Dark Legacy",
-                  "description": null,
+                  "description": "sabishii-bit/Gauntlet-Dark-Legacy-Decompilation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6486,7 +6486,7 @@
                 {
                   "node_type": "item",
                   "title": "Oregon Trail II",
-                  "description": null,
+                  "description": "katstasaph/otii",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6507,7 +6507,7 @@
                 {
                   "node_type": "item",
                   "title": "Sonic Lost World",
-                  "description": null,
+                  "description": "Radfordhound/OpenLW",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6528,7 +6528,7 @@
                 {
                   "node_type": "item",
                   "title": "Banjo-Kazooie (X360)",
-                  "description": null,
+                  "description": "banjo360/bk360",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6552,8 +6552,29 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Burnout Paradise",
+                  "description": "BurnoutHints/b5-decomp",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Burnout Paradise decompilation effort",
+                    "homepage": null,
+                    "id": 778981050,
+                    "language": "C++",
+                    "license": null,
+                    "last_commit": "2025-06-15T20:05:56Z",
+                    "open_issues": 0,
+                    "owner": "BurnoutHints",
+                    "repo": "b5-decomp",
+                    "stars": 20,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Donkey Kong Country 3",
-                  "description": null,
+                  "description": "Yoshifanatic1/Donkey-Kong-Country-3-Disassembly",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6574,7 +6595,7 @@
                 {
                   "node_type": "item",
                   "title": "Ghosts And Graves",
-                  "description": null,
+                  "description": "AnthonyBongers/GhostsAndGraves",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6606,7 +6627,7 @@
                 {
                   "node_type": "item",
                   "title": "Jumping Flash",
-                  "description": null,
+                  "description": "NotExactlySiev/aloha",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6627,7 +6648,7 @@
                 {
                   "node_type": "item",
                   "title": "New Play Control! Pikmin 2",
-                  "description": null,
+                  "description": "projectPiki/pik2wii",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6648,7 +6669,7 @@
                 {
                   "node_type": "item",
                   "title": "Star Wars: Shadows of the Empire",
-                  "description": null,
+                  "description": "EltaleLibrarian/SotE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6669,7 +6690,7 @@
                 {
                   "node_type": "item",
                   "title": "Twisted Metal",
-                  "description": null,
+                  "description": "abelbriggs1/tm1_decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6689,29 +6710,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Burnout Paradise",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Burnout Paradise decompilation effort",
-                    "homepage": null,
-                    "id": 778981050,
-                    "language": "C++",
-                    "license": null,
-                    "last_commit": "2025-06-15T20:05:56Z",
-                    "open_issues": 0,
-                    "owner": "BurnoutHints",
-                    "repo": "b5-decomp",
-                    "stars": 19,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:58:26.116Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Lego Star Wars III: The Clone Wars",
-                  "description": null,
+                  "description": "ThePlayerRolo/LegoCloneWarsWii",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6732,7 +6732,7 @@
                 {
                   "node_type": "item",
                   "title": "Star Wars: Rogue Squadron",
-                  "description": null,
+                  "description": "Tmcg2/rogue_squadron64",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6753,7 +6753,7 @@
                 {
                   "node_type": "item",
                   "title": "Touhou 08: Imperishable Night",
-                  "description": null,
+                  "description": "GensokyoClub/th08",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6774,7 +6774,7 @@
                 {
                   "node_type": "item",
                   "title": "Duke Nukem 64",
-                  "description": null,
+                  "description": "NBlood/Duke64-RE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6795,7 +6795,7 @@
                 {
                   "node_type": "item",
                   "title": "Quest 64",
-                  "description": null,
+                  "description": "Rainchus/Quest64-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6816,7 +6816,7 @@
                 {
                   "node_type": "item",
                   "title": "Star Ocean: Blue Sphere",
-                  "description": null,
+                  "description": "animaone/star-ocean-blue-sphere-source-code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6841,7 +6841,7 @@
                 {
                   "node_type": "item",
                   "title": "Summon Night: Craft Sword Monogatari Hajimari no Ishi",
-                  "description": null,
+                  "description": "jiangzhengwenjz/csm3",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6868,7 +6868,7 @@
                 {
                   "node_type": "item",
                   "title": "Twisted Metal Black",
-                  "description": null,
+                  "description": "abelbriggs1/tmb_decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6889,7 +6889,7 @@
                 {
                   "node_type": "item",
                   "title": "Bugs Bunny: Lost in Time!",
-                  "description": null,
+                  "description": "quantumdude836/BugsDecomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6910,7 +6910,7 @@
                 {
                   "node_type": "item",
                   "title": "Fire Emblem: Shadow Dragon",
-                  "description": null,
+                  "description": "Eebit/fe11-us",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6931,7 +6931,7 @@
                 {
                   "node_type": "item",
                   "title": "Hagi (GameCube & Wii emulator from Super Mario 3D All-Stars)",
-                  "description": null,
+                  "description": "GRAnimated/Hagi",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6952,7 +6952,7 @@
                 {
                   "node_type": "item",
                   "title": "Phoenix Wright: Ace Attorney – Justice for All",
-                  "description": null,
+                  "description": "atasro2/pwaa2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6973,7 +6973,7 @@
                 {
                   "node_type": "item",
                   "title": "Piglet's Big Game",
-                  "description": null,
+                  "description": "tgsm/pbg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6994,7 +6994,7 @@
                 {
                   "node_type": "item",
                   "title": "The Sims 2: Castaway",
-                  "description": null,
+                  "description": "HaydnTrigg/Castaway",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7015,7 +7015,7 @@
                 {
                   "node_type": "item",
                   "title": "Twisted Metal: Harbor City",
-                  "description": null,
+                  "description": "jacobleeharris/tmhc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7042,7 +7042,7 @@
                 {
                   "node_type": "item",
                   "title": "Xenosaga Episode 1 - Der Wille zur Macht",
-                  "description": null,
+                  "description": "SquareMan/xenosaga",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7063,7 +7063,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario Superstar Baseball",
-                  "description": null,
+                  "description": "roeming/mssb-dtk",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7084,7 +7084,7 @@
                 {
                   "node_type": "item",
                   "title": "Donald Land",
-                  "description": null,
+                  "description": "brunovalads/donald-land",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7105,7 +7105,7 @@
                 {
                   "node_type": "item",
                   "title": "Inazuma Eleven Strikers",
-                  "description": null,
+                  "description": "SwareJonge/IEStrikers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7126,7 +7126,7 @@
                 {
                   "node_type": "item",
                   "title": "Real War",
-                  "description": null,
+                  "description": "Francessco121/real-war-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7150,7 +7150,7 @@
                 {
                   "node_type": "item",
                   "title": "Resident Evil: Dead Aim",
-                  "description": null,
+                  "description": "cakehonolulu/Bullseye",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7184,7 +7184,7 @@
                 {
                   "node_type": "item",
                   "title": "SSX",
-                  "description": null,
+                  "description": "ssxdecomp/ssx",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7205,7 +7205,7 @@
                 {
                   "node_type": "item",
                   "title": "Sonic Riders: Zero Gravity",
-                  "description": null,
+                  "description": "KidWizardOfTheWeb/SRZGDecomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7226,7 +7226,7 @@
                 {
                   "node_type": "item",
                   "title": "Bio Menace",
-                  "description": null,
+                  "description": "lethal-guitar/BioMenaceDecomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7247,7 +7247,7 @@
                 {
                   "node_type": "item",
                   "title": "Crash Bandicoot: The Wrath of Cortex",
-                  "description": null,
+                  "description": "calmsacibis995/crash-ps2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7268,7 +7268,7 @@
                 {
                   "node_type": "item",
                   "title": "Dragon Ball Legends",
-                  "description": null,
+                  "description": "GodkuHacking/Dragon-Ball-Legends",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7291,7 +7291,7 @@
                 {
                   "node_type": "item",
                   "title": "Lunar 2: Eternal Blue Complete",
-                  "description": null,
+                  "description": "Zackmon/lunar2-psx-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7312,7 +7312,7 @@
                 {
                   "node_type": "item",
                   "title": "Minecraft: Pocket Edition",
-                  "description": null,
+                  "description": "BrentDaMage/mcpe-engine",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7335,7 +7335,7 @@
                 {
                   "node_type": "item",
                   "title": "Alice in Wonderland",
-                  "description": null,
+                  "description": "Alice-2010/Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7356,7 +7356,7 @@
                 {
                   "node_type": "item",
                   "title": "Bloons TD 5",
-                  "description": null,
+                  "description": "NKHook/BTD5-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7377,7 +7377,7 @@
                 {
                   "node_type": "item",
                   "title": "Bomberman 64: The Second Attack!",
-                  "description": null,
+                  "description": "Bomberhackers/bm64tsa",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7398,7 +7398,7 @@
                 {
                   "node_type": "item",
                   "title": "Evo's Space Adventures",
-                  "description": null,
+                  "description": "mkst/esa",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7424,7 +7424,7 @@
                 {
                   "node_type": "item",
                   "title": "FlatOut: Ultimate Carnage",
-                  "description": null,
+                  "description": "ZackWilde27/FlatOut-UC-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7445,7 +7445,7 @@
                 {
                   "node_type": "item",
                   "title": "New Play Control! Pikmin",
-                  "description": null,
+                  "description": "projectPiki/pik1wii",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7466,7 +7466,7 @@
                 {
                   "node_type": "item",
                   "title": "Skies of Arcadia Legends",
-                  "description": null,
+                  "description": "Rainchus/SkiesOfArcadiaLegends",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7487,7 +7487,7 @@
                 {
                   "node_type": "item",
                   "title": "Splatoon",
-                  "description": null,
+                  "description": "Dexx-io/Splatoon-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7508,7 +7508,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario Tennis",
-                  "description": null,
+                  "description": "DellM-79/MarioTennisN64",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7529,7 +7529,7 @@
                 {
                   "node_type": "item",
                   "title": "Paper Mario: Sticker Star",
-                  "description": null,
+                  "description": "Darxoon/leaflitter",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -7550,7 +7550,7 @@
                 {
                   "node_type": "item",
                   "title": "Brave Frontier",
-                  "description": null,
+                  "description": "decompfrontier/client",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7575,7 +7575,7 @@
                 {
                   "node_type": "item",
                   "title": "Glover",
-                  "description": null,
+                  "description": "Rainchus/Glover",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7596,7 +7596,7 @@
                 {
                   "node_type": "item",
                   "title": "Inazuma Eleven 3 - Sekai e no Chousen: The Ogre!!",
-                  "description": null,
+                  "description": "CacaBueno64/ie3ogres",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7617,7 +7617,7 @@
                 {
                   "node_type": "item",
                   "title": "Kirby's Dream Collection - Special Edition",
-                  "description": null,
+                  "description": "Swiftshine/kdc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7638,7 +7638,7 @@
                 {
                   "node_type": "item",
                   "title": "LSD: Dream Emulator",
-                  "description": null,
+                  "description": "FirecatFG/lsddecomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7659,7 +7659,7 @@
                 {
                   "node_type": "item",
                   "title": "Ratchet & Clank (PS2 Quadrilogy)",
-                  "description": null,
+                  "description": "VELD-Dev/Pyrocitor",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -7680,7 +7680,7 @@
                 {
                   "node_type": "item",
                   "title": "Ys VI",
-                  "description": null,
+                  "description": "GrantBenR/YsViDecomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7708,7 +7708,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario & Luigi: Partners in Time",
-                  "description": null,
+                  "description": "Rainchus/PartnersInTime-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7729,7 +7729,7 @@
                 {
                   "node_type": "item",
                   "title": "Chameleon Twist",
-                  "description": null,
+                  "description": "chameleonTwistRet/chameleonTwistv1.0-JP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7750,7 +7750,7 @@
                 {
                   "node_type": "item",
                   "title": "Dog's Life",
-                  "description": null,
+                  "description": "IWILLCRAFT-M0d/dogcomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7771,7 +7771,7 @@
                 {
                   "node_type": "item",
                   "title": "Doshin the Giant",
-                  "description": null,
+                  "description": "break-core/doshin-gc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7792,7 +7792,7 @@
                 {
                   "node_type": "item",
                   "title": "LEGO Batman: The Videogame",
-                  "description": null,
+                  "description": "mariopossamato/LEGO-Batman",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7821,7 +7821,7 @@
                 {
                   "node_type": "item",
                   "title": "Okami HD",
-                  "description": null,
+                  "description": "Shintensu/OkamiHD-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7842,7 +7842,7 @@
                 {
                   "node_type": "item",
                   "title": "Plants vs Zombies GOTY",
-                  "description": null,
+                  "description": "Bamcane/re-plants-vs-zombies",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7863,7 +7863,7 @@
                 {
                   "node_type": "item",
                   "title": "SpongeBob Moves In!",
-                  "description": null,
+                  "description": "Juanen100/SBMI-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7884,7 +7884,7 @@
                 {
                   "node_type": "item",
                   "title": "Wario Land 4",
-                  "description": null,
+                  "description": "lilDavid/warioland4",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7905,7 +7905,7 @@
                 {
                   "node_type": "item",
                   "title": "Super Mario 64 DS",
-                  "description": null,
+                  "description": "matty45/sm64ds-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -7926,7 +7926,7 @@
                 {
                   "node_type": "item",
                   "title": "Advance Wars 2: Black Hole Rising",
-                  "description": null,
+                  "description": "Eebit/aw2bhr",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7947,7 +7947,7 @@
                 {
                   "node_type": "item",
                   "title": "Bakugan: Defenders of the Core",
-                  "description": null,
+                  "description": "Vawlpe/BakuganDotC-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7968,7 +7968,7 @@
                 {
                   "node_type": "item",
                   "title": "Crash Tag Team Racing",
-                  "description": null,
+                  "description": "bluisblu/cttr",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7989,7 +7989,7 @@
                 {
                   "node_type": "item",
                   "title": "Cuphead",
-                  "description": null,
+                  "description": "jmxamongusmodder/cuphead-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8010,7 +8010,7 @@
                 {
                   "node_type": "item",
                   "title": "Digimon World",
-                  "description": null,
+                  "description": "solidheron/Digimon_World_1_decompolation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8031,7 +8031,7 @@
                 {
                   "node_type": "item",
                   "title": "Guilty Gear X Plus",
-                  "description": null,
+                  "description": "WistfulHopes/ggx",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8052,7 +8052,7 @@
                 {
                   "node_type": "item",
                   "title": "Mafia: The City of Lost Heaven",
-                  "description": null,
+                  "description": "Marvisak/mafia-re",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8073,7 +8073,7 @@
                 {
                   "node_type": "item",
                   "title": "Mystical Ninja Starring Goemon",
-                  "description": null,
+                  "description": "klorfmorf/mnsg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8094,7 +8094,7 @@
                 {
                   "node_type": "item",
                   "title": "Blast Corps",
-                  "description": null,
+                  "description": "SlaveOfIDO/blastcorps",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8115,7 +8115,7 @@
                 {
                   "node_type": "item",
                   "title": "UnderTale Yellow",
-                  "description": null,
+                  "description": "burnedpopcorn/UnderTale-Yellow-Decompilation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8136,7 +8136,7 @@
                 {
                   "node_type": "item",
                   "title": "Custom Robo GX",
-                  "description": null,
+                  "description": "pizdex/robogx",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8157,7 +8157,7 @@
                 {
                   "node_type": "item",
                   "title": "Doraemon: Nobita to Mittsu no Seireiseki",
-                  "description": null,
+                  "description": "adipocira/doraemon1",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8178,7 +8178,7 @@
                 {
                   "node_type": "item",
                   "title": "Dragon Warrior Monsters",
-                  "description": null,
+                  "description": "NiyaDev/DWM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8199,7 +8199,7 @@
                 {
                   "node_type": "item",
                   "title": "Happy Wheels",
-                  "description": null,
+                  "description": "Afterflash/HappyWheels",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8220,7 +8220,7 @@
                 {
                   "node_type": "item",
                   "title": "Lego Battles",
-                  "description": null,
+                  "description": "LiruJ/Lego-Battles-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8241,7 +8241,7 @@
                 {
                   "node_type": "item",
                   "title": "Skate",
-                  "description": null,
+                  "description": "Skate-Modding-Team/Skate-Decompilation-Project",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8262,7 +8262,7 @@
                 {
                   "node_type": "item",
                   "title": "The Urbz: Sims in the City",
-                  "description": null,
+                  "description": "SimsAdvanceRet/UrbzGBADecomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8283,7 +8283,7 @@
                 {
                   "node_type": "item",
                   "title": "Virtual Pool 64",
-                  "description": null,
+                  "description": "LLONSIT/VirtualPool64",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8304,7 +8304,7 @@
                 {
                   "node_type": "item",
                   "title": "Yoshi's Woolly World",
-                  "description": null,
+                  "description": "Swiftshine/yww",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8325,7 +8325,7 @@
                 {
                   "node_type": "item",
                   "title": "Cut The Rope",
-                  "description": null,
+                  "description": "Bingies24/cuttherope-dx",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8346,7 +8346,7 @@
                 {
                   "node_type": "item",
                   "title": "Earthbound Beginnings",
-                  "description": null,
+                  "description": "GrasonHumphrey/Earthbound-Zero-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8367,7 +8367,7 @@
                 {
                   "node_type": "item",
                   "title": "Lego Racers",
-                  "description": null,
+                  "description": "marijnvdwerf/lego-racers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8388,7 +8388,7 @@
                 {
                   "node_type": "item",
                   "title": "Nocturne",
-                  "description": null,
+                  "description": "NearlyTRex/NocturneDecomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8397,7 +8397,7 @@
                     "id": 1086792509,
                     "language": "Assembly",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T21:56:43Z",
+                    "last_commit": "2026-10-03T04:02:37Z",
                     "open_issues": 0,
                     "owner": "NearlyTRex",
                     "repo": "NocturneDecomp",
@@ -8409,7 +8409,7 @@
                 {
                   "node_type": "item",
                   "title": "Shadowgate 64",
-                  "description": null,
+                  "description": "Rainchus/ShadowGate64",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8430,7 +8430,7 @@
                 {
                   "node_type": "item",
                   "title": "Soulcalibur II",
-                  "description": null,
+                  "description": "Soulcalibur-II-Research-Group/scII_re",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8451,7 +8451,7 @@
                 {
                   "node_type": "item",
                   "title": "SSX Tricky",
-                  "description": null,
+                  "description": "ssxdecomp/ssxdvd",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8472,7 +8472,7 @@
                 {
                   "node_type": "item",
                   "title": "Summoner: A Goddess Reborn",
-                  "description": null,
+                  "description": "Charlese2/sgr",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8493,7 +8493,7 @@
                 {
                   "node_type": "item",
                   "title": "WCW/nWo Thunder",
-                  "description": null,
+                  "description": "martinbean/thunder",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8521,7 +8521,7 @@
                 {
                   "node_type": "item",
                   "title": "Aironauts",
-                  "description": null,
+                  "description": "bismurphy/Aironauts-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8542,7 +8542,7 @@
                 {
                   "node_type": "item",
                   "title": "Alphabet Park Adventure",
-                  "description": null,
+                  "description": "unspDecomp/abcParkDecomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8563,7 +8563,7 @@
                 {
                   "node_type": "item",
                   "title": "Azure Dreams",
-                  "description": null,
+                  "description": "forestbelton/azure",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8584,7 +8584,7 @@
                 {
                   "node_type": "item",
                   "title": "Big Brain Academy: Wii Degree",
-                  "description": null,
+                  "description": "vabold/bba-wd",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8605,7 +8605,7 @@
                 {
                   "node_type": "item",
                   "title": "Diamond Rush",
-                  "description": null,
+                  "description": "palaceswitcher/Diamond-Rush-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8629,7 +8629,7 @@
                 {
                   "node_type": "item",
                   "title": "eCrew Development Program (McDonald's Training Game)",
-                  "description": null,
+                  "description": "imavie/ecdpdecomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8650,7 +8650,7 @@
                 {
                   "node_type": "item",
                   "title": "Homeland",
-                  "description": null,
+                  "description": "BttrDrgn/homeland",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8671,7 +8671,7 @@
                 {
                   "node_type": "item",
                   "title": "Lego Creator Knights Kingdom",
-                  "description": null,
+                  "description": "DavidGrice/knightskingdom",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8700,7 +8700,7 @@
                 {
                   "node_type": "item",
                   "title": "Mortal Kombat: Deadly Alliance",
-                  "description": null,
+                  "description": "cScarletter/MK-3D-Era-Decompilation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8721,7 +8721,7 @@
                 {
                   "node_type": "item",
                   "title": "Pop'N Music",
-                  "description": null,
+                  "description": "Erizur/slpm86183",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8742,7 +8742,7 @@
                 {
                   "node_type": "item",
                   "title": "The New Tetris",
-                  "description": null,
+                  "description": "KiritoDv/tnt",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -8763,7 +8763,7 @@
                 {
                   "node_type": "item",
                   "title": "Wonder Project J2: Josette of the Corlo Forest",
-                  "description": null,
+                  "description": "LLONSIT-glitch/wonder",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8787,7 +8787,7 @@
                 {
                   "node_type": "item",
                   "title": "Nintendo Puzzle Collection: Dr. Mario 64",
-                  "description": null,
+                  "description": "NewGBAXL/drmario64-gc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8808,7 +8808,7 @@
                 {
                   "node_type": "item",
                   "title": "Chameleon Twist 2",
-                  "description": null,
+                  "description": "chameleonTwistRet/chameleonTwist2v1.0-JP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8829,7 +8829,7 @@
                 {
                   "node_type": "item",
                   "title": "Donkey Kong Country Returns",
-                  "description": null,
+                  "description": "Wexos/DKCR-Decompilation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8850,7 +8850,7 @@
                 {
                   "node_type": "item",
                   "title": "Final Fantasy IV (3D Remake)",
-                  "description": null,
+                  "description": "GlitchedDeveloper/Babil-Decompilation-Project",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8871,7 +8871,7 @@
                 {
                   "node_type": "item",
                   "title": "The Sims 2 (GBA)",
-                  "description": null,
+                  "description": "SimsAdvanceRet/S2GBADecomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8892,7 +8892,7 @@
                 {
                   "node_type": "item",
                   "title": "The Sims: Bustin' Out",
-                  "description": null,
+                  "description": "SimsAdvanceRet/BustinOutGBADecomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8913,7 +8913,7 @@
                 {
                   "node_type": "item",
                   "title": "Wario World",
-                  "description": null,
+                  "description": "sabishii-bit/wwdcmp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8934,7 +8934,7 @@
                 {
                   "node_type": "item",
                   "title": "Sonic Generations",
-                  "description": null,
+                  "description": "Luigi587/GenerationsDecomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8955,7 +8955,7 @@
                 {
                   "node_type": "item",
                   "title": "Amplitude",
-                  "description": null,
+                  "description": "ieee802dot11ac/amp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8976,7 +8976,7 @@
                 {
                   "node_type": "item",
                   "title": "Costume Quest",
-                  "description": null,
+                  "description": "Costume-Quest-Modding/CostumeQuest-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8997,7 +8997,7 @@
                 {
                   "node_type": "item",
                   "title": "Dragon Ball Z: Budokai 2",
-                  "description": null,
+                  "description": "TotallyNotMichael-GH/dbz2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9018,7 +9018,7 @@
                 {
                   "node_type": "item",
                   "title": "Go Vacation",
-                  "description": null,
+                  "description": "Moddimation/GoVacation-Decompilation",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -9039,7 +9039,7 @@
                 {
                   "node_type": "item",
                   "title": "Idle Office Tycoon",
-                  "description": null,
+                  "description": "Avenze/ios_reverse_engineering",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9060,7 +9060,7 @@
                 {
                   "node_type": "item",
                   "title": "Ridge Racer 64",
-                  "description": null,
+                  "description": "jvicu2001/rr64-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9081,7 +9081,7 @@
                 {
                   "node_type": "item",
                   "title": "Soul Blazer",
-                  "description": null,
+                  "description": "hellow554/RustyBlazer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9102,7 +9102,7 @@
                 {
                   "node_type": "item",
                   "title": "Skylanders Cloud Patrol",
-                  "description": null,
+                  "description": "spyrosadventure/cloud-patrol-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9123,7 +9123,7 @@
                 {
                   "node_type": "item",
                   "title": "Snowboard Kids",
-                  "description": null,
+                  "description": "sonicdcer/sk",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9144,7 +9144,7 @@
                 {
                   "node_type": "item",
                   "title": "Stronghold (1993)",
-                  "description": null,
+                  "description": "NancySadkov/dest",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9165,7 +9165,7 @@
                 {
                   "node_type": "item",
                   "title": "The Italian Job",
-                  "description": null,
+                  "description": "dashr9230/Caper",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9186,7 +9186,7 @@
                 {
                   "node_type": "item",
                   "title": "Sonic the Hedgehog 4 - Episode 1 (Windows Phone)",
-                  "description": null,
+                  "description": "fr3dsp/Sonic4Ep1-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9207,7 +9207,7 @@
                 {
                   "node_type": "item",
                   "title": "Blasterball Revolution 2",
-                  "description": null,
+                  "description": "KoboDev/BBR2Decompile",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9228,7 +9228,7 @@
                 {
                   "node_type": "item",
                   "title": "Dark Rift",
-                  "description": null,
+                  "description": "Unnunu/darkrift",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9249,7 +9249,7 @@
                 {
                   "node_type": "item",
                   "title": "F-Zero AX",
-                  "description": null,
+                  "description": "TheInfiniteLegend/f-0-ax",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9270,7 +9270,7 @@
                 {
                   "node_type": "item",
                   "title": "I Spy Spooky Mansion",
-                  "description": null,
+                  "description": "AM7999/ISpy-SM-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9291,7 +9291,7 @@
                 {
                   "node_type": "item",
                   "title": "Princess Maker 4",
-                  "description": null,
+                  "description": "Yanis002/pm4",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9312,7 +9312,7 @@
                 {
                   "node_type": "item",
                   "title": "The Lord of the Rings: Return of the King",
-                  "description": null,
+                  "description": "crimsonmagick/lotr-rotk",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9333,7 +9333,7 @@
                 {
                   "node_type": "item",
                   "title": "Treasure Planet",
-                  "description": null,
+                  "description": "Colt-Zero/Thousand-Worlds",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9354,7 +9354,7 @@
                 {
                   "node_type": "item",
                   "title": "WCW Nitro",
-                  "description": null,
+                  "description": "martinbean/nitro",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9382,7 +9382,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario Teaches Typing 3",
-                  "description": null,
+                  "description": "EliasFever/MarioTeachesTyping3Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9403,7 +9403,7 @@
                 {
                   "node_type": "item",
                   "title": "Air Traffic Chaos",
-                  "description": null,
+                  "description": "sasja-san/atc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9424,7 +9424,7 @@
                 {
                   "node_type": "item",
                   "title": "Armored Unit",
-                  "description": null,
+                  "description": "Normmatt/unarmoredunit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9445,7 +9445,7 @@
                 {
                   "node_type": "item",
                   "title": "Bounce",
-                  "description": null,
+                  "description": "misterjdrg/Bouncer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9466,7 +9466,7 @@
                 {
                   "node_type": "item",
                   "title": "DOMA Days",
-                  "description": null,
+                  "description": "iestyn129/DOMADays",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9487,7 +9487,7 @@
                 {
                   "node_type": "item",
                   "title": "Fate EXTELLA",
-                  "description": null,
+                  "description": "bIue9076r/fate-extella-decompilation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9511,7 +9511,7 @@
                 {
                   "node_type": "item",
                   "title": "Flappy Bird",
-                  "description": null,
+                  "description": "fr3dsp/FlappyBird-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9532,7 +9532,7 @@
                 {
                   "node_type": "item",
                   "title": "Ford Racing",
-                  "description": null,
+                  "description": "dashr9230/Gt2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9553,7 +9553,7 @@
                 {
                   "node_type": "item",
                   "title": "Fortune Street",
-                  "description": null,
+                  "description": "FortuneStreetModding/boom-street-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9574,7 +9574,7 @@
                 {
                   "node_type": "item",
                   "title": "Granny",
-                  "description": null,
+                  "description": "scd5dev/GrannyDecompilationLegacy",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -9595,7 +9595,7 @@
                 {
                   "node_type": "item",
                   "title": "Jazz Jackrabbit 2",
-                  "description": null,
+                  "description": "Mustafa1177/jazzjackrabbit2-decompiled",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9616,7 +9616,7 @@
                 {
                   "node_type": "item",
                   "title": "Onegai Monsters",
-                  "description": null,
+                  "description": "Ryan-Myers/onegaimonsters",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9637,7 +9637,7 @@
                 {
                   "node_type": "item",
                   "title": "Rumble Fighter",
-                  "description": null,
+                  "description": "Primitheus/rumbledecomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9658,7 +9658,7 @@
                 {
                   "node_type": "item",
                   "title": "Mario Sport Mix",
-                  "description": null,
+                  "description": "EltyDev/MSM-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9679,7 +9679,7 @@
                 {
                   "node_type": "item",
                   "title": "Sonic the Hedgehog (DIDJ)",
-                  "description": null,
+                  "description": "ArchiverXP/sncdecomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9700,7 +9700,7 @@
                 {
                   "node_type": "item",
                   "title": "Ancient Empires",
-                  "description": null,
+                  "description": "Atomk/ancient-empires-1-decompilation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9721,7 +9721,7 @@
                 {
                   "node_type": "item",
                   "title": "Are You Smarter Than a 5th Grader: Make the Grade",
-                  "description": null,
+                  "description": "Gmon20/makethedecomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9742,7 +9742,7 @@
                 {
                   "node_type": "item",
                   "title": "Creatures 2",
-                  "description": null,
+                  "description": "xylolfrei/CREATURES-II-DECOMPILATION-PROJECT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9763,7 +9763,7 @@
                 {
                   "node_type": "item",
                   "title": "Defenders & Dragons",
-                  "description": null,
+                  "description": "Lindarychwalski/Defenders-Dragons",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9784,7 +9784,7 @@
                 {
                   "node_type": "item",
                   "title": "Drakan: The Ancients' Gates",
-                  "description": null,
+                  "description": "cScarletter/Drakan-The-Ancient-Gates-Decompilation-",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9805,7 +9805,7 @@
                 {
                   "node_type": "item",
                   "title": "Freedom Fighters",
-                  "description": null,
+                  "description": "andresj-sanchez/frfi-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9826,7 +9826,7 @@
                 {
                   "node_type": "item",
                   "title": "Mixels Rush",
-                  "description": null,
+                  "description": "Nugetinc/MixelsRushDecompilation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9847,7 +9847,7 @@
                 {
                   "node_type": "item",
                   "title": "On The Run: The Getaway",
-                  "description": null,
+                  "description": "caramelcupcakes842/On-The-Run-The-Getaway",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9868,7 +9868,7 @@
                 {
                   "node_type": "item",
                   "title": "Radio Helicopter",
-                  "description": null,
+                  "description": "Bsquo/pcopter_wii",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9889,7 +9889,7 @@
                 {
                   "node_type": "item",
                   "title": "Terminator Salvation",
-                  "description": null,
+                  "description": "connieprice/Terminator-Salvation-Lua",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9910,7 +9910,7 @@
                 {
                   "node_type": "item",
                   "title": "The Journeyman Project Turbo!",
-                  "description": null,
+                  "description": "disinvite/jman-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9931,7 +9931,7 @@
                 {
                   "node_type": "item",
                   "title": "Tokimeki Memorial: Forever With You",
-                  "description": null,
+                  "description": "CelestialAmber/tokimemo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9952,7 +9952,7 @@
                 {
                   "node_type": "item",
                   "title": "World of Goo",
-                  "description": null,
+                  "description": "Fancy2209/wog-wiiware",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9973,7 +9973,7 @@
                 {
                   "node_type": "item",
                   "title": "Age of Speed 2",
-                  "description": null,
+                  "description": "Llamaware/age-of-speed2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9994,7 +9994,7 @@
                 {
                   "node_type": "item",
                   "title": "Amazing Island",
-                  "description": null,
+                  "description": "EltaleLibrarian/Amazing",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10015,7 +10015,7 @@
                 {
                   "node_type": "item",
                   "title": "Chernobyl Neighbor. Clown Gang",
-                  "description": null,
+                  "description": "smolkrieger/nuclear-neighbor",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10036,7 +10036,7 @@
                 {
                   "node_type": "item",
                   "title": "Chiki's Chase",
-                  "description": null,
+                  "description": "gays-studio/ChikisChaseAPK",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10057,7 +10057,7 @@
                 {
                   "node_type": "item",
                   "title": "Dr. Brain Action Reaction",
-                  "description": null,
+                  "description": "SirHenricus/DrBrainActionReaction_PackageDecomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10087,7 +10087,7 @@
                 {
                   "node_type": "item",
                   "title": "Five Nights At Freddy's",
-                  "description": null,
+                  "description": "fr3dsp/FNaF-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10108,7 +10108,7 @@
                 {
                   "node_type": "item",
                   "title": "Five Nights At Freddy's 2",
-                  "description": null,
+                  "description": "fr3dsp/FNaF-2-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10129,7 +10129,7 @@
                 {
                   "node_type": "item",
                   "title": "Green Farm 3",
-                  "description": null,
+                  "description": "SmithGoll/Greenier-Farm-3-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10150,7 +10150,7 @@
                 {
                   "node_type": "item",
                   "title": "Johnny Herbert's Grand Prix Championship 1998",
-                  "description": null,
+                  "description": "danvratil/jhgpc98decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10171,7 +10171,7 @@
                 {
                   "node_type": "item",
                   "title": "Lock's Quest",
-                  "description": null,
+                  "description": "redraincatching/locksmith",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10192,7 +10192,7 @@
                 {
                   "node_type": "item",
                   "title": "On The Run 2",
-                  "description": null,
+                  "description": "caramelcupcakes842/On-The-Run-2-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10213,7 +10213,7 @@
                 {
                   "node_type": "item",
                   "title": "On The Run Vegas",
-                  "description": null,
+                  "description": "caramelcupcakes842/On-The-Run-Vegas-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10234,7 +10234,7 @@
                 {
                   "node_type": "item",
                   "title": "Taiko No Tatsujin Wii Ketteiban",
-                  "description": null,
+                  "description": "CalebPancake/Taiko-No-Tatsujin-Wii-Ketteiban",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10255,7 +10255,7 @@
                 {
                   "node_type": "item",
                   "title": "The Impossible Game",
-                  "description": null,
+                  "description": "fr3dsp/TheImpossibleGame-Decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10276,7 +10276,7 @@
                 {
                   "node_type": "item",
                   "title": "TwinBee PARADISE in Donburi Shima",
-                  "description": null,
+                  "description": "Jhuyghue/donburi-decomp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10297,7 +10297,7 @@
                 {
                   "node_type": "item",
                   "title": "Wario Land: Shake It!",
-                  "description": null,
+                  "description": "Swiftshine/wlsi",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10330,7 +10330,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:48:03.390Z",
+    "last_updated": "2026-10-03T04:47:14.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome game decompilations, recompilations and disassemblies.",
