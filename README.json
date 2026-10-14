@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "cyneprepou4uk",
                 "repo": "NES-Games-Disassembly",
-                "stars": 293,
+                "stars": 294,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -154,7 +154,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4984,
+                "stars": 4986,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -240,8 +240,8 @@
                 "id": 147980981,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-10-13T20:16:09Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-14T19:17:22Z",
+                "open_issues": 16,
                 "owner": "Herringway",
                 "repo": "ebsrc",
                 "stars": 183,
@@ -340,7 +340,7 @@
                 "open_issues": 57,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2523,
+                "stars": 2524,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -394,7 +394,7 @@
                 "open_issues": 7,
                 "owner": "pret",
                 "repo": "poketcg",
-                "stars": 329,
+                "stars": 330,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -469,7 +469,7 @@
                 "open_issues": 0,
                 "owner": "AngheloAlf",
                 "repo": "puzzleleague64",
-                "stars": 40,
+                "stars": 41,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -497,7 +497,7 @@
                 "open_issues": 29,
                 "owner": "n64decomp",
                 "repo": "sm64",
-                "stars": 8867,
+                "stars": 8875,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -518,7 +518,7 @@
                 "open_issues": 140,
                 "owner": "Zelda64Recomp",
                 "repo": "Zelda64Recomp",
-                "stars": 7398,
+                "stars": 7412,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -535,11 +535,11 @@
                 "id": 247875738,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-13T20:10:18Z",
-                "open_issues": 69,
+                "last_commit": "2026-10-14T18:19:57Z",
+                "open_issues": 68,
                 "owner": "zeldaret",
                 "repo": "oot",
-                "stars": 5585,
+                "stars": 5589,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -583,7 +583,7 @@
                 "open_issues": 34,
                 "owner": "pmret",
                 "repo": "papermario",
-                "stars": 1631,
+                "stars": 1630,
                 "topics": [
                   "decompilation",
                   "n64",
@@ -631,7 +631,7 @@
                 "open_issues": 4,
                 "owner": "DavidSM64",
                 "repo": "Diddy-Kong-Racing",
-                "stars": 422,
+                "stars": 423,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -691,10 +691,10 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-09-08T01:26:12Z",
-                "open_issues": 1,
+                "open_issues": 3,
                 "owner": "VetriTheRetri",
                 "repo": "ssb-decomp-re",
-                "stars": 266,
+                "stars": 267,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -715,7 +715,7 @@
                 "open_issues": 9,
                 "owner": "mkst",
                 "repo": "conker",
-                "stars": 238,
+                "stars": 239,
                 "topics": [
                   "cbfd",
                   "conker",
@@ -925,11 +925,11 @@
                 "id": 275165286,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-13T17:32:22Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-14T15:47:09Z",
+                "open_issues": 14,
                 "owner": "ethteck",
                 "repo": "pokemonsnap",
-                "stars": 107,
+                "stars": 108,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -1146,8 +1146,8 @@
                 "id": 276809202,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-13T23:08:32Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-14T19:51:48Z",
+                "open_issues": 2,
                 "owner": "jaytheham",
                 "repo": "body-harvest-decompilation",
                 "stars": 45,
@@ -1171,7 +1171,7 @@
                 "open_issues": 2,
                 "owner": "farisawan-2000",
                 "repo": "evangelion",
-                "stars": 36,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -1388,7 +1388,7 @@
                 "open_issues": 84,
                 "owner": "pret",
                 "repo": "pokeemerald",
-                "stars": 3577,
+                "stars": 3583,
                 "topics": [
                   "c",
                   "decompilation",
@@ -1415,7 +1415,7 @@
                 "open_issues": 27,
                 "owner": "pret",
                 "repo": "pokefirered",
-                "stars": 1657,
+                "stars": 1660,
                 "topics": [
                   "c",
                   "decompilation",
@@ -1442,7 +1442,7 @@
                 "open_issues": 36,
                 "owner": "pret",
                 "repo": "pokeruby",
-                "stars": 1000,
+                "stars": 1001,
                 "topics": [
                   "c",
                   "decompilation",
@@ -1490,7 +1490,7 @@
                 "open_issues": 9,
                 "owner": "SAT-R",
                 "repo": "sa2",
-                "stars": 675,
+                "stars": 677,
                 "topics": [
                   "c",
                   "decompilation",
@@ -1517,7 +1517,7 @@
                 "open_issues": 3,
                 "owner": "pret",
                 "repo": "pmd-red",
-                "stars": 284,
+                "stars": 285,
                 "topics": [
                   "c",
                   "decompilation",
@@ -1544,7 +1544,7 @@
                 "open_issues": 8,
                 "owner": "jiangzhengwenjz",
                 "repo": "katam",
-                "stars": 157,
+                "stars": 158,
                 "topics": [
                   "assembly",
                   "c",
@@ -1595,11 +1595,11 @@
                 "id": 683675058,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-13T21:35:40Z",
+                "last_commit": "2026-10-14T20:36:20Z",
                 "open_issues": 1,
                 "owner": "SAT-R",
                 "repo": "sa3",
-                "stars": 85,
+                "stars": 86,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -1861,10 +1861,10 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-10-13T19:25:27Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "doldecomp",
                 "repo": "melee",
-                "stars": 2402,
+                "stars": 2407,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -1882,10 +1882,10 @@
                 "language": "C++",
                 "license": "CC0-1.0",
                 "last_commit": "2026-06-23T19:52:55Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "zeldaret",
                 "repo": "tp",
-                "stars": 2086,
+                "stars": 2089,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -1906,7 +1906,7 @@
                 "open_issues": 6,
                 "owner": "ACreTeam",
                 "repo": "ac-decomp",
-                "stars": 1408,
+                "stars": 1409,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -1923,11 +1923,11 @@
                 "id": 689343905,
                 "language": "C++",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-13T21:33:45Z",
+                "last_commit": "2026-10-14T18:54:59Z",
                 "open_issues": 170,
                 "owner": "zeldaret",
                 "repo": "tww",
-                "stars": 1089,
+                "stars": 1092,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -1948,7 +1948,7 @@
                 "open_issues": 3,
                 "owner": "mariopartyrd",
                 "repo": "marioparty4",
-                "stars": 864,
+                "stars": 868,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -1969,7 +1969,7 @@
                 "open_issues": 6,
                 "owner": "projectPiki",
                 "repo": "pikmin2",
-                "stars": 377,
+                "stars": 378,
                 "topics": [
                   "cpp",
                   "decompilation",
@@ -1991,11 +1991,11 @@
                 "id": 473362373,
                 "language": "C++",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-13T22:56:02Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-14T21:27:29Z",
+                "open_issues": 3,
                 "owner": "PrimeDecomp",
                 "repo": "prime",
-                "stars": 362,
+                "stars": 363,
                 "topics": [
                   "cplusplus",
                   "decompilation",
@@ -2019,11 +2019,11 @@
                 "id": 367915061,
                 "language": "C++",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-13T22:30:15Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-14T19:03:40Z",
+                "open_issues": 11,
                 "owner": "doldecomp",
                 "repo": "sms",
-                "stars": 347,
+                "stars": 350,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -2044,7 +2044,7 @@
                 "open_issues": 2,
                 "owner": "projectPiki",
                 "repo": "pikmin",
-                "stars": 315,
+                "stars": 318,
                 "topics": [
                   "cpp",
                   "decompilation",
@@ -2180,7 +2180,7 @@
                 "open_issues": 3,
                 "owner": "zcanann",
                 "repo": "SFA-Decomp",
-                "stars": 73,
+                "stars": 76,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -2292,6 +2292,27 @@
             },
             {
               "node_type": "item",
+              "title": "Luigi's Mansion",
+              "description": "Sage-of-Mirrors/zmansion",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 578438464,
+                "language": "C",
+                "license": "CC0-1.0",
+                "last_commit": "2023-11-09T05:14:57Z",
+                "open_issues": 0,
+                "owner": "Sage-of-Mirrors",
+                "repo": "zmansion",
+                "stars": 35,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
+            },
+            {
+              "node_type": "item",
               "title": "Pokémon XD: Gale of Darkness",
               "description": "TeamOrre/xd-decomp",
               "children": [],
@@ -2307,27 +2328,6 @@
                 "owner": "TeamOrre",
                 "repo": "xd-decomp",
                 "stars": 35,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:58:26.116Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Luigi's Mansion",
-              "description": "Sage-of-Mirrors/zmansion",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 578438464,
-                "language": "C",
-                "license": "CC0-1.0",
-                "last_commit": "2023-11-09T05:14:57Z",
-                "open_issues": 0,
-                "owner": "Sage-of-Mirrors",
-                "repo": "zmansion",
-                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -2366,7 +2366,7 @@
                 "language": "C",
                 "license": "CC0-1.0",
                 "last_commit": "2026-07-23T01:39:19Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "mariopartyrd",
                 "repo": "marioparty6",
                 "stars": 21,
@@ -2498,11 +2498,11 @@
                 "id": 378143494,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-10-13T22:28:36Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-14T05:50:30Z",
+                "open_issues": 7,
                 "owner": "pret",
                 "repo": "pokeheartgold",
-                "stars": 618,
+                "stars": 620,
                 "topics": [
                   "c",
                   "decompilation",
@@ -2525,11 +2525,11 @@
                 "id": 587069722,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-12T04:53:37Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-14T18:01:51Z",
+                "open_issues": 16,
                 "owner": "pret",
                 "repo": "pokeplatinum",
-                "stars": 560,
+                "stars": 562,
                 "topics": [
                   "c",
                   "decompilation",
@@ -2580,7 +2580,7 @@
                 "language": "Assembly",
                 "license": null,
                 "last_commit": "2026-10-02T21:52:46Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "pret",
                 "repo": "pmd-sky",
                 "stars": 142,
@@ -2604,7 +2604,7 @@
                 "open_issues": 39,
                 "owner": "zeldaret",
                 "repo": "ph",
-                "stars": 111,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -2646,7 +2646,7 @@
                 "open_issues": 0,
                 "owner": "XorTroll",
                 "repo": "mkds-re",
-                "stars": 62,
+                "stars": 63,
                 "topics": [
                   "asm-hacking",
                   "decompilation",
@@ -2670,11 +2670,11 @@
                 "id": 1089160973,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-10-13T22:08:38Z",
+                "last_commit": "2026-10-14T20:40:10Z",
                 "open_issues": 0,
                 "owner": "squiddonaut",
                 "repo": "pokeblack",
-                "stars": 58,
+                "stars": 60,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -2691,11 +2691,11 @@
                 "id": 967688952,
                 "language": "C++",
                 "license": "Unlicense",
-                "last_commit": "2026-10-09T14:00:35Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-14T21:15:35Z",
+                "open_issues": 11,
                 "owner": "DQIX",
                 "repo": "dqix-decomp",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -2744,6 +2744,27 @@
             },
             {
               "node_type": "item",
+              "title": "The Legend of Zelda: Spirit Tracks",
+              "description": "Yanis002/st",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Decompilation of The Legend of Zelda: Spirit Tracks",
+                "homepage": null,
+                "id": 1121357897,
+                "language": "C++",
+                "license": "CC0-1.0",
+                "last_commit": "2026-10-14T01:42:45Z",
+                "open_issues": 0,
+                "owner": "Yanis002",
+                "repo": "st",
+                "stars": 11,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
+            },
+            {
+              "node_type": "item",
               "title": "Super Mario 64 DS",
               "description": "matty45/sm64ds-decomp",
               "children": [],
@@ -2758,27 +2779,6 @@
                 "open_issues": 0,
                 "owner": "matty45",
                 "repo": "sm64ds-decomp",
-                "stars": 10,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:58:26.116Z"
-            },
-            {
-              "node_type": "item",
-              "title": "The Legend of Zelda: Spirit Tracks",
-              "description": "Yanis002/st",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Decompilation of The Legend of Zelda: Spirit Tracks",
-                "homepage": null,
-                "id": 1121357897,
-                "language": "C++",
-                "license": "CC0-1.0",
-                "last_commit": "2026-10-13T19:49:48Z",
-                "open_issues": 0,
-                "owner": "Yanis002",
-                "repo": "st",
                 "stars": 10,
                 "topics": []
               },
@@ -2804,10 +2804,10 @@
                 "language": "C++",
                 "license": "CC0-1.0",
                 "last_commit": "2026-06-23T19:52:55Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "zeldaret",
                 "repo": "tp",
-                "stars": 2086,
+                "stars": 2089,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -2825,10 +2825,10 @@
                 "language": "C++",
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-13T21:34:59Z",
-                "open_issues": 0,
+                "open_issues": 2,
                 "owner": "SMGCommunity",
                 "repo": "Petari",
-                "stars": 1202,
+                "stars": 1220,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -2849,7 +2849,7 @@
                 "open_issues": 30,
                 "owner": "snailspeed3",
                 "repo": "mkw",
-                "stars": 467,
+                "stars": 468,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -2870,7 +2870,7 @@
                 "open_issues": 2,
                 "owner": "koopthekoopa",
                 "repo": "wii-ipl",
-                "stars": 215,
+                "stars": 216,
                 "topics": [
                   "cpp",
                   "decompilation",
@@ -2917,7 +2917,7 @@
                 "open_issues": 11,
                 "owner": "doldecomp",
                 "repo": "ogws",
-                "stars": 173,
+                "stars": 174,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -2938,7 +2938,7 @@
                 "open_issues": 8,
                 "owner": "NSMBW-Community",
                 "repo": "NSMBW-Decomp",
-                "stars": 139,
+                "stars": 140,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -3030,7 +3030,7 @@
                 "open_issues": 1,
                 "owner": "zeldaret",
                 "repo": "oot-vc",
-                "stars": 93,
+                "stars": 94,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -3047,7 +3047,7 @@
                 "id": 898710925,
                 "language": "C",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-13T22:54:23Z",
+                "last_commit": "2026-10-14T21:56:40Z",
                 "open_issues": 2,
                 "owner": "SMGCommunity",
                 "repo": "Garigari",
@@ -3068,7 +3068,7 @@
                 "id": 820747535,
                 "language": "C++",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-05T23:10:40Z",
+                "last_commit": "2026-10-14T15:51:50Z",
                 "open_issues": 0,
                 "owner": "Swiftshine",
                 "repo": "key",
@@ -3098,6 +3098,27 @@
                 "owner": "mariopartyrd",
                 "repo": "marioparty8",
                 "stars": 23,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:58:26.116Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Pokémon Battle Revolution",
+              "description": "pbr-ret/pbr-decomp",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A matching decompilation project for Pokémon Battle Revolution.",
+                "homepage": null,
+                "id": 992859343,
+                "language": "C",
+                "license": "CC0-1.0",
+                "last_commit": "2026-10-14T20:06:40Z",
+                "open_issues": 14,
+                "owner": "pbr-ret",
+                "repo": "pbr-decomp",
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -3139,27 +3160,6 @@
                 "open_issues": 0,
                 "owner": "mariopartyrd",
                 "repo": "marioparty9",
-                "stars": 20,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:58:26.116Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Pokémon Battle Revolution",
-              "description": "bgsamm/pbr-dtk",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A matching decompilation project for Pokémon Battle Revolution.",
-                "homepage": null,
-                "id": 992859343,
-                "language": "C",
-                "license": "CC0-1.0",
-                "last_commit": "2026-10-13T09:30:03Z",
-                "open_issues": 0,
-                "owner": "bgsamm",
-                "repo": "pbr-dtk",
                 "stars": 20,
                 "topics": []
               },
@@ -3220,7 +3220,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-24T19:53:28Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "KooShnoo",
                 "repo": "pokemon-rumble",
                 "stars": 12,
@@ -3456,11 +3456,11 @@
                 "id": 288736599,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-13T01:09:07Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-14T21:54:56Z",
+                "open_issues": 21,
                 "owner": "zeldaret",
                 "repo": "botw",
-                "stars": 2216,
+                "stars": 2222,
                 "topics": [
                   "breath-of-the-wild",
                   "clang",
@@ -3485,10 +3485,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-10-03T09:29:52Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "GRAnimated",
                 "repo": "MinecraftLCE",
-                "stars": 618,
+                "stars": 619,
                 "topics": [
                   "decompilation",
                   "minecraft",
@@ -3513,7 +3513,7 @@
                 "open_issues": 212,
                 "owner": "MonsterDruide1",
                 "repo": "OdysseyDecomp",
-                "stars": 456,
+                "stars": 460,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -3583,7 +3583,7 @@
                 "open_issues": 0,
                 "owner": "Revan67",
                 "repo": "ThirdAge-Recomp",
-                "stars": 2,
+                "stars": 4,
                 "topics": [
                   "game-preservation",
                   "lord-of-the-rings",
@@ -3616,10 +3616,10 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-10-08T00:33:48Z",
-                "open_issues": 6,
+                "open_issues": 8,
                 "owner": "FoxdieTeam",
                 "repo": "mgs_reversing",
-                "stars": 805,
+                "stars": 808,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -3637,7 +3637,7 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-05T11:20:07Z",
-                "open_issues": 21,
+                "open_issues": 20,
                 "owner": "CTR-tools",
                 "repo": "CTR-ModSDK",
                 "stars": 452,
@@ -3666,8 +3666,8 @@
                 "id": 1060063534,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-13T23:09:50Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-14T19:59:27Z",
+                "open_issues": 16,
                 "owner": "Xeeynamo",
                 "repo": "ff7-decomp",
                 "stars": 168,
@@ -3894,7 +3894,7 @@
                 "open_issues": 240,
                 "owner": "hedge-dev",
                 "repo": "UnleashedRecomp",
-                "stars": 5170,
+                "stars": 5176,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -3915,7 +3915,7 @@
                 "open_issues": 32,
                 "owner": "zolaware",
                 "repo": "reblue",
-                "stars": 780,
+                "stars": 788,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -3936,7 +3936,7 @@
                 "open_issues": 28,
                 "owner": "sal063",
                 "repo": "AC6_recomp",
-                "stars": 511,
+                "stars": 514,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -3957,7 +3957,7 @@
                 "open_issues": 16,
                 "owner": "SolarCookies",
                 "repo": "TiP-Recomp",
-                "stars": 208,
+                "stars": 209,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -3999,7 +3999,7 @@
                 "open_issues": 3,
                 "owner": "ChimpsAtSea",
                 "repo": "Reach",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "decompilation",
                   "halo",
@@ -4047,7 +4047,7 @@
                 "open_issues": 0,
                 "owner": "ihatecompvir",
                 "repo": "band3_recomp",
-                "stars": 52,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -4068,7 +4068,7 @@
                 "open_issues": 2,
                 "owner": "masterspike52",
                 "repo": "reDAHM",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -4085,8 +4085,8 @@
                 "id": 1026372133,
                 "language": "C++",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-13T05:03:25Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-14T17:58:06Z",
+                "open_issues": 1,
                 "owner": "rjkiv",
                 "repo": "dc3-decomp",
                 "stars": 40,
@@ -4131,7 +4131,7 @@
                 "open_issues": 2,
                 "owner": "SkiddyToast",
                 "repo": "Crackdown",
-                "stars": 29,
+                "stars": 30,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -4152,7 +4152,7 @@
                 "open_issues": 7,
                 "owner": "matty45",
                 "repo": "Crackdown2-Recomp",
-                "stars": 28,
+                "stars": 29,
                 "topics": [
                   "crackdown",
                   "crackdown2",
@@ -4293,7 +4293,7 @@
                 "open_issues": 0,
                 "owner": "Revan67",
                 "repo": "RumbleRosesXX-Recomp",
-                "stars": 2,
+                "stars": 4,
                 "topics": [
                   "interoperability",
                   "recompilation",
@@ -4354,7 +4354,7 @@
                 "open_issues": 69,
                 "owner": "k4zmu2a",
                 "repo": "SpaceCadetPinball",
-                "stars": 4698,
+                "stars": 4699,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -4375,7 +4375,7 @@
                 "open_issues": 4,
                 "owner": "isledecomp",
                 "repo": "isle",
-                "stars": 3486,
+                "stars": 3487,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -4393,10 +4393,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-10-12T11:20:10Z",
-                "open_issues": 115,
+                "open_issues": 119,
                 "owner": "gta-reversed",
                 "repo": "gta-reversed",
-                "stars": 1049,
+                "stars": 1056,
                 "topics": [
                   "bug-fix",
                   "bug-fixing",
@@ -4458,7 +4458,7 @@
                 "open_issues": 1,
                 "owner": "alula",
                 "repo": "CircleShootApp",
-                "stars": 98,
+                "stars": 99,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -4523,7 +4523,7 @@
                 "open_issues": 1,
                 "owner": "TeamBlossomDevs",
                 "repo": "DeltaruneDecomp_beta",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:58:26.116Z"
@@ -4840,7 +4840,7 @@
                     "open_issues": 36,
                     "owner": "OpenDriver2",
                     "repo": "REDRIVER2",
-                    "stars": 1400,
+                    "stars": 1402,
                     "topics": [
                       "decompilation",
                       "decompile",
@@ -4868,8 +4868,8 @@
                     "id": 218399932,
                     "language": "C",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-13T13:07:00Z",
-                    "open_issues": 100,
+                    "last_commit": "2026-10-14T21:52:00Z",
+                    "open_issues": 92,
                     "owner": "dethrace-labs",
                     "repo": "dethrace",
                     "stars": 1217,
@@ -4896,11 +4896,11 @@
                     "id": 441414984,
                     "language": "C",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-13T22:40:28Z",
-                    "open_issues": 22,
+                    "last_commit": "2026-10-14T09:14:02Z",
+                    "open_issues": 21,
                     "owner": "Xeeynamo",
                     "repo": "sotn-decomp",
-                    "stars": 1137,
+                    "stars": 1138,
                     "topics": [
                       "decompilation",
                       "game"
@@ -4921,7 +4921,7 @@
                     "language": "C",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-13T20:05:05Z",
-                    "open_issues": 162,
+                    "open_issues": 164,
                     "owner": "LostArtefacts",
                     "repo": "TRX",
                     "stars": 1008,
@@ -4992,11 +4992,11 @@
                     "id": 680872129,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-13T09:09:45Z",
+                    "last_commit": "2026-10-14T07:20:13Z",
                     "open_issues": 12,
                     "owner": "GensokyoClub",
                     "repo": "th06",
-                    "stars": 613,
+                    "stars": 615,
                     "topics": [
                       "anime",
                       "decompilation",
@@ -5019,11 +5019,11 @@
                     "id": 401141707,
                     "language": "Java",
                     "license": null,
-                    "last_commit": "2026-10-13T18:41:30Z",
-                    "open_issues": 179,
+                    "last_commit": "2026-10-14T15:42:05Z",
+                    "open_issues": 178,
                     "owner": "Legend-of-Dragoon-Modding",
                     "repo": "Severed-Chains",
-                    "stars": 549,
+                    "stars": 550,
                     "topics": [
                       "java",
                       "reverse-engineering"
@@ -5074,7 +5074,7 @@
                     "open_issues": 0,
                     "owner": "lethal-guitar",
                     "repo": "Duke2Reconstructed",
-                    "stars": 370,
+                    "stars": 371,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
@@ -5189,7 +5189,7 @@
                     "open_issues": 1,
                     "owner": "AshfordFamily",
                     "repo": "recvx-decomp",
-                    "stars": 274,
+                    "stars": 273,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
@@ -5266,10 +5266,10 @@
                     "language": "Assembly",
                     "license": null,
                     "last_commit": "2026-10-12T11:40:15Z",
-                    "open_issues": 13,
+                    "open_issues": 12,
                     "owner": "FireEmblemUniverse",
                     "repo": "fireemblem8u",
-                    "stars": 225,
+                    "stars": 226,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
@@ -5290,7 +5290,7 @@
                     "open_issues": 13,
                     "owner": "dbalatoni13",
                     "repo": "nfsmw",
-                    "stars": 221,
+                    "stars": 225,
                     "topics": [
                       "decompilation",
                       "decompiled-sources",
@@ -5349,7 +5349,7 @@
                     "open_issues": 0,
                     "owner": "gameblabla",
                     "repo": "CSE2",
-                    "stars": 198,
+                    "stars": 199,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
@@ -5398,7 +5398,7 @@
                     "open_issues": 4,
                     "owner": "punpckhdq",
                     "repo": "halo",
-                    "stars": 184,
+                    "stars": 185,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
@@ -5461,11 +5461,11 @@
                     "id": 958831889,
                     "language": "C",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-12T20:02:44Z",
+                    "last_commit": "2026-10-14T01:01:04Z",
                     "open_issues": 6,
                     "owner": "ser-pounce",
                     "repo": "rood-reverse",
-                    "stars": 167,
+                    "stars": 168,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
@@ -5535,11 +5535,11 @@
                     "id": 1126466912,
                     "language": "C",
                     "license": "MIT",
-                    "last_commit": "2026-10-13T17:39:55Z",
-                    "open_issues": 14,
+                    "last_commit": "2026-10-14T04:49:36Z",
+                    "open_issues": 12,
                     "owner": "dreamingmoths",
                     "repo": "memory-of-alessa",
-                    "stars": 142,
+                    "stars": 145,
                     "topics": [
                       "decompilation",
                       "reverse-engineering",
@@ -5600,6 +5600,36 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Test Drive Unlimited",
+                  "description": "opentestdriveunlimited/OpenTestDriveUnlimited",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Open source port of Test Drive Unlimited (2006)",
+                    "homepage": null,
+                    "id": 988623093,
+                    "language": "C++",
+                    "license": null,
+                    "last_commit": "2026-10-14T01:03:24Z",
+                    "open_issues": 66,
+                    "owner": "opentestdriveunlimited",
+                    "repo": "OpenTestDriveUnlimited",
+                    "stars": 135,
+                    "topics": [
+                      "c-plus-plus",
+                      "decompilation",
+                      "game-development",
+                      "reverse-engineering",
+                      "tdu",
+                      "tdu1",
+                      "testdriveunlimited",
+                      "vulkan"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Runescape (2003)",
                   "description": "2003scape/rsc-c",
                   "children": [],
@@ -5633,36 +5663,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Test Drive Unlimited",
-                  "description": "opentestdriveunlimited/OpenTestDriveUnlimited",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Open source port of Test Drive Unlimited (2006)",
-                    "homepage": null,
-                    "id": 988623093,
-                    "language": "C++",
-                    "license": null,
-                    "last_commit": "2026-10-11T19:11:58Z",
-                    "open_issues": 72,
-                    "owner": "opentestdriveunlimited",
-                    "repo": "OpenTestDriveUnlimited",
-                    "stars": 133,
-                    "topics": [
-                      "c-plus-plus",
-                      "decompilation",
-                      "game-development",
-                      "reverse-engineering",
-                      "tdu",
-                      "tdu1",
-                      "testdriveunlimited",
-                      "vulkan"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T01:58:26.116Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Fatal Frame",
                   "description": "Mikompilation/Himuro",
                   "children": [],
@@ -5679,6 +5679,35 @@
                     "repo": "Himuro",
                     "stars": 127,
                     "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Shadow of the Colossus",
+                  "description": "Fantaskink/SOTC",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "An  in-progress decompilation of the preview version of Shadow of the Colossus on the PlayStation 2",
+                    "homepage": null,
+                    "id": 817263841,
+                    "language": "C",
+                    "license": "MIT",
+                    "last_commit": "2026-03-02T09:24:05Z",
+                    "open_issues": 1,
+                    "owner": "Fantaskink",
+                    "repo": "SOTC",
+                    "stars": 123,
+                    "topics": [
+                      "decompilation",
+                      "mips",
+                      "playstation",
+                      "playstation-2",
+                      "ps2",
+                      "ps2sdk",
+                      "reverse-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
                 },
@@ -5705,35 +5734,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Shadow of the Colossus",
-                  "description": "Fantaskink/SOTC",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An  in-progress decompilation of the preview version of Shadow of the Colossus on the PlayStation 2",
-                    "homepage": null,
-                    "id": 817263841,
-                    "language": "C",
-                    "license": "MIT",
-                    "last_commit": "2026-03-02T09:24:05Z",
-                    "open_issues": 1,
-                    "owner": "Fantaskink",
-                    "repo": "SOTC",
-                    "stars": 118,
-                    "topics": [
-                      "decompilation",
-                      "mips",
-                      "playstation",
-                      "playstation-2",
-                      "ps2",
-                      "ps2sdk",
-                      "reverse-engineering"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T01:58:26.116Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Grand Theft Auto 2",
                   "description": "CriminalRETeam/gta2_re",
                   "children": [],
@@ -5744,11 +5744,11 @@
                     "id": 859324578,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-10-13T11:51:43Z",
+                    "last_commit": "2026-10-14T20:16:03Z",
                     "open_issues": 4,
                     "owner": "CriminalRETeam",
                     "repo": "gta2_re",
-                    "stars": 116,
+                    "stars": 117,
                     "topics": [
                       "cpp",
                       "decompilation",
@@ -5812,11 +5812,11 @@
                     "id": 501673936,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-13T22:53:21Z",
+                    "last_commit": "2026-10-14T19:06:21Z",
                     "open_issues": 14,
                     "owner": "openblack",
                     "repo": "bw1-decomp",
-                    "stars": 92,
+                    "stars": 94,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
@@ -5837,7 +5837,7 @@
                     "open_issues": 3,
                     "owner": "InfiniteC0re",
                     "repo": "OpenBarnyard",
-                    "stars": 89,
+                    "stars": 90,
                     "topics": [
                       "disassembly",
                       "game-development",
@@ -5859,11 +5859,11 @@
                     "id": 628511134,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-10-13T20:27:27Z",
-                    "open_issues": 14,
+                    "last_commit": "2026-10-14T21:48:34Z",
+                    "open_issues": 15,
                     "owner": "TheMoonPeople",
                     "repo": "Chronicle",
-                    "stars": 87,
+                    "stars": 90,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
@@ -5954,7 +5954,7 @@
                     "open_issues": 15,
                     "owner": "jdperos",
                     "repo": "chrono-cross-decomp",
-                    "stars": 72,
+                    "stars": 73,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
@@ -5992,8 +5992,8 @@
                     "id": 676657519,
                     "language": "C",
                     "license": "MIT",
-                    "last_commit": "2026-10-12T00:31:23Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-10-14T13:41:26Z",
+                    "open_issues": 6,
                     "owner": "metroidret",
                     "repo": "mf",
                     "stars": 67,
@@ -6233,7 +6233,7 @@
                     "open_issues": 4,
                     "owner": "RocketRet",
                     "repo": "Rocket-Robot-On-Wheels",
-                    "stars": 47,
+                    "stars": 46,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
@@ -6402,7 +6402,7 @@
                     "id": 1064409041,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-13T21:27:42Z",
+                    "last_commit": "2026-10-14T01:28:44Z",
                     "open_issues": 2,
                     "owner": "2Tie",
                     "repo": "mh1j",
@@ -6434,6 +6434,27 @@
                       "nintendo-64",
                       "reverse-engineering"
                     ]
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Final Fantasy Crystal Chronicles",
+                  "description": "zcanann/FFCC-Decomp",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Final Fantasy Crystal Chronicles Decompilation",
+                    "homepage": null,
+                    "id": 1102117447,
+                    "language": "C",
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-10-11T01:23:48Z",
+                    "open_issues": 8,
+                    "owner": "zcanann",
+                    "repo": "FFCC-Decomp",
+                    "stars": 41,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
                 },
@@ -6487,27 +6508,6 @@
                       "recomp",
                       "recompilation"
                     ]
-                  },
-                  "first_seen": "2026-08-29T01:58:26.116Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Final Fantasy Crystal Chronicles",
-                  "description": "zcanann/FFCC-Decomp",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Final Fantasy Crystal Chronicles Decompilation",
-                    "homepage": null,
-                    "id": 1102117447,
-                    "language": "C",
-                    "license": "CC0-1.0",
-                    "last_commit": "2026-10-11T01:23:48Z",
-                    "open_issues": 8,
-                    "owner": "zcanann",
-                    "repo": "FFCC-Decomp",
-                    "stars": 40,
-                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
                 },
@@ -6712,7 +6712,7 @@
                     "id": 978028865,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-10-12T21:47:38Z",
+                    "last_commit": "2026-10-14T04:59:52Z",
                     "open_issues": 7,
                     "owner": "aloaf812",
                     "repo": "GD",
@@ -6791,7 +6791,7 @@
                     "id": 853599652,
                     "language": "C",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-13T13:38:02Z",
+                    "last_commit": "2026-10-14T12:19:11Z",
                     "open_issues": 0,
                     "owner": "sozud",
                     "repo": "mmx4",
@@ -7011,7 +7011,7 @@
                     "id": 1031050686,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-12T18:17:51Z",
+                    "last_commit": "2026-10-14T11:51:50Z",
                     "open_issues": 0,
                     "owner": "hansbonini",
                     "repo": "psx_tomba",
@@ -7430,6 +7430,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Touhou 08: Imperishable Night",
+                  "description": "GensokyoClub/th08",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1358405039,
+                    "language": "C++",
+                    "license": "MIT",
+                    "last_commit": "2026-10-06T22:07:07Z",
+                    "open_issues": 0,
+                    "owner": "GensokyoClub",
+                    "repo": "th08",
+                    "stars": 23,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-05T20:55:15.291Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Burnout Paradise",
                   "description": "BurnoutHints/b5-decomp",
                   "children": [],
@@ -7511,27 +7532,6 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Touhou 08: Imperishable Night",
-                  "description": "GensokyoClub/th08",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 1358405039,
-                    "language": "C++",
-                    "license": "MIT",
-                    "last_commit": "2026-10-06T22:07:07Z",
-                    "open_issues": 0,
-                    "owner": "GensokyoClub",
-                    "repo": "th08",
-                    "stars": 21,
-                    "topics": []
-                  },
-                  "first_seen": "2026-09-05T20:55:15.291Z"
                 },
                 {
                   "node_type": "item",
@@ -8355,7 +8355,7 @@
                     "id": 938934394,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-10-13T18:21:23Z",
+                    "last_commit": "2026-10-14T09:21:51Z",
                     "open_issues": 0,
                     "owner": "Marvisak",
                     "repo": "mafia-re",
@@ -8688,6 +8688,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Cut The Rope",
+                  "description": "Bingies24/cuttherope-dx",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Fork of a CtRDX developer that may expand beyond 3.X.X. If you want this fork taken down for any reason, please send a message using a contact method on my website.",
+                    "homepage": null,
+                    "id": 1097801308,
+                    "language": "C#",
+                    "license": null,
+                    "last_commit": "2026-10-14T11:13:21Z",
+                    "open_issues": 1,
+                    "owner": "Bingies24",
+                    "repo": "cuttherope-dx",
+                    "stars": 8,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Diamond Rush",
                   "description": "palaceswitcher/Diamond-Rush-Decomp",
                   "children": [],
@@ -8722,7 +8743,7 @@
                     "id": 816042765,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-04T19:52:46Z",
+                    "last_commit": "2026-10-14T10:54:13Z",
                     "open_issues": 0,
                     "owner": "adipocira",
                     "repo": "doraemon1",
@@ -8747,6 +8768,27 @@
                     "open_issues": 0,
                     "owner": "NiyaDev",
                     "repo": "DWM",
+                    "stars": 8,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Mortal Kombat: Deadly Alliance",
+                  "description": "cScarletter/MK-3D-Era-Decompilation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Investigating and studying Mortal Kombat: Deadly Alliance, Deception, and Armageddon for all platforms",
+                    "homepage": null,
+                    "id": 884068025,
+                    "language": "C",
+                    "license": null,
+                    "last_commit": "2025-06-10T04:27:57Z",
+                    "open_issues": 0,
+                    "owner": "cScarletter",
+                    "repo": "MK-3D-Era-Decompilation",
                     "stars": 8,
                     "topics": []
                   },
@@ -8859,48 +8901,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Cut The Rope",
-                  "description": "Bingies24/cuttherope-dx",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Fork of a CtR:DX developer that may expand beyond 3.x.x.x. If you want this fork taken down for any reason, please send a message using a contact method on my website.",
-                    "homepage": null,
-                    "id": 1097801308,
-                    "language": "C#",
-                    "license": null,
-                    "last_commit": "2026-08-24T23:35:45Z",
-                    "open_issues": 1,
-                    "owner": "Bingies24",
-                    "repo": "cuttherope-dx",
-                    "stars": 7,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:58:26.116Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Mortal Kombat: Deadly Alliance",
-                  "description": "cScarletter/MK-3D-Era-Decompilation",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Investigating and studying Mortal Kombat: Deadly Alliance, Deception, and Armageddon for all platforms",
-                    "homepage": null,
-                    "id": 884068025,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2025-06-10T04:27:57Z",
-                    "open_issues": 0,
-                    "owner": "cScarletter",
-                    "repo": "MK-3D-Era-Decompilation",
-                    "stars": 7,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:58:26.116Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Nocturne",
                   "description": "NearlyTRex/NocturneDecomp",
                   "children": [],
@@ -8911,7 +8911,7 @@
                     "id": 1086792509,
                     "language": "Assembly",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-13T05:00:13Z",
+                    "last_commit": "2026-10-14T05:52:49Z",
                     "open_issues": 0,
                     "owner": "NearlyTRex",
                     "repo": "NocturneDecomp",
@@ -8986,6 +8986,30 @@
                       "reverse-engineering",
                       "thunder",
                       "wcw"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Wonder Project J2: Josette of the Corlo Forest",
+                  "description": "LLONSIT-glitch/wonder",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A work in progress decompilation of Wonder Project J2",
+                    "homepage": null,
+                    "id": 1106078247,
+                    "language": "C",
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-09-03T20:28:20Z",
+                    "open_issues": 1,
+                    "owner": "LLONSIT-glitch",
+                    "repo": "wonder",
+                    "stars": 7,
+                    "topics": [
+                      "decompilation",
+                      "n64"
                     ]
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
@@ -9136,7 +9160,7 @@
                     "id": 1291971917,
                     "language": "C++",
                     "license": "Unlicense",
-                    "last_commit": "2026-10-13T16:11:04Z",
+                    "last_commit": "2026-10-14T15:49:52Z",
                     "open_issues": 0,
                     "owner": "vonhoff",
                     "repo": "lemball-decomp",
@@ -9191,30 +9215,6 @@
                     "repo": "tnt",
                     "stars": 6,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:58:26.116Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Wonder Project J2: Josette of the Corlo Forest",
-                  "description": "LLONSIT-glitch/wonder",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A work in progress decompilation of Wonder Project J2",
-                    "homepage": null,
-                    "id": 1106078247,
-                    "language": "C",
-                    "license": "CC0-1.0",
-                    "last_commit": "2026-09-03T20:28:20Z",
-                    "open_issues": 1,
-                    "owner": "LLONSIT-glitch",
-                    "repo": "wonder",
-                    "stars": 6,
-                    "topics": [
-                      "decompilation",
-                      "n64"
-                    ]
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
                 },
@@ -9556,6 +9556,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Drakan: The Ancients' Gates",
+                  "description": "cScarletter/Drakan-The-Ancient-Gates-Decompilation-",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Investigating and decompiling Drakan: The Ancient Gates for PS2",
+                    "homepage": null,
+                    "id": 990321033,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2025-05-25T23:58:45Z",
+                    "open_issues": 0,
+                    "owner": "cScarletter",
+                    "repo": "Drakan-The-Ancient-Gates-Decompilation-",
+                    "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:58:26.116Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "F-Zero AX",
                   "description": "TheInfiniteLegend/f-0-ax",
                   "children": [],
@@ -9794,27 +9815,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Drakan: The Ancients' Gates",
-                  "description": "cScarletter/Drakan-The-Ancient-Gates-Decompilation-",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Investigating and decompiling Drakan: The Ancient Gates for PS2",
-                    "homepage": null,
-                    "id": 990321033,
-                    "language": null,
-                    "license": null,
-                    "last_commit": "2025-05-25T23:58:45Z",
-                    "open_issues": 0,
-                    "owner": "cScarletter",
-                    "repo": "Drakan-The-Ancient-Gates-Decompilation-",
-                    "stars": 2,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:58:26.116Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Fate EXTELLA",
                   "description": "bIue9076r/fate-extella-decompilation",
                   "children": [],
@@ -9941,6 +9941,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:26.116Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "⚠️ LEGO Batman: The Videogame",
+                  "description": "wasdhjklxyz/lbtvg",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A work-in-progress decompilation of LEGO® Batman™: The Videogame (2008, PC).",
+                    "homepage": "https://wasdhjklxyz.github.io/lbtvg/",
+                    "id": 1409756541,
+                    "language": "C++",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-11T01:26:34Z",
+                    "open_issues": 0,
+                    "owner": "wasdhjklxyz",
+                    "repo": "lbtvg",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-13T01:05:22.285Z"
                 },
                 {
                   "node_type": "item",
@@ -10373,27 +10394,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "⚠️ LEGO Batman: The Videogame",
-                  "description": "wasdhjklxyz/lbtvg",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A work-in-progress decompilation of LEGO® Batman™: The Videogame (2008, PC).",
-                    "homepage": "https://wasdhjklxyz.github.io/lbtvg/",
-                    "id": 1409756541,
-                    "language": "C++",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-10-11T01:26:34Z",
-                    "open_issues": 0,
-                    "owner": "wasdhjklxyz",
-                    "repo": "lbtvg",
-                    "stars": 0,
-                    "topics": []
-                  },
-                  "first_seen": "2026-10-13T01:05:22.285Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Lock's Quest",
                   "description": "redraincatching/locksmith",
                   "children": [],
@@ -10467,7 +10467,7 @@
                     "id": 1034894263,
                     "language": "HTML",
                     "license": null,
-                    "last_commit": "2026-10-13T20:39:33Z",
+                    "last_commit": "2026-10-14T20:55:40Z",
                     "open_issues": 0,
                     "owner": "Jhuyghue",
                     "repo": "donburi-decomp",
@@ -10475,7 +10475,9 @@
                     "topics": [
                       "coding-reference",
                       "documentations",
+                      "macromedia-director",
                       "research-project",
+                      "reverse-engineering",
                       "software-architecture"
                     ]
                   },
@@ -10496,7 +10498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:10:54.781Z",
+    "last_updated": "2026-10-14T22:01:52.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome game decompilations, recompilations and disassemblies.",
@@ -10505,10 +10507,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-12T21:05:49Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "CharlotteCross1998",
       "repo": "awesome-game-decompilations",
-      "stars": 689,
+      "stars": 697,
       "topics": [
         "awesome",
         "awesome-list",
